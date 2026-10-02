@@ -44,14 +44,14 @@ Then, from `<target>/revision`:
 | Tables 5–6 (ablations, assignments) | `python rbo_v2/analyze_ext.py` |
 | Table 8, Appendix D (KoAlpaca350) | `python rbo_v2/analyze_koalpaca350.py` |
 | Table 9 (human evaluation) | `python human_eval_2026_10/analyze.py human_eval_2026_10/returns --nine` |
-| Section 6.1 post hoc analyses | `python manuscript_v3/ifeval_coverage.py` |
-| Section 6.5 rater sensitivity | `python manuscript_v3/human_sensitivity.py` |
-| Calls, tokens and times (Tables 4, 7) | `python manuscript_v3/resources.py` |
-| Figure 2 | `python manuscript_v3/figures.py` |
+| Section 6.1 post hoc analyses | `python manuscript/ifeval_coverage.py` |
+| Section 6.5 rater sensitivity | `python manuscript/human_sensitivity.py` |
+| Calls, tokens and times (Tables 4, 7) | `python manuscript/resources.py` |
+| Figure 2 | `python manuscript/figures.py` |
 | Table 7 (KorQuAD, HRM8K) | `python rbo_v2/analyze_mathqa.py korquad` and `... hrm8k` (see below) |
 | Lock verification | `python verify_locks.py` (run in the package root, not in the layout) |
 
-`analyze_mathqa.py` first checks `MATHQA_LOCK.json`, which includes the KorQuAD bank. KorQuAD contexts are not redistributed (CC BY-ND 4.0), so rebuild the bank before running it: download the KorQuAD 1.0 validation rows from `KorQuAD/squad_kor_v1` into `rbo_s_v1/korquad_v1_validation.json` and run `python rbo_s_v1/build_korquad_bank.py`. A rebuilt bank that matches the lock hash confirms the item set. `reconstruct_prompt_tokens.py` also needs this bank.
+`analyze_mathqa.py` first checks `MATHQA_LOCK.json`, which includes the KorQuAD bank. KorQuAD contexts are not redistributed (CC BY-ND 4.0), so restore the bank before running it. Download the KorQuAD 1.0 validation split (`KorQuAD/squad_kor_v1`, 5,774 rows) as a JSON list of rows with fields `id`, `title`, `context`, `question` and `answers` into `rbo_s_v1/korquad_v1_validation.json`, then run `python rbo_s_v1/restore_korquad_bank.py rbo_s_v1/korquad_v1_validation.json`. The script selects the 950 released GUIDs (`bank_korquad_ids.jsonl`) in their released order, writes `bank_korquad.jsonl` with the fields `guid`, `title`, `question`, `instruction` (the question followed by the fixed answer-only instruction), `context` and `answers` (one JSON object per line, keys sorted, UTF-8, LF), and prints its SHA-256, which must equal the value in `MATHQA_LOCK.json`. For reference, the original selection (`build_korquad_bank.py`) used validation rows 0-5,699 (rows 5,700-5,773 were not downloaded because of rate limiting, decided before any output), skipped contexts longer than 3,000 characters, kept one question per distinct context (the one with the smallest salted SHA-256 of its ID) and ordered the bank by a second salted hash (salt in the script); it therefore needs exactly those 5,700 rows, whereas the GUID-based script works from the full split. `reconstruct_prompt_tokens.py` also needs this bank.
 
 The judging runner `rbo_s_v1/gen_eval.py` imports modules from an earlier experiment that are not part of this paper. To re-judge pairs, call `gen_judge.judge_pair(item, text_a, text_b)` directly with the outputs in `rbo_s_v1/runs/`.
 
