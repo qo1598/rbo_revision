@@ -1,0 +1,1883 @@
+{
+  "bootstrap": {
+    "interval": "percentile 95% for ratio of totals",
+    "replicates": 5000,
+    "seed_base": 20260921,
+    "unit": "whole item_id"
+  },
+  "groups": [
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 0,
+      "completion_ceiling_rate": 0.0,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.0
+      ],
+      "completion_tokens": 9256,
+      "control_framing_codepoints": 9873,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 186.9862574,
+      "group": "source_run=fixed_upstream_mechanism | model=A.X-4.0-Light-Q5_K_M.gguf | role=reviser | stage=reviser | route=Complex | condition=R2",
+      "hangul_output_codepoints": 12406,
+      "hangul_prompt_codepoints": 19224,
+      "inherited_generation_codepoints": 32157,
+      "output_raw_codepoints": 25743,
+      "output_tokens_per_codepoint_cluster95": [
+        0.34256680986407195,
+        0.3736403911192915
+      ],
+      "output_tokens_per_codepoint_median": 0.36043956043956044,
+      "output_tokens_per_codepoint_q1": 0.34065934065934067,
+      "output_tokens_per_codepoint_q3": 0.3945945945945946,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.35955405352911474,
+      "prompt_codepoints": 44043,
+      "prompt_tokens": 17964,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.39033092375091777,
+        0.42739950234007956
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4225663716814159,
+      "prompt_tokens_per_codepoint_q1": 0.4010600706713781,
+      "prompt_tokens_per_codepoint_q3": 0.4394250513347023,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.40787412301614334,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 987,
+      "completion_ceiling_calls": 2,
+      "completion_ceiling_rate": 0.002026342451874367,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.005065856129685917
+      ],
+      "completion_tokens": 86470,
+      "control_framing_codepoints": 155490,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 1756.8418305,
+      "group": "source_run=fixed_upstream_mechanism | model=A.X-4.0-Light-Q5_K_M.gguf | role=reviser | stage=reviser | route=Simple | condition=R2",
+      "hangul_output_codepoints": 119971,
+      "hangul_prompt_codepoints": 206844,
+      "inherited_generation_codepoints": 240810,
+      "output_raw_codepoints": 221894,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3820491522114141,
+        0.39770914066748136
+      ],
+      "output_tokens_per_codepoint_median": 0.39663461538461536,
+      "output_tokens_per_codepoint_q1": 0.3573614208289131,
+      "output_tokens_per_codepoint_q3": 0.4722222222222222,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.38969057297628595,
+      "prompt_codepoints": 426123,
+      "prompt_tokens": 192318,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.44541649130161387,
+        0.4570915141545193
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4573170731707317,
+      "prompt_tokens_per_codepoint_q1": 0.42780748663101603,
+      "prompt_tokens_per_codepoint_q3": 0.5011990407673861,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.45132039340753727,
+      "source_codepoints": 29823,
+      "unique_items": 329
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 0,
+      "completion_ceiling_rate": 0.0,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.0
+      ],
+      "completion_tokens": 8012,
+      "control_framing_codepoints": 9873,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 75.7836421,
+      "group": "source_run=fixed_upstream_mechanism | model=hyperclova-3b-Q4_K_M | role=reviser | stage=critiquer | route=Complex | condition=empty_Cr",
+      "hangul_output_codepoints": 10273,
+      "hangul_prompt_codepoints": 16257,
+      "inherited_generation_codepoints": 21696,
+      "output_raw_codepoints": 19291,
+      "output_tokens_per_codepoint_cluster95": [
+        0.36702015377946035,
+        0.46805472962128386
+      ],
+      "output_tokens_per_codepoint_median": 0.4618055555555556,
+      "output_tokens_per_codepoint_q1": 0.43021535912909714,
+      "output_tokens_per_codepoint_q3": 0.49052836572507674,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4153232077134415,
+      "prompt_codepoints": 33582,
+      "prompt_tokens": 15375,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.41860404427829295,
+        0.49412903866996694
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4785276073619632,
+      "prompt_tokens_per_codepoint_q1": 0.4645061728395062,
+      "prompt_tokens_per_codepoint_q3": 0.5026041666666666,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4578345542254779,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 2,
+      "completion_ceiling_rate": 0.031746031746031744,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.07936507936507936
+      ],
+      "completion_tokens": 10432,
+      "control_framing_codepoints": 9873,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 102.5487385,
+      "group": "source_run=fixed_upstream_mechanism | model=hyperclova-3b-Q4_K_M | role=reviser | stage=critiquer | route=Complex | condition=with_Cr",
+      "hangul_output_codepoints": 12136,
+      "hangul_prompt_codepoints": 19224,
+      "inherited_generation_codepoints": 32157,
+      "output_raw_codepoints": 25454,
+      "output_tokens_per_codepoint_cluster95": [
+        0.36605756980659376,
+        0.45780322077832236
+      ],
+      "output_tokens_per_codepoint_median": 0.4612676056338028,
+      "output_tokens_per_codepoint_q1": 0.43387289516567085,
+      "output_tokens_per_codepoint_q3": 0.49300106710187686,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4098373536575784,
+      "prompt_codepoints": 44043,
+      "prompt_tokens": 19248,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4063024017727589,
+        0.4770085174603821
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4784394250513347,
+      "prompt_tokens_per_codepoint_q1": 0.44221105527638194,
+      "prompt_tokens_per_codepoint_q3": 0.5026178010471204,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4370274504461549,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 0,
+      "completion_ceiling_rate": 0.0,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.0
+      ],
+      "completion_tokens": 9756,
+      "control_framing_codepoints": 9873,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 93.4198762,
+      "group": "source_run=fixed_upstream_mechanism | model=hyperclova-3b-Q4_K_M | role=reviser | stage=reviser | route=Complex | condition=R1",
+      "hangul_output_codepoints": 11035,
+      "hangul_prompt_codepoints": 19224,
+      "inherited_generation_codepoints": 32157,
+      "output_raw_codepoints": 24718,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3492218229773567,
+        0.45241535799400695
+      ],
+      "output_tokens_per_codepoint_median": 0.4563106796116505,
+      "output_tokens_per_codepoint_q1": 0.4266304347826087,
+      "output_tokens_per_codepoint_q3": 0.48000454442172236,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3946921271947569,
+      "prompt_codepoints": 44043,
+      "prompt_tokens": 19248,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4063024017727589,
+        0.4770085174603821
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4784394250513347,
+      "prompt_tokens_per_codepoint_q1": 0.44221105527638194,
+      "prompt_tokens_per_codepoint_q3": 0.5026178010471204,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4370274504461549,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 987,
+      "completion_ceiling_calls": 3,
+      "completion_ceiling_rate": 0.00303951367781155,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.0070921985815602835
+      ],
+      "completion_tokens": 95045,
+      "control_framing_codepoints": 155490,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 919.5971895,
+      "group": "source_run=fixed_upstream_mechanism | model=hyperclova-3b-Q4_K_M | role=reviser | stage=reviser | route=Simple | condition=R1",
+      "hangul_output_codepoints": 115009,
+      "hangul_prompt_codepoints": 206844,
+      "inherited_generation_codepoints": 240810,
+      "output_raw_codepoints": 207508,
+      "output_tokens_per_codepoint_cluster95": [
+        0.4470318322911323,
+        0.468941655542667
+      ],
+      "output_tokens_per_codepoint_median": 0.4879807692307692,
+      "output_tokens_per_codepoint_q1": 0.44033116597327754,
+      "output_tokens_per_codepoint_q3": 0.5603448275862069,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.45803053376255376,
+      "prompt_codepoints": 426123,
+      "prompt_tokens": 207855,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.48069465101800996,
+        0.49428036838452544
+      ],
+      "prompt_tokens_per_codepoint_median": 0.49696969696969695,
+      "prompt_tokens_per_codepoint_q1": 0.4716417910447761,
+      "prompt_tokens_per_codepoint_q3": 0.5251396648044693,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.48778169683401273,
+      "source_codepoints": 29823,
+      "unique_items": 329
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 6,
+      "completion_ceiling_rate": 0.09523809523809523,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.2222222222222222
+      ],
+      "completion_tokens": 7189,
+      "control_framing_codepoints": 13527,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 181.5728478,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=generator | stage=g | route=Complex | condition=rbo_original_semantics",
+      "hangul_output_codepoints": 12572,
+      "hangul_prompt_codepoints": 6060,
+      "inherited_generation_codepoints": 0,
+      "output_raw_codepoints": 19119,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3612086215033132,
+        0.3914736226795358
+      ],
+      "output_tokens_per_codepoint_median": 0.3669950738916256,
+      "output_tokens_per_codepoint_q1": 0.34164242620124974,
+      "output_tokens_per_codepoint_q3": 0.39836026042922595,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3760133898216434,
+      "prompt_codepoints": 17574,
+      "prompt_tokens": 8160,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.45308006893307057,
+        0.47494943444011256
+      ],
+      "prompt_tokens_per_codepoint_median": 0.46987951807228917,
+      "prompt_tokens_per_codepoint_q1": 0.45454545454545453,
+      "prompt_tokens_per_codepoint_q3": 0.4819277108433735,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.46432229429839533,
+      "source_codepoints": 4047,
+      "unique_items": 21
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 7,
+      "completion_ceiling_rate": 0.1111111111111111,
+      "completion_ceiling_rate_cluster95": [
+        0.015873015873015872,
+        0.23809523809523808
+      ],
+      "completion_tokens": 7112,
+      "control_framing_codepoints": 13527,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 345.2612823,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=generator | stage=g | route=Complex | condition=self_refine",
+      "hangul_output_codepoints": 12363,
+      "hangul_prompt_codepoints": 6060,
+      "inherited_generation_codepoints": 0,
+      "output_raw_codepoints": 18802,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3611592717060215,
+        0.39491366209764206
+      ],
+      "output_tokens_per_codepoint_median": 0.35802469135802467,
+      "output_tokens_per_codepoint_q1": 0.3405606555067734,
+      "output_tokens_per_codepoint_q3": 0.40926986399427345,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.37825763216679076,
+      "prompt_codepoints": 17574,
+      "prompt_tokens": 8160,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.45308006893307057,
+        0.47494943444011256
+      ],
+      "prompt_tokens_per_codepoint_median": 0.46987951807228917,
+      "prompt_tokens_per_codepoint_q1": 0.45454545454545453,
+      "prompt_tokens_per_codepoint_q3": 0.4819277108433735,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.46432229429839533,
+      "source_codepoints": 4047,
+      "unique_items": 21
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 8,
+      "completion_ceiling_rate": 0.12698412698412698,
+      "completion_ceiling_rate_cluster95": [
+        0.031746031746031744,
+        0.25396825396825395
+      ],
+      "completion_tokens": 7024,
+      "control_framing_codepoints": 13527,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 399.2941683,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=generator | stage=g | route=Complex | condition=single",
+      "hangul_output_codepoints": 12203,
+      "hangul_prompt_codepoints": 6060,
+      "inherited_generation_codepoints": 0,
+      "output_raw_codepoints": 18528,
+      "output_tokens_per_codepoint_cluster95": [
+        0.36439435402122894,
+        0.3948082200352301
+      ],
+      "output_tokens_per_codepoint_median": 0.3700440528634361,
+      "output_tokens_per_codepoint_q1": 0.34878993357038507,
+      "output_tokens_per_codepoint_q3": 0.4002487562189055,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3791018998272884,
+      "prompt_codepoints": 17574,
+      "prompt_tokens": 8160,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.45308006893307057,
+        0.47494943444011256
+      ],
+      "prompt_tokens_per_codepoint_median": 0.46987951807228917,
+      "prompt_tokens_per_codepoint_q1": 0.45454545454545453,
+      "prompt_tokens_per_codepoint_q3": 0.4819277108433735,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.46432229429839533,
+      "source_codepoints": 4047,
+      "unique_items": 21
+    },
+    {
+      "calls": 945,
+      "completion_ceiling_calls": 103,
+      "completion_ceiling_rate": 0.10899470899470899,
+      "completion_ceiling_rate_cluster95": [
+        0.08039682539682541,
+        0.13968253968253969
+      ],
+      "completion_tokens": 88773,
+      "control_framing_codepoints": 203673,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 2319.6481568,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=generator | stage=g | route=Simple | condition=rbo_original_semantics",
+      "hangul_output_codepoints": 129617,
+      "hangul_prompt_codepoints": 76695,
+      "inherited_generation_codepoints": 0,
+      "output_raw_codepoints": 222258,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3928643537468026,
+        0.4065036456468301
+      ],
+      "output_tokens_per_codepoint_median": 0.3938053097345133,
+      "output_tokens_per_codepoint_q1": 0.3604060913705584,
+      "output_tokens_per_codepoint_q3": 0.4444444444444444,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3994141943147153,
+      "prompt_codepoints": 245571,
+      "prompt_tokens": 116898,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.47412633647062097,
+        0.4778977830003555
+      ],
+      "prompt_tokens_per_codepoint_median": 0.47717842323651455,
+      "prompt_tokens_per_codepoint_q1": 0.4701195219123506,
+      "prompt_tokens_per_codepoint_q3": 0.48535564853556484,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4760252635693954,
+      "source_codepoints": 41898,
+      "unique_items": 315
+    },
+    {
+      "calls": 945,
+      "completion_ceiling_calls": 112,
+      "completion_ceiling_rate": 0.11851851851851852,
+      "completion_ceiling_rate_cluster95": [
+        0.08886243386243388,
+        0.15132275132275133
+      ],
+      "completion_tokens": 89025,
+      "control_framing_codepoints": 203673,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 3363.7686325,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=generator | stage=g | route=Simple | condition=self_refine",
+      "hangul_output_codepoints": 129989,
+      "hangul_prompt_codepoints": 76695,
+      "inherited_generation_codepoints": 0,
+      "output_raw_codepoints": 222918,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3926212822103993,
+        0.40663205318873463
+      ],
+      "output_tokens_per_codepoint_median": 0.39420289855072466,
+      "output_tokens_per_codepoint_q1": 0.3577023498694517,
+      "output_tokens_per_codepoint_q3": 0.4444444444444444,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.39936209727343686,
+      "prompt_codepoints": 245571,
+      "prompt_tokens": 116898,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.47412633647062097,
+        0.4778977830003555
+      ],
+      "prompt_tokens_per_codepoint_median": 0.47717842323651455,
+      "prompt_tokens_per_codepoint_q1": 0.4701195219123506,
+      "prompt_tokens_per_codepoint_q3": 0.48535564853556484,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4760252635693954,
+      "source_codepoints": 41898,
+      "unique_items": 315
+    },
+    {
+      "calls": 945,
+      "completion_ceiling_calls": 110,
+      "completion_ceiling_rate": 0.1164021164021164,
+      "completion_ceiling_rate_cluster95": [
+        0.08677248677248678,
+        0.14814814814814814
+      ],
+      "completion_tokens": 88949,
+      "control_framing_codepoints": 203673,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 3367.2888437,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=generator | stage=g | route=Simple | condition=single",
+      "hangul_output_codepoints": 129107,
+      "hangul_prompt_codepoints": 76695,
+      "inherited_generation_codepoints": 0,
+      "output_raw_codepoints": 222538,
+      "output_tokens_per_codepoint_cluster95": [
+        0.39282279371101037,
+        0.4071324395697186
+      ],
+      "output_tokens_per_codepoint_median": 0.39545454545454545,
+      "output_tokens_per_codepoint_q1": 0.36,
+      "output_tokens_per_codepoint_q3": 0.4496487119437939,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.39970252271522166,
+      "prompt_codepoints": 245571,
+      "prompt_tokens": 116898,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.47412633647062097,
+        0.4778977830003555
+      ],
+      "prompt_tokens_per_codepoint_median": 0.47717842323651455,
+      "prompt_tokens_per_codepoint_q1": 0.4701195219123506,
+      "prompt_tokens_per_codepoint_q3": 0.48535564853556484,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4760252635693954,
+      "source_codepoints": 41898,
+      "unique_items": 315
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 11,
+      "completion_ceiling_rate": 0.1746031746031746,
+      "completion_ceiling_rate_cluster95": [
+        0.06349206349206349,
+        0.30158730158730157
+      ],
+      "completion_tokens": 12430,
+      "control_framing_codepoints": 14490,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 264.721535,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=self_feedback | stage=self_critique | route=Complex | condition=self_refine",
+      "hangul_output_codepoints": 15210,
+      "hangul_prompt_codepoints": 19746,
+      "inherited_generation_codepoints": 18802,
+      "output_raw_codepoints": 33336,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3504902865417643,
+        0.38956533301634994
+      ],
+      "output_tokens_per_codepoint_median": 0.3832236842105263,
+      "output_tokens_per_codepoint_q1": 0.3706095258534435,
+      "output_tokens_per_codepoint_q3": 0.3978103674060337,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3728701703863691,
+      "prompt_codepoints": 37339,
+      "prompt_tokens": 15418,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4022600562074482,
+        0.42416276331265973
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4078125,
+      "prompt_tokens_per_codepoint_q1": 0.3930110422838675,
+      "prompt_tokens_per_codepoint_q3": 0.4346153846153846,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4129194675808136,
+      "source_codepoints": 4047,
+      "unique_items": 21
+    },
+    {
+      "calls": 945,
+      "completion_ceiling_calls": 122,
+      "completion_ceiling_rate": 0.1291005291005291,
+      "completion_ceiling_rate_cluster95": [
+        0.10582010582010581,
+        0.15343915343915343
+      ],
+      "completion_tokens": 174551,
+      "control_framing_codepoints": 217350,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 3702.7927229,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=self_feedback | stage=self_critique | route=Simple | condition=self_refine",
+      "hangul_output_codepoints": 190861,
+      "hangul_prompt_codepoints": 226529,
+      "inherited_generation_codepoints": 222898,
+      "output_raw_codepoints": 477931,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3587228305690337,
+        0.3718120611673441
+      ],
+      "output_tokens_per_codepoint_median": 0.3870967741935484,
+      "output_tokens_per_codepoint_q1": 0.3709677419354839,
+      "output_tokens_per_codepoint_q3": 0.4043321299638989,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.36522217642295646,
+      "prompt_codepoints": 482146,
+      "prompt_tokens": 207477,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.426689061522069,
+        0.43424911106207364
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4292237442922374,
+      "prompt_tokens_per_codepoint_q1": 0.4084507042253521,
+      "prompt_tokens_per_codepoint_q3": 0.45382585751978893,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4303198616186798,
+      "source_codepoints": 41898,
+      "unique_items": 315
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 5,
+      "completion_ceiling_rate": 0.07936507936507936,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.19047619047619047
+      ],
+      "completion_tokens": 15567,
+      "control_framing_codepoints": 7623,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 334.4099385,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=self_reviser | stage=self_revise | route=Complex | condition=self_refine",
+      "hangul_output_codepoints": 27340,
+      "hangul_prompt_codepoints": 34326,
+      "inherited_generation_codepoints": 52138,
+      "output_raw_codepoints": 42120,
+      "output_tokens_per_codepoint_cluster95": [
+        0.35614664068310325,
+        0.3859624043877543
+      ],
+      "output_tokens_per_codepoint_median": 0.3581135091926459,
+      "output_tokens_per_codepoint_q1": 0.34655284568374833,
+      "output_tokens_per_codepoint_q3": 0.39443141128534387,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3695868945868946,
+      "prompt_codepoints": 63808,
+      "prompt_tokens": 25279,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.3810820310796887,
+        0.4094950957921154
+      ],
+      "prompt_tokens_per_codepoint_median": 0.39595050618672667,
+      "prompt_tokens_per_codepoint_q1": 0.381890811172782,
+      "prompt_tokens_per_codepoint_q3": 0.4251613811687917,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.39617289368104314,
+      "source_codepoints": 4047,
+      "unique_items": 21
+    },
+    {
+      "calls": 945,
+      "completion_ceiling_calls": 86,
+      "completion_ceiling_rate": 0.091005291005291,
+      "completion_ceiling_rate_cluster95": [
+        0.0656084656084656,
+        0.11957671957671957
+      ],
+      "completion_tokens": 189074,
+      "control_framing_codepoints": 114345,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 4058.7248506,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf | role=self_reviser | stage=self_revise | route=Simple | condition=self_refine",
+      "hangul_output_codepoints": 275674,
+      "hangul_prompt_codepoints": 407940,
+      "inherited_generation_codepoints": 700806,
+      "output_raw_codepoints": 485806,
+      "output_tokens_per_codepoint_cluster95": [
+        0.38353177077627487,
+        0.3950987858286944
+      ],
+      "output_tokens_per_codepoint_median": 0.38801261829652994,
+      "output_tokens_per_codepoint_q1": 0.3564625850340136,
+      "output_tokens_per_codepoint_q3": 0.4332688588007737,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3891965105412449,
+      "prompt_codepoints": 857049,
+      "prompt_tokens": 343402,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.3960296642509267,
+        0.40520881068993236
+      ],
+      "prompt_tokens_per_codepoint_median": 0.40825035561877665,
+      "prompt_tokens_per_codepoint_q1": 0.3906810035842294,
+      "prompt_tokens_per_codepoint_q3": 0.43272425249169433,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4006795410764145,
+      "source_codepoints": 41898,
+      "unique_items": 315
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 10,
+      "completion_ceiling_rate": 0.15873015873015872,
+      "completion_ceiling_rate_cluster95": [
+        0.07936507936507936,
+        0.25396825396825395
+      ],
+      "completion_tokens": 10831,
+      "control_framing_codepoints": 13401,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 296.1564549,
+      "group": "source_run=prospective_primary | model=Midm-2.0-Mini-Instruct-Q5_K_M | role=critiquer | stage=critique | route=Complex | condition=rbo_original_semantics",
+      "hangul_output_codepoints": 6011,
+      "hangul_prompt_codepoints": 15560,
+      "inherited_generation_codepoints": 19119,
+      "output_raw_codepoints": 40454,
+      "output_tokens_per_codepoint_cluster95": [
+        0.24281911185487,
+        0.29644752757002385
+      ],
+      "output_tokens_per_codepoint_median": 0.36792452830188677,
+      "output_tokens_per_codepoint_q1": 0.21459870991750915,
+      "output_tokens_per_codepoint_q3": 0.3897114336045634,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.2677361941958768,
+      "prompt_codepoints": 34533,
+      "prompt_tokens": 46356,
+      "prompt_tokens_per_codepoint_cluster95": [
+        1.2747864360419556,
+        1.423338993653805
+      ],
+      "prompt_tokens_per_codepoint_median": 1.3850574712643677,
+      "prompt_tokens_per_codepoint_q1": 1.1980515367268858,
+      "prompt_tokens_per_codepoint_q3": 1.4991311014566828,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 1.3423681695769265,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 23,
+      "completion_ceiling_rate": 0.36507936507936506,
+      "completion_ceiling_rate_cluster95": [
+        0.23809523809523808,
+        0.49206349206349204
+      ],
+      "completion_tokens": 8471,
+      "control_framing_codepoints": 9873,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 190.8657305,
+      "group": "source_run=prospective_primary | model=hyperclova-3b-Q4_K_M | role=reviser | stage=revise | route=Complex | condition=rbo_original_semantics",
+      "hangul_output_codepoints": 10189,
+      "hangul_prompt_codepoints": 23083,
+      "inherited_generation_codepoints": 59573,
+      "output_raw_codepoints": 22225,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3435160244665032,
+        0.41895455176783847
+      ],
+      "output_tokens_per_codepoint_median": 0.43034825870646765,
+      "output_tokens_per_codepoint_q1": 0.4035305889079474,
+      "output_tokens_per_codepoint_q3": 0.47002984430620975,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3811473565804274,
+      "prompt_codepoints": 71459,
+      "prompt_tokens": 26178,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.3386999757874157,
+        0.395902869009568
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4327731092436975,
+      "prompt_tokens_per_codepoint_q1": 0.3006875706408193,
+      "prompt_tokens_per_codepoint_q3": 0.459461766307106,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.3663359408891812,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 945,
+      "completion_ceiling_calls": 110,
+      "completion_ceiling_rate": 0.1164021164021164,
+      "completion_ceiling_rate_cluster95": [
+        0.08783068783068783,
+        0.14708994708994708
+      ],
+      "completion_tokens": 84209,
+      "control_framing_codepoints": 148863,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 3460.1423139,
+      "group": "source_run=prospective_primary | model=hyperclova-3b-Q4_K_M | role=reviser | stage=revise | route=Simple | condition=rbo_original_semantics",
+      "hangul_output_codepoints": 103693,
+      "hangul_prompt_codepoints": 195845,
+      "inherited_generation_codepoints": 224118,
+      "output_raw_codepoints": 181866,
+      "output_tokens_per_codepoint_cluster95": [
+        0.4534078258226954,
+        0.47297576216460163
+      ],
+      "output_tokens_per_codepoint_median": 0.4846153846153846,
+      "output_tokens_per_codepoint_q1": 0.4349442379182156,
+      "output_tokens_per_codepoint_q3": 0.553314121037464,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.46302772370866463,
+      "prompt_codepoints": 401652,
+      "prompt_tokens": 197186,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4855758531228276,
+        0.4961983333822518
+      ],
+      "prompt_tokens_per_codepoint_median": 0.49759229534510435,
+      "prompt_tokens_per_codepoint_q1": 0.4697986577181208,
+      "prompt_tokens_per_codepoint_q3": 0.5223529411764706,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4909374284206228,
+      "source_codepoints": 28671,
+      "unique_items": 315
+    },
+    {
+      "calls": 43,
+      "completion_ceiling_calls": 18,
+      "completion_ceiling_rate": 0.4186046511627907,
+      "completion_ceiling_rate_cluster95": [
+        0.2926829268292683,
+        0.55
+      ],
+      "completion_tokens": 6303,
+      "control_framing_codepoints": 9848,
+      "dimension": "detailed",
+      "elapsed_wall_seconds": 63.6639879,
+      "group": "source_run=prospective_primary | model=hyperclova-3b-Q4_K_M | role=reviser_retry | stage=retry | route=Complex | condition=rbo_original_semantics",
+      "hangul_output_codepoints": 7321,
+      "hangul_prompt_codepoints": 12225,
+      "inherited_generation_codepoints": 17668,
+      "output_raw_codepoints": 16610,
+      "output_tokens_per_codepoint_cluster95": [
+        0.33460736638405797,
+        0.42371752901762383
+      ],
+      "output_tokens_per_codepoint_median": 0.4247787610619469,
+      "output_tokens_per_codepoint_q1": 0.39752234391409647,
+      "output_tokens_per_codepoint_q3": 0.45806013349873,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3794701986754967,
+      "prompt_codepoints": 28952,
+      "prompt_tokens": 12522,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.40054733689252586,
+        0.46140336837046336
+      ],
+      "prompt_tokens_per_codepoint_median": 0.46248294679399726,
+      "prompt_tokens_per_codepoint_q1": 0.4418661562849274,
+      "prompt_tokens_per_codepoint_q3": 0.49025796578674097,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4325089803813208,
+      "source_codepoints": 1436,
+      "unique_items": 18
+    },
+    {
+      "calls": 1050,
+      "completion_ceiling_calls": 2,
+      "completion_ceiling_rate": 0.0019047619047619048,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.004761904761904762
+      ],
+      "completion_tokens": 95726,
+      "control_framing_codepoints": 165363,
+      "dimension": "model",
+      "elapsed_wall_seconds": 1943.8280879,
+      "group": "source_run=fixed_upstream_mechanism | model=A.X-4.0-Light-Q5_K_M.gguf",
+      "hangul_output_codepoints": 132377,
+      "hangul_prompt_codepoints": 226068,
+      "inherited_generation_codepoints": 272967,
+      "output_raw_codepoints": 247637,
+      "output_tokens_per_codepoint_cluster95": [
+        0.37936186864686816,
+        0.3942675056271748
+      ],
+      "output_tokens_per_codepoint_median": 0.3945945945945946,
+      "output_tokens_per_codepoint_q1": 0.3562079674948627,
+      "output_tokens_per_codepoint_q3": 0.4677953472969617,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.38655774379434416,
+      "prompt_codepoints": 470166,
+      "prompt_tokens": 210282,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4412915670082214,
+        0.45339871374538576
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4552859639285216,
+      "prompt_tokens_per_codepoint_q1": 0.42596810933940776,
+      "prompt_tokens_per_codepoint_q3": 0.4977973568281938,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4472505455519965,
+      "source_codepoints": 31836,
+      "unique_items": 350
+    },
+    {
+      "calls": 1176,
+      "completion_ceiling_calls": 5,
+      "completion_ceiling_rate": 0.004251700680272109,
+      "completion_ceiling_rate_cluster95": [
+        0.0008635578583765112,
+        0.008375209380234505
+      ],
+      "completion_tokens": 123245,
+      "control_framing_codepoints": 185109,
+      "dimension": "model",
+      "elapsed_wall_seconds": 1191.3494463,
+      "group": "source_run=fixed_upstream_mechanism | model=hyperclova-3b-Q4_K_M",
+      "hangul_output_codepoints": 148453,
+      "hangul_prompt_codepoints": 261549,
+      "inherited_generation_codepoints": 326820,
+      "output_raw_codepoints": 276971,
+      "output_tokens_per_codepoint_cluster95": [
+        0.4254527678475711,
+        0.4616532434627281
+      ],
+      "output_tokens_per_codepoint_median": 0.4795666385942875,
+      "output_tokens_per_codepoint_q1": 0.43846153846153846,
+      "output_tokens_per_codepoint_q3": 0.547945205479452,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4449743835997271,
+      "prompt_codepoints": 547791,
+      "prompt_tokens": 261726,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4654740489518994,
+        0.48874658623728207
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4942888553487246,
+      "prompt_tokens_per_codepoint_q1": 0.46892472321990597,
+      "prompt_tokens_per_codepoint_q3": 0.5200872093023257,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4777844104777187,
+      "source_codepoints": 35862,
+      "unique_items": 350
+    },
+    {
+      "calls": 5040,
+      "completion_ceiling_calls": 570,
+      "completion_ceiling_rate": 0.1130952380952381,
+      "completion_ceiling_rate_cluster95": [
+        0.09047619047619047,
+        0.1375
+      ],
+      "completion_tokens": 679694,
+      "control_framing_codepoints": 1005408,
+      "dimension": "model",
+      "elapsed_wall_seconds": 18337.4829784,
+      "group": "source_run=prospective_primary | model=A.X-4.0-Light-Q5_K_M.gguf",
+      "hangul_output_codepoints": 934936,
+      "hangul_prompt_codepoints": 936806,
+      "inherited_generation_codepoints": 994644,
+      "output_raw_codepoints": 1763356,
+      "output_tokens_per_codepoint_cluster95": [
+        0.38089313645296247,
+        0.39025576169258736
+      ],
+      "output_tokens_per_codepoint_median": 0.389587803500847,
+      "output_tokens_per_codepoint_q1": 0.3602251407129456,
+      "output_tokens_per_codepoint_q3": 0.42777777777777776,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3854547805434637,
+      "prompt_codepoints": 2229777,
+      "prompt_tokens": 966750,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4305997175922075,
+        0.4363793762045471
+      ],
+      "prompt_tokens_per_codepoint_median": 0.46875,
+      "prompt_tokens_per_codepoint_q1": 0.4282812646589736,
+      "prompt_tokens_per_codepoint_q3": 0.4810606060606061,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4335635357257699,
+      "source_codepoints": 229725,
+      "unique_items": 336
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 10,
+      "completion_ceiling_rate": 0.15873015873015872,
+      "completion_ceiling_rate_cluster95": [
+        0.07936507936507936,
+        0.25396825396825395
+      ],
+      "completion_tokens": 10831,
+      "control_framing_codepoints": 13401,
+      "dimension": "model",
+      "elapsed_wall_seconds": 296.1564549,
+      "group": "source_run=prospective_primary | model=Midm-2.0-Mini-Instruct-Q5_K_M",
+      "hangul_output_codepoints": 6011,
+      "hangul_prompt_codepoints": 15560,
+      "inherited_generation_codepoints": 19119,
+      "output_raw_codepoints": 40454,
+      "output_tokens_per_codepoint_cluster95": [
+        0.24281911185487,
+        0.29644752757002385
+      ],
+      "output_tokens_per_codepoint_median": 0.36792452830188677,
+      "output_tokens_per_codepoint_q1": 0.21459870991750915,
+      "output_tokens_per_codepoint_q3": 0.3897114336045634,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.2677361941958768,
+      "prompt_codepoints": 34533,
+      "prompt_tokens": 46356,
+      "prompt_tokens_per_codepoint_cluster95": [
+        1.2747864360419556,
+        1.423338993653805
+      ],
+      "prompt_tokens_per_codepoint_median": 1.3850574712643677,
+      "prompt_tokens_per_codepoint_q1": 1.1980515367268858,
+      "prompt_tokens_per_codepoint_q3": 1.4991311014566828,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 1.3423681695769265,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 1051,
+      "completion_ceiling_calls": 151,
+      "completion_ceiling_rate": 0.14367269267364416,
+      "completion_ceiling_rate_cluster95": [
+        0.11302411593246439,
+        0.17474182594692989
+      ],
+      "completion_tokens": 98983,
+      "control_framing_codepoints": 168584,
+      "dimension": "model",
+      "elapsed_wall_seconds": 3714.6720323,
+      "group": "source_run=prospective_primary | model=hyperclova-3b-Q4_K_M",
+      "hangul_output_codepoints": 121203,
+      "hangul_prompt_codepoints": 231153,
+      "inherited_generation_codepoints": 301359,
+      "output_raw_codepoints": 220701,
+      "output_tokens_per_codepoint_cluster95": [
+        0.4353403867687634,
+        0.4606406522964098
+      ],
+      "output_tokens_per_codepoint_median": 0.47619047619047616,
+      "output_tokens_per_codepoint_q1": 0.42930643491027304,
+      "output_tokens_per_codepoint_q3": 0.5441768964431855,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.44849366337261726,
+      "prompt_codepoints": 502063,
+      "prompt_tokens": 235886,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.45971773561154594,
+        0.48028691097795134
+      ],
+      "prompt_tokens_per_codepoint_median": 0.49223946784922396,
+      "prompt_tokens_per_codepoint_q1": 0.4647523696395239,
+      "prompt_tokens_per_codepoint_q3": 0.5204081632653061,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4698334671146848,
+      "source_codepoints": 32120,
+      "unique_items": 336
+    },
+    {
+      "calls": 126,
+      "completion_ceiling_calls": 2,
+      "completion_ceiling_rate": 0.015873015873015872,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.03968253968253968
+      ],
+      "completion_tokens": 18444,
+      "control_framing_codepoints": 19746,
+      "dimension": "role_stage",
+      "elapsed_wall_seconds": 178.3323806,
+      "group": "source_run=fixed_upstream_mechanism | role=reviser | stage=critiquer",
+      "hangul_output_codepoints": 22409,
+      "hangul_prompt_codepoints": 35481,
+      "inherited_generation_codepoints": 53853,
+      "output_raw_codepoints": 44745,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3663475866646556,
+        0.4615449185235223
+      ],
+      "output_tokens_per_codepoint_median": 0.46167200854700857,
+      "output_tokens_per_codepoint_q1": 0.43366648560564913,
+      "output_tokens_per_codepoint_q3": 0.49162011173184356,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.41220248072410326,
+      "prompt_codepoints": 77625,
+      "prompt_tokens": 34623,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4118303478388584,
+        0.4845020599654761
+      ],
+      "prompt_tokens_per_codepoint_median": 0.478483516206649,
+      "prompt_tokens_per_codepoint_q1": 0.45118733509234826,
+      "prompt_tokens_per_codepoint_q3": 0.5026178010471204,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4460289855072464,
+      "source_codepoints": 4026,
+      "unique_items": 21
+    },
+    {
+      "calls": 2100,
+      "completion_ceiling_calls": 5,
+      "completion_ceiling_rate": 0.002380952380952381,
+      "completion_ceiling_rate_cluster95": [
+        0.0004761904761904762,
+        0.004297619047618874
+      ],
+      "completion_tokens": 200527,
+      "control_framing_codepoints": 330726,
+      "dimension": "role_stage",
+      "elapsed_wall_seconds": 2956.8451536,
+      "group": "source_run=fixed_upstream_mechanism | role=reviser | stage=reviser",
+      "hangul_output_codepoints": 258421,
+      "hangul_prompt_codepoints": 452136,
+      "inherited_generation_codepoints": 545934,
+      "output_raw_codepoints": 479863,
+      "output_tokens_per_codepoint_cluster95": [
+        0.4097591063743984,
+        0.4263745676127918
+      ],
+      "output_tokens_per_codepoint_median": 0.4467602643894437,
+      "output_tokens_per_codepoint_q1": 0.3805970149253731,
+      "output_tokens_per_codepoint_q3": 0.5230769230769231,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.41788385435009573,
+      "prompt_codepoints": 940332,
+      "prompt_tokens": 437385,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.45849843845052907,
+        0.4716544207872239
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4783088965863884,
+      "prompt_tokens_per_codepoint_q1": 0.4429451476793249,
+      "prompt_tokens_per_codepoint_q3": 0.5132704647093137,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.46513890838554894,
+      "source_codepoints": 63672,
+      "unique_items": 350
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 10,
+      "completion_ceiling_rate": 0.15873015873015872,
+      "completion_ceiling_rate_cluster95": [
+        0.07936507936507936,
+        0.25396825396825395
+      ],
+      "completion_tokens": 10831,
+      "control_framing_codepoints": 13401,
+      "dimension": "role_stage",
+      "elapsed_wall_seconds": 296.1564549,
+      "group": "source_run=prospective_primary | role=critiquer | stage=critique",
+      "hangul_output_codepoints": 6011,
+      "hangul_prompt_codepoints": 15560,
+      "inherited_generation_codepoints": 19119,
+      "output_raw_codepoints": 40454,
+      "output_tokens_per_codepoint_cluster95": [
+        0.24281911185487,
+        0.29644752757002385
+      ],
+      "output_tokens_per_codepoint_median": 0.36792452830188677,
+      "output_tokens_per_codepoint_q1": 0.21459870991750915,
+      "output_tokens_per_codepoint_q3": 0.3897114336045634,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.2677361941958768,
+      "prompt_codepoints": 34533,
+      "prompt_tokens": 46356,
+      "prompt_tokens_per_codepoint_cluster95": [
+        1.2747864360419556,
+        1.423338993653805
+      ],
+      "prompt_tokens_per_codepoint_median": 1.3850574712643677,
+      "prompt_tokens_per_codepoint_q1": 1.1980515367268858,
+      "prompt_tokens_per_codepoint_q3": 1.4991311014566828,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 1.3423681695769265,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 3024,
+      "completion_ceiling_calls": 346,
+      "completion_ceiling_rate": 0.11441798941798942,
+      "completion_ceiling_rate_cluster95": [
+        0.08597883597883597,
+        0.14484953703703693
+      ],
+      "completion_tokens": 288072,
+      "control_framing_codepoints": 651600,
+      "dimension": "role_stage",
+      "elapsed_wall_seconds": 9976.8339314,
+      "group": "source_run=prospective_primary | role=generator | stage=g",
+      "hangul_output_codepoints": 425851,
+      "hangul_prompt_codepoints": 248265,
+      "inherited_generation_codepoints": 0,
+      "output_raw_codepoints": 724163,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3915146514850697,
+        0.4044620084959235
+      ],
+      "output_tokens_per_codepoint_median": 0.39285714285714285,
+      "output_tokens_per_codepoint_q1": 0.35714285714285715,
+      "output_tokens_per_codepoint_q3": 0.44341801385681295,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3977999428305506,
+      "prompt_codepoints": 789435,
+      "prompt_tokens": 375174,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.47322803683288556,
+        0.47717488182265244
+      ],
+      "prompt_tokens_per_codepoint_median": 0.47713882993886797,
+      "prompt_tokens_per_codepoint_q1": 0.46987951807228917,
+      "prompt_tokens_per_codepoint_q3": 0.4851686993679337,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4752436869406601,
+      "source_codepoints": 137835,
+      "unique_items": 336
+    },
+    {
+      "calls": 1008,
+      "completion_ceiling_calls": 133,
+      "completion_ceiling_rate": 0.13194444444444445,
+      "completion_ceiling_rate_cluster95": [
+        0.10218253968253968,
+        0.1636904761904762
+      ],
+      "completion_tokens": 92680,
+      "control_framing_codepoints": 158736,
+      "dimension": "role_stage",
+      "elapsed_wall_seconds": 3651.0080444,
+      "group": "source_run=prospective_primary | role=reviser | stage=revise",
+      "hangul_output_codepoints": 113882,
+      "hangul_prompt_codepoints": 218928,
+      "inherited_generation_codepoints": 283691,
+      "output_raw_codepoints": 204091,
+      "output_tokens_per_codepoint_cluster95": [
+        0.44355029756947434,
+        0.4643356040923193
+      ],
+      "output_tokens_per_codepoint_median": 0.47946961714085,
+      "output_tokens_per_codepoint_q1": 0.4318942947529181,
+      "output_tokens_per_codepoint_q3": 0.5477903214703655,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4541111562979259,
+      "prompt_codepoints": 473111,
+      "prompt_tokens": 223364,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4618832292755776,
+        0.48196990937684425
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4939536175937299,
+      "prompt_tokens_per_codepoint_q1": 0.46590095698672485,
+      "prompt_tokens_per_codepoint_q3": 0.5212586884912861,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4721175368993746,
+      "source_codepoints": 30684,
+      "unique_items": 336
+    },
+    {
+      "calls": 43,
+      "completion_ceiling_calls": 18,
+      "completion_ceiling_rate": 0.4186046511627907,
+      "completion_ceiling_rate_cluster95": [
+        0.2926829268292683,
+        0.55
+      ],
+      "completion_tokens": 6303,
+      "control_framing_codepoints": 9848,
+      "dimension": "role_stage",
+      "elapsed_wall_seconds": 63.6639879,
+      "group": "source_run=prospective_primary | role=reviser_retry | stage=retry",
+      "hangul_output_codepoints": 7321,
+      "hangul_prompt_codepoints": 12225,
+      "inherited_generation_codepoints": 17668,
+      "output_raw_codepoints": 16610,
+      "output_tokens_per_codepoint_cluster95": [
+        0.33460736638405797,
+        0.42371752901762383
+      ],
+      "output_tokens_per_codepoint_median": 0.4247787610619469,
+      "output_tokens_per_codepoint_q1": 0.39752234391409647,
+      "output_tokens_per_codepoint_q3": 0.45806013349873,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3794701986754967,
+      "prompt_codepoints": 28952,
+      "prompt_tokens": 12522,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.40054733689252586,
+        0.46140336837046336
+      ],
+      "prompt_tokens_per_codepoint_median": 0.46248294679399726,
+      "prompt_tokens_per_codepoint_q1": 0.4418661562849274,
+      "prompt_tokens_per_codepoint_q3": 0.49025796578674097,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4325089803813208,
+      "source_codepoints": 1436,
+      "unique_items": 18
+    },
+    {
+      "calls": 1008,
+      "completion_ceiling_calls": 133,
+      "completion_ceiling_rate": 0.13194444444444445,
+      "completion_ceiling_rate_cluster95": [
+        0.10912698412698413,
+        0.15773809523809523
+      ],
+      "completion_tokens": 186981,
+      "control_framing_codepoints": 231840,
+      "dimension": "role_stage",
+      "elapsed_wall_seconds": 3967.5142579,
+      "group": "source_run=prospective_primary | role=self_feedback | stage=self_critique",
+      "hangul_output_codepoints": 206071,
+      "hangul_prompt_codepoints": 246275,
+      "inherited_generation_codepoints": 241700,
+      "output_raw_codepoints": 511267,
+      "output_tokens_per_codepoint_cluster95": [
+        0.3594739334414932,
+        0.37172839026312077
+      ],
+      "output_tokens_per_codepoint_median": 0.38664728682170546,
+      "output_tokens_per_codepoint_q1": 0.3709016393442623,
+      "output_tokens_per_codepoint_q3": 0.40394564075630257,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.36572084644618175,
+      "prompt_codepoints": 519485,
+      "prompt_tokens": 222895,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.42550892140484564,
+        0.4327580147255839
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4284523809523809,
+      "prompt_tokens_per_codepoint_q1": 0.4072011275224363,
+      "prompt_tokens_per_codepoint_q3": 0.45249724360361476,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4290691742783718,
+      "source_codepoints": 45945,
+      "unique_items": 336
+    },
+    {
+      "calls": 1008,
+      "completion_ceiling_calls": 91,
+      "completion_ceiling_rate": 0.09027777777777778,
+      "completion_ceiling_rate_cluster95": [
+        0.06547619047619048,
+        0.11607142857142858
+      ],
+      "completion_tokens": 204641,
+      "control_framing_codepoints": 121968,
+      "dimension": "role_stage",
+      "elapsed_wall_seconds": 4393.1347891,
+      "group": "source_run=prospective_primary | role=self_reviser | stage=self_revise",
+      "hangul_output_codepoints": 303014,
+      "hangul_prompt_codepoints": 442266,
+      "inherited_generation_codepoints": 752944,
+      "output_raw_codepoints": 527926,
+      "output_tokens_per_codepoint_cluster95": [
+        0.38218999876863136,
+        0.39300325349072224
+      ],
+      "output_tokens_per_codepoint_median": 0.38618631414830085,
+      "output_tokens_per_codepoint_q1": 0.3556333537781394,
+      "output_tokens_per_codepoint_q3": 0.42970216606498196,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3876319787242909,
+      "prompt_codepoints": 920857,
+      "prompt_tokens": 368681,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.39599426512123576,
+        0.40484478204348545
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4075887793386267,
+      "prompt_tokens_per_codepoint_q1": 0.390011502498608,
+      "prompt_tokens_per_codepoint_q3": 0.43170159464889746,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4003672665788499,
+      "source_codepoints": 45945,
+      "unique_items": 336
+    },
+    {
+      "calls": 252,
+      "completion_ceiling_calls": 2,
+      "completion_ceiling_rate": 0.007936507936507936,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.01984126984126984
+      ],
+      "completion_tokens": 37456,
+      "control_framing_codepoints": 39492,
+      "dimension": "route",
+      "elapsed_wall_seconds": 458.7385142,
+      "group": "source_run=fixed_upstream_mechanism | route=Complex",
+      "hangul_output_codepoints": 45850,
+      "hangul_prompt_codepoints": 73929,
+      "inherited_generation_codepoints": 118167,
+      "output_raw_codepoints": 95206,
+      "output_tokens_per_codepoint_cluster95": [
+        0.36287451753322225,
+        0.4346090075478006
+      ],
+      "output_tokens_per_codepoint_median": 0.44057643247304085,
+      "output_tokens_per_codepoint_q1": 0.39451922739860484,
+      "output_tokens_per_codepoint_q3": 0.4785276073619632,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.39342058273638214,
+      "prompt_codepoints": 165711,
+      "prompt_tokens": 71835,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.40729633837483514,
+        0.46682152346381084
+      ],
+      "prompt_tokens_per_codepoint_median": 0.46605515933544955,
+      "prompt_tokens_per_codepoint_q1": 0.4254787861865902,
+      "prompt_tokens_per_codepoint_q3": 0.5,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.43349566413816826,
+      "source_codepoints": 8052,
+      "unique_items": 21
+    },
+    {
+      "calls": 1974,
+      "completion_ceiling_calls": 5,
+      "completion_ceiling_rate": 0.0025329280648429585,
+      "completion_ceiling_rate_cluster95": [
+        0.0005065856129685917,
+        0.005065856129685917
+      ],
+      "completion_tokens": 181515,
+      "control_framing_codepoints": 310980,
+      "dimension": "route",
+      "elapsed_wall_seconds": 2676.43902,
+      "group": "source_run=fixed_upstream_mechanism | route=Simple",
+      "hangul_output_codepoints": 234980,
+      "hangul_prompt_codepoints": 413688,
+      "inherited_generation_codepoints": 481620,
+      "output_raw_codepoints": 429402,
+      "output_tokens_per_codepoint_cluster95": [
+        0.41474324689811937,
+        0.43073548747743984
+      ],
+      "output_tokens_per_codepoint_median": 0.4508066517746339,
+      "output_tokens_per_codepoint_q1": 0.3827189006611045,
+      "output_tokens_per_codepoint_q3": 0.5289407300631703,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4227157768245141,
+      "prompt_codepoints": 852246,
+      "prompt_tokens": 400173,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.463358554557773,
+        0.4754829345348462
+      ],
+      "prompt_tokens_per_codepoint_median": 0.48024679315222163,
+      "prompt_tokens_per_codepoint_q1": 0.44837758112094395,
+      "prompt_tokens_per_codepoint_q3": 0.5158227848101266,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.469551045120775,
+      "source_codepoints": 59646,
+      "unique_items": 329
+    },
+    {
+      "calls": 484,
+      "completion_ceiling_calls": 88,
+      "completion_ceiling_rate": 0.18181818181818182,
+      "completion_ceiling_rate_cluster95": [
+        0.11368301435406698,
+        0.26349063233821207
+      ],
+      "completion_tokens": 74927,
+      "control_framing_codepoints": 95816,
+      "dimension": "route",
+      "elapsed_wall_seconds": 2075.9459452,
+      "group": "source_run=prospective_primary | route=Complex",
+      "hangul_output_codepoints": 103209,
+      "hangul_prompt_codepoints": 123120,
+      "inherited_generation_codepoints": 167300,
+      "output_raw_codepoints": 211194,
+      "output_tokens_per_codepoint_cluster95": [
+        0.33729329726243706,
+        0.37129357041680694
+      ],
+      "output_tokens_per_codepoint_median": 0.3805405034638864,
+      "output_tokens_per_codepoint_q1": 0.34788887153629916,
+      "output_tokens_per_codepoint_q3": 0.41620376897410594,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.35477807134672384,
+      "prompt_codepoints": 288813,
+      "prompt_tokens": 150233,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.504913100473929,
+        0.5360776364271489
+      ],
+      "prompt_tokens_per_codepoint_median": 0.45820396389643014,
+      "prompt_tokens_per_codepoint_q1": 0.4096109839816934,
+      "prompt_tokens_per_codepoint_q3": 0.4879725085910653,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.5201739533885248,
+      "source_codepoints": 25697,
+      "unique_items": 21
+    },
+    {
+      "calls": 5670,
+      "completion_ceiling_calls": 643,
+      "completion_ceiling_rate": 0.11340388007054673,
+      "completion_ceiling_rate_cluster95": [
+        0.09012345679012346,
+        0.13862433862433862
+      ],
+      "completion_tokens": 714581,
+      "control_framing_codepoints": 1091577,
+      "dimension": "route",
+      "elapsed_wall_seconds": 20272.3655204,
+      "group": "source_run=prospective_primary | route=Simple",
+      "hangul_output_codepoints": 958941,
+      "hangul_prompt_codepoints": 1060399,
+      "inherited_generation_codepoints": 1147822,
+      "output_raw_codepoints": 1813317,
+      "output_tokens_per_codepoint_cluster95": [
+        0.38898671228331727,
+        0.3990393979771265
+      ],
+      "output_tokens_per_codepoint_median": 0.40065545479880804,
+      "output_tokens_per_codepoint_q1": 0.3669165586488421,
+      "output_tokens_per_codepoint_q3": 0.4566408002745005,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.3940739539749531,
+      "prompt_codepoints": 2477560,
+      "prompt_tokens": 1098759,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.44035416796069327,
+        0.44665273615307843
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4722222222222222,
+      "prompt_tokens_per_codepoint_q1": 0.4382443718228032,
+      "prompt_tokens_per_codepoint_q3": 0.48497854077253216,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4434843152133551,
+      "source_codepoints": 238161,
+      "unique_items": 315
+    },
+    {
+      "calls": 1050,
+      "completion_ceiling_calls": 3,
+      "completion_ceiling_rate": 0.002857142857142857,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.006666666666666667
+      ],
+      "completion_tokens": 104801,
+      "control_framing_codepoints": 165363,
+      "dimension": "condition",
+      "elapsed_wall_seconds": 1013.0170657,
+      "group": "source_run=fixed_upstream_mechanism | condition=R1",
+      "hangul_output_codepoints": 126044,
+      "hangul_prompt_codepoints": 226068,
+      "inherited_generation_codepoints": 272967,
+      "output_raw_codepoints": 232226,
+      "output_tokens_per_codepoint_cluster95": [
+        0.4388355345364283,
+        0.46372595286601165
+      ],
+      "output_tokens_per_codepoint_median": 0.4838709677419355,
+      "output_tokens_per_codepoint_q1": 0.4397590361445783,
+      "output_tokens_per_codepoint_q3": 0.5555555555555556,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4512888307080172,
+      "prompt_codepoints": 470166,
+      "prompt_tokens": 227103,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.47526839632368734,
+        0.4905569502978916
+      ],
+      "prompt_tokens_per_codepoint_median": 0.495485120260905,
+      "prompt_tokens_per_codepoint_q1": 0.47058823529411764,
+      "prompt_tokens_per_codepoint_q3": 0.5240641711229946,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.48302727121910133,
+      "source_codepoints": 31836,
+      "unique_items": 350
+    },
+    {
+      "calls": 1050,
+      "completion_ceiling_calls": 2,
+      "completion_ceiling_rate": 0.0019047619047619048,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.004761904761904762
+      ],
+      "completion_tokens": 95726,
+      "control_framing_codepoints": 165363,
+      "dimension": "condition",
+      "elapsed_wall_seconds": 1943.8280879,
+      "group": "source_run=fixed_upstream_mechanism | condition=R2",
+      "hangul_output_codepoints": 132377,
+      "hangul_prompt_codepoints": 226068,
+      "inherited_generation_codepoints": 272967,
+      "output_raw_codepoints": 247637,
+      "output_tokens_per_codepoint_cluster95": [
+        0.37936186864686816,
+        0.3942675056271748
+      ],
+      "output_tokens_per_codepoint_median": 0.3945945945945946,
+      "output_tokens_per_codepoint_q1": 0.3562079674948627,
+      "output_tokens_per_codepoint_q3": 0.4677953472969617,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.38655774379434416,
+      "prompt_codepoints": 470166,
+      "prompt_tokens": 210282,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4412915670082214,
+        0.45339871374538576
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4552859639285216,
+      "prompt_tokens_per_codepoint_q1": 0.42596810933940776,
+      "prompt_tokens_per_codepoint_q3": 0.4977973568281938,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4472505455519965,
+      "source_codepoints": 31836,
+      "unique_items": 350
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 0,
+      "completion_ceiling_rate": 0.0,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.0
+      ],
+      "completion_tokens": 8012,
+      "control_framing_codepoints": 9873,
+      "dimension": "condition",
+      "elapsed_wall_seconds": 75.7836421,
+      "group": "source_run=fixed_upstream_mechanism | condition=empty_Cr",
+      "hangul_output_codepoints": 10273,
+      "hangul_prompt_codepoints": 16257,
+      "inherited_generation_codepoints": 21696,
+      "output_raw_codepoints": 19291,
+      "output_tokens_per_codepoint_cluster95": [
+        0.36702015377946035,
+        0.46805472962128386
+      ],
+      "output_tokens_per_codepoint_median": 0.4618055555555556,
+      "output_tokens_per_codepoint_q1": 0.43021535912909714,
+      "output_tokens_per_codepoint_q3": 0.49052836572507674,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4153232077134415,
+      "prompt_codepoints": 33582,
+      "prompt_tokens": 15375,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.41860404427829295,
+        0.49412903866996694
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4785276073619632,
+      "prompt_tokens_per_codepoint_q1": 0.4645061728395062,
+      "prompt_tokens_per_codepoint_q3": 0.5026041666666666,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4578345542254779,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 63,
+      "completion_ceiling_calls": 2,
+      "completion_ceiling_rate": 0.031746031746031744,
+      "completion_ceiling_rate_cluster95": [
+        0.0,
+        0.07936507936507936
+      ],
+      "completion_tokens": 10432,
+      "control_framing_codepoints": 9873,
+      "dimension": "condition",
+      "elapsed_wall_seconds": 102.5487385,
+      "group": "source_run=fixed_upstream_mechanism | condition=with_Cr",
+      "hangul_output_codepoints": 12136,
+      "hangul_prompt_codepoints": 19224,
+      "inherited_generation_codepoints": 32157,
+      "output_raw_codepoints": 25454,
+      "output_tokens_per_codepoint_cluster95": [
+        0.36605756980659376,
+        0.45780322077832236
+      ],
+      "output_tokens_per_codepoint_median": 0.4612676056338028,
+      "output_tokens_per_codepoint_q1": 0.43387289516567085,
+      "output_tokens_per_codepoint_q3": 0.49300106710187686,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4098373536575784,
+      "prompt_codepoints": 44043,
+      "prompt_tokens": 19248,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4063024017727589,
+        0.4770085174603821
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4784394250513347,
+      "prompt_tokens_per_codepoint_q1": 0.44221105527638194,
+      "prompt_tokens_per_codepoint_q3": 0.5026178010471204,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4370274504461549,
+      "source_codepoints": 2013,
+      "unique_items": 21
+    },
+    {
+      "calls": 2122,
+      "completion_ceiling_calls": 270,
+      "completion_ceiling_rate": 0.12723845428840716,
+      "completion_ceiling_rate_cluster95": [
+        0.10124810070911275,
+        0.15417437818579696
+      ],
+      "completion_tokens": 205776,
+      "control_framing_codepoints": 399185,
+      "dimension": "condition",
+      "elapsed_wall_seconds": 6512.0494918,
+      "group": "source_run=prospective_primary | condition=rbo_original_semantics",
+      "hangul_output_codepoints": 269403,
+      "hangul_prompt_codepoints": 329468,
+      "inherited_generation_codepoints": 320478,
+      "output_raw_codepoints": 502532,
+      "output_tokens_per_codepoint_cluster95": [
+        0.39944945870121984,
+        0.41966260002924993
+      ],
+      "output_tokens_per_codepoint_median": 0.4333709556057186,
+      "output_tokens_per_codepoint_q1": 0.3793409146490584,
+      "output_tokens_per_codepoint_q3": 0.5029414782638437,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4094784013754348,
+      "prompt_codepoints": 799741,
+      "prompt_tokens": 407300,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4996279885528139,
+        0.5190351768732232
+      ],
+      "prompt_tokens_per_codepoint_median": 0.48148148148148145,
+      "prompt_tokens_per_codepoint_q1": 0.46875,
+      "prompt_tokens_per_codepoint_q3": 0.5009905087421497,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.5092898825994916,
+      "source_codepoints": 80078,
+      "unique_items": 336
+    },
+    {
+      "calls": 3024,
+      "completion_ceiling_calls": 343,
+      "completion_ceiling_rate": 0.11342592592592593,
+      "completion_ceiling_rate_cluster95": [
+        0.09226190476190477,
+        0.1359126984126984
+      ],
+      "completion_tokens": 487759,
+      "control_framing_codepoints": 571008,
+      "dimension": "condition",
+      "elapsed_wall_seconds": 12069.6789618,
+      "group": "source_run=prospective_primary | condition=self_refine",
+      "hangul_output_codepoints": 651437,
+      "hangul_prompt_codepoints": 771296,
+      "inherited_generation_codepoints": 994644,
+      "output_raw_codepoints": 1280913,
+      "output_tokens_per_codepoint_cluster95": [
+        0.37624418786490393,
+        0.3852926841280281
+      ],
+      "output_tokens_per_codepoint_median": 0.38803615989453366,
+      "output_tokens_per_codepoint_q1": 0.3614882063465128,
+      "output_tokens_per_codepoint_q3": 0.41861527996258663,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.38079010830556015,
+      "prompt_codepoints": 1703487,
+      "prompt_tokens": 716634,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.4170960382529203,
+        0.4239821076128756
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4420005157980911,
+      "prompt_tokens_per_codepoint_q1": 0.4073319755600815,
+      "prompt_tokens_per_codepoint_q3": 0.4745098039215686,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.42068650949493597,
+      "source_codepoints": 137835,
+      "unique_items": 336
+    },
+    {
+      "calls": 1008,
+      "completion_ceiling_calls": 118,
+      "completion_ceiling_rate": 0.11706349206349206,
+      "completion_ceiling_rate_cluster95": [
+        0.0882936507936508,
+        0.1498015873015873
+      ],
+      "completion_tokens": 95973,
+      "control_framing_codepoints": 217200,
+      "dimension": "condition",
+      "elapsed_wall_seconds": 3766.583012,
+      "group": "source_run=prospective_primary | condition=single",
+      "hangul_output_codepoints": 141310,
+      "hangul_prompt_codepoints": 82755,
+      "inherited_generation_codepoints": 0,
+      "output_raw_codepoints": 241066,
+      "output_tokens_per_codepoint_cluster95": [
+        0.39159388708092613,
+        0.40491104876475126
+      ],
+      "output_tokens_per_codepoint_median": 0.39285714285714285,
+      "output_tokens_per_codepoint_q1": 0.35817926283700857,
+      "output_tokens_per_codepoint_q3": 0.4457314974182444,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.39811918727651346,
+      "prompt_codepoints": 263145,
+      "prompt_tokens": 125058,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.47327473753691945,
+        0.47720809779860596
+      ],
+      "prompt_tokens_per_codepoint_median": 0.47713882993886797,
+      "prompt_tokens_per_codepoint_q1": 0.46987951807228917,
+      "prompt_tokens_per_codepoint_q3": 0.4851686993679337,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4752436869406601,
+      "source_codepoints": 45945,
+      "unique_items": 336
+    },
+    {
+      "calls": 2226,
+      "completion_ceiling_calls": 7,
+      "completion_ceiling_rate": 0.0031446540880503146,
+      "completion_ceiling_rate_cluster95": [
+        0.0009107468123861566,
+        0.005747508559550007
+      ],
+      "completion_tokens": 218971,
+      "control_framing_codepoints": 350472,
+      "dimension": "source_total",
+      "elapsed_wall_seconds": 3135.1775342,
+      "group": "source_run=fixed_upstream_mechanism",
+      "hangul_output_codepoints": 280830,
+      "hangul_prompt_codepoints": 487617,
+      "inherited_generation_codepoints": 599787,
+      "output_raw_codepoints": 524608,
+      "output_tokens_per_codepoint_cluster95": [
+        0.40626151045775094,
+        0.42780778857432294
+      ],
+      "output_tokens_per_codepoint_median": 0.4485685840473643,
+      "output_tokens_per_codepoint_q1": 0.3837638376383764,
+      "output_tokens_per_codepoint_q3": 0.5206283106971608,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4173992771745761,
+      "prompt_codepoints": 1017957,
+      "prompt_tokens": 472008,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.45524183928193634,
+        0.4714504901713693
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4784394250513347,
+      "prompt_tokens_per_codepoint_q1": 0.44477611940298506,
+      "prompt_tokens_per_codepoint_q3": 0.5122448979591837,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4636816682826485,
+      "source_codepoints": 67698,
+      "unique_items": 350
+    },
+    {
+      "calls": 6154,
+      "completion_ceiling_calls": 731,
+      "completion_ceiling_rate": 0.11878453038674033,
+      "completion_ceiling_rate_cluster95": [
+        0.09593665906469812,
+        0.14262535793370806
+      ],
+      "completion_tokens": 789508,
+      "control_framing_codepoints": 1187393,
+      "dimension": "source_total",
+      "elapsed_wall_seconds": 22348.3114656,
+      "group": "source_run=prospective_primary",
+      "hangul_output_codepoints": 1062150,
+      "hangul_prompt_codepoints": 1183519,
+      "inherited_generation_codepoints": 1315122,
+      "output_raw_codepoints": 2024511,
+      "output_tokens_per_codepoint_cluster95": [
+        0.38493625588757757,
+        0.3950980268684052
+      ],
+      "output_tokens_per_codepoint_median": 0.39860945506106793,
+      "output_tokens_per_codepoint_q1": 0.36519097618752405,
+      "output_tokens_per_codepoint_q3": 0.4525348932676519,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.38997466548712256,
+      "prompt_codepoints": 2766373,
+      "prompt_tokens": 1248992,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.44689732361581674,
+        0.45619199010032
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4717741935483871,
+      "prompt_tokens_per_codepoint_q1": 0.4358974358974359,
+      "prompt_tokens_per_codepoint_q3": 0.48497854077253216,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4514908148684216,
+      "source_codepoints": 263858,
+      "unique_items": 336
+    }
+  ],
+  "prompt_decomposition": "Application-level code points only: source task text, inherited prior generations, and residual control/framing. Runtime model-template token overhead is not separately observable.",
+  "reconciliation": {
+    "all_successful_calls": 8380,
+    "duplicate_mechanism_request_ids": 0,
+    "duplicate_primary_call_ids": 0,
+    "mechanism_calls": 2226,
+    "mechanism_completion_tokens": 218971,
+    "mechanism_integrity_metrics_exact_match": true,
+    "mechanism_prompt_tokens": 472008,
+    "primary_calls": 6154,
+    "primary_completion_audit_exact_match": true,
+    "primary_completion_tokens": 789508,
+    "primary_prompt_tokens": 1248992
+  },
+  "schema_version": "rbo-v1-korean-tokenization-resource-diagnostic-v1",
+  "scope": "Observed Korean-corpus runtime accounting; not tokenizer fairness, FLOPs, English/general-language behavior, or compute matching.",
+  "source_manifest": {
+    "analysis/primary_completion_audit.json": {
+      "bytes": 15317,
+      "sha256": "2ec63732a77df3b294c33354ba5daa40b00c3c1d89c559b1057da93122835751"
+    },
+    "offline_parallel/mechanisms/analysis/integrity_and_metrics.json": {
+      "bytes": 21435,
+      "sha256": "27d4b87a92a52bc64e399ad155a49a95fd446b2c1f94301e7f4bad0f20e5b41f"
+    },
+    "offline_parallel/mechanisms/frozen_upstream.jsonl": {
+      "bytes": 486348,
+      "sha256": "90eb563bebffdbc571df8eb8fcbf519bc447cc8e75e7508b7582b7ca67b6db6b"
+    },
+    "offline_parallel/mechanisms/run/attempts.jsonl": {
+      "bytes": 6521411,
+      "sha256": "c9ef18c613fd4dffab221550e71150b493b6d7d70a5dbf09640e60fc93632b8c"
+    },
+    "primary_item_manifest.json": {
+      "bytes": 163236,
+      "sha256": "6ecb1bac079723575ce4e0375c6952897a7d226cea9a1b05d6da208bf8e02c70"
+    },
+    "primary_run/attempts.jsonl": {
+      "bytes": 22685509,
+      "sha256": "3d3cf659d750364c42f82b3ef2766c5ac79f72f98c72b98a9bed992a4857a8d4"
+    },
+    "primary_run/pipeline_results.jsonl": {
+      "bytes": 5238597,
+      "sha256": "c8c67d97397bb40a3b0363597fd18d74828883f7b4cf0213bab249f79226a8e8"
+    }
+  },
+  "source_totals": {
+    "fixed_upstream_mechanism": {
+      "calls": 2226,
+      "completion_ceiling_calls": 7,
+      "completion_ceiling_rate": 0.0031446540880503146,
+      "completion_ceiling_rate_cluster95": [
+        0.0009107468123861566,
+        0.005747508559550007
+      ],
+      "completion_tokens": 218971,
+      "control_framing_codepoints": 350472,
+      "dimension": "source_total",
+      "elapsed_wall_seconds": 3135.1775342,
+      "group": "source_run=fixed_upstream_mechanism",
+      "hangul_output_codepoints": 280830,
+      "hangul_prompt_codepoints": 487617,
+      "inherited_generation_codepoints": 599787,
+      "output_raw_codepoints": 524608,
+      "output_tokens_per_codepoint_cluster95": [
+        0.40626151045775094,
+        0.42780778857432294
+      ],
+      "output_tokens_per_codepoint_median": 0.4485685840473643,
+      "output_tokens_per_codepoint_q1": 0.3837638376383764,
+      "output_tokens_per_codepoint_q3": 0.5206283106971608,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.4173992771745761,
+      "prompt_codepoints": 1017957,
+      "prompt_tokens": 472008,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.45524183928193634,
+        0.4714504901713693
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4784394250513347,
+      "prompt_tokens_per_codepoint_q1": 0.44477611940298506,
+      "prompt_tokens_per_codepoint_q3": 0.5122448979591837,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4636816682826485,
+      "source_codepoints": 67698,
+      "unique_items": 350
+    },
+    "prospective_primary": {
+      "calls": 6154,
+      "completion_ceiling_calls": 731,
+      "completion_ceiling_rate": 0.11878453038674033,
+      "completion_ceiling_rate_cluster95": [
+        0.09593665906469812,
+        0.14262535793370806
+      ],
+      "completion_tokens": 789508,
+      "control_framing_codepoints": 1187393,
+      "dimension": "source_total",
+      "elapsed_wall_seconds": 22348.3114656,
+      "group": "source_run=prospective_primary",
+      "hangul_output_codepoints": 1062150,
+      "hangul_prompt_codepoints": 1183519,
+      "inherited_generation_codepoints": 1315122,
+      "output_raw_codepoints": 2024511,
+      "output_tokens_per_codepoint_cluster95": [
+        0.38493625588757757,
+        0.3950980268684052
+      ],
+      "output_tokens_per_codepoint_median": 0.39860945506106793,
+      "output_tokens_per_codepoint_q1": 0.36519097618752405,
+      "output_tokens_per_codepoint_q3": 0.4525348932676519,
+      "output_tokens_per_codepoint_ratio_of_totals": 0.38997466548712256,
+      "prompt_codepoints": 2766373,
+      "prompt_tokens": 1248992,
+      "prompt_tokens_per_codepoint_cluster95": [
+        0.44689732361581674,
+        0.45619199010032
+      ],
+      "prompt_tokens_per_codepoint_median": 0.4717741935483871,
+      "prompt_tokens_per_codepoint_q1": 0.4358974358974359,
+      "prompt_tokens_per_codepoint_q3": 0.48497854077253216,
+      "prompt_tokens_per_codepoint_ratio_of_totals": 0.4514908148684216,
+      "source_codepoints": 263858,
+      "unique_items": 336
+    }
+  },
+  "unicode_denominator": "Python len(text): Unicode code points in exact saved application prompt and raw runtime response."
+}

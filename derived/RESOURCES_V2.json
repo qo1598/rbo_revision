@@ -1,0 +1,127 @@
+{
+ "ifeval": {
+  "RBO v2": {
+   "n": 292,
+   "mean_calls": 3.51027397260274,
+   "mean_output_tokens": 579.832191780822,
+   "mean_prompt_tokens": 1747.2260273972602,
+   "mean_local_seconds": 20.61626712328767
+  },
+  "single A.X": {
+   "n": 292,
+   "mean_calls": 1,
+   "mean_output_tokens": 272.4075342465753,
+   "mean_prompt_tokens": 46.205479452054796,
+   "mean_local_seconds": 5.309178082191781
+  },
+  "single Qwen3-8B": {
+   "n": 292,
+   "mean_calls": 1,
+   "mean_output_tokens": 385.6575342465753,
+   "mean_prompt_tokens": 83.33219178082192,
+   "mean_local_seconds": 7.611575342465754
+  },
+  "Self-Refine A.X": {
+   "n": 292,
+   "mean_calls": 2.3253424657534247,
+   "mean_output_tokens": 477.5,
+   "mean_prompt_tokens": 575.2431506849315,
+   "mean_local_seconds": 9.4625
+  },
+  "RBO v2 (submitted models)": {
+   "n": 292,
+   "mean_calls": 3.1815068493150687,
+   "mean_output_tokens": 779.9383561643835,
+   "mean_prompt_tokens": 2245.578767123288,
+   "mean_local_seconds": 16.161746575342466
+  }
+ },
+ "korquad": {
+  "RBO v2": {
+   "n": 900,
+   "mean_calls": 3.0944444444444446,
+   "mean_output_tokens": 98.41888888888889,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 11.659744444444444
+  },
+  "single A.X": {
+   "n": 900,
+   "mean_calls": 1,
+   "mean_output_tokens": 6.046666666666667,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 0.2235111111111111
+  },
+  "single Qwen3-8B": {
+   "n": 900,
+   "mean_calls": 1,
+   "mean_output_tokens": 7.126666666666667,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 0.4436888888888889
+  },
+  "SC3 A.X": {
+   "n": 900,
+   "mean_calls": 3,
+   "mean_output_tokens": 18.845555555555556,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 0.7462555555555556
+  },
+  "Self-Refine A.X": {
+   "n": 900,
+   "mean_calls": 2,
+   "mean_output_tokens": 9.19111111111111,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 0.40315555555555554
+  },
+  "RBO v2 (submitted models)": {
+   "n": 900,
+   "mean_calls": 3.0433333333333334,
+   "mean_output_tokens": 99.89111111111112,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 7.737633333333333
+  }
+ },
+ "hrm8k": {
+  "RBO v2": {
+   "n": 400,
+   "mean_calls": 3.2,
+   "mean_output_tokens": 521.985,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 20.24835
+  },
+  "single A.X": {
+   "n": 400,
+   "mean_calls": 1,
+   "mean_output_tokens": 174.4625,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 3.608
+  },
+  "single Qwen3-8B": {
+   "n": 400,
+   "mean_calls": 1,
+   "mean_output_tokens": 252.01,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 5.362925
+  },
+  "SC3 A.X": {
+   "n": 400,
+   "mean_calls": 3,
+   "mean_output_tokens": 537.6525,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 11.777625
+  },
+  "Self-Refine A.X": {
+   "n": 400,
+   "mean_calls": 3.38,
+   "mean_output_tokens": 545.37,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 10.8629
+  },
+  "RBO v2 (submitted models)": {
+   "n": 400,
+   "mean_calls": 3.3675,
+   "mean_output_tokens": 508.4425,
+   "mean_prompt_tokens": null,
+   "mean_local_seconds": 15.378125
+  }
+ }
+}

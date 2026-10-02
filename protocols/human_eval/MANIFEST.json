@@ -1,0 +1,93 @@
+{
+ "protocol_sha256": "3e5c00bdad30527831c3cd76df77cba0182b835fba28023c5b2ea2b35ec35a71",
+ "build_sha256": "5e8bfb69fab533cc3c739edc2d6a98574ed8d52c5129e49ced08eb301687c881",
+ "sources": {
+  "bank_orig350.jsonl": "cd4cdb09997dde288daa05361dedc5f6703dfa9dc673ec5560d8daff8be4b39c",
+  "categories": "a3049eec22040001da598070b43c63acd34578f81d8e44ffe2a60111f95eeea4",
+  "orig350_ext_rbov2.jsonl": "675a752ce2e8a82f5783d1e6369fc8a8c176b82ab9b51d6b897ed1560c7f356e",
+  "orig350_ext_v2single_ax7.jsonl": "3f54467e21593f707f17d1130f71905e2c73af2be6000e7c5fd78fc1fc544e2f",
+  "orig350_ext_gpt4o_matched.jsonl": "8cd246f60b71f681cceea0b345ec3e2fd98d0d7f9fc5de4792aefec8361ca09a"
+ },
+ "comparisons": {
+  "R1": [
+   "rbov2",
+   "v2single_ax7"
+  ],
+  "R2": [
+   "rbov2",
+   "gpt4o_matched"
+  ],
+  "R3": [
+   "rbov2",
+   "rbo_v1_main"
+  ],
+  "O1": [
+   "rbo_v1_main",
+   "gpt4o_archived"
+  ],
+  "O2": [
+   "rbo_v1_ds_run",
+   "deepseek_archived"
+  ]
+ },
+ "identical_excluded": {
+  "R1": 23,
+  "R2": 4,
+  "R3": 5,
+  "O1": 8,
+  "O2": 8
+ },
+ "per_category": 5,
+ "core_pairs": 175,
+ "raters": {
+  "R01": {
+   "practice": 3,
+   "core": 175,
+   "repeat": 10,
+   "total": 188,
+   "a_left_by_comp": {
+    "R1": 18,
+    "R2": 18,
+    "R3": 18,
+    "O1": 18,
+    "O2": 18
+   },
+   "packet_sha256": "df13a962e9b9135e4d3658242d2aae853382a1618ea941cd18501dfb8db3311a"
+  },
+  "R02": {
+   "practice": 3,
+   "core": 175,
+   "repeat": 10,
+   "total": 188,
+   "a_left_by_comp": {
+    "R1": 17,
+    "R2": 17,
+    "R3": 17,
+    "O1": 17,
+    "O2": 17
+   },
+   "packet_sha256": "97f9064f303f4114ed478b298568f93f6ad4819db874d7f78a4d25d0e76ea3de"
+  },
+  "R03": {
+   "practice": 3,
+   "core": 175,
+   "repeat": 10,
+   "total": 188,
+   "a_left_by_comp": {
+    "R1": 18,
+    "R2": 18,
+    "R3": 18,
+    "O1": 18,
+    "O2": 18
+   },
+   "packet_sha256": "35dc4fb039804db858c8134846ef5208c0af3670d21995129d79958afa6173e2"
+  }
+ },
+ "sample_sha256": "268cf6b782c4c6faaf814a4013adf67001042925296aca9caa7ef17002fa8790",
+ "mapping_sha256": "8ba2fa8c1aab5caecc4602c22909fadcf93649a0ceb2b954701016ef5adfd29c",
+ "html_sha256": {
+  "R01": "7415507fd032444d7a593b4b381de668123fcfb189df7ce1064aded1195be98d",
+  "R02": "c6c0952cad0a643ec0e4493a4d25eeae8bc02f74a49673d820905f6421cacdcb",
+  "R03": "86b8edfe0e5474fa5f2c677cf3ade56890c7723b667b476c4a4fdeca6a689b56"
+ }
+}

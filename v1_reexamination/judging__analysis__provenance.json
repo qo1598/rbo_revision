@@ -1,0 +1,54 @@
+{
+  "schema_version": "rbo-v1-openai-strict-provenance-v1",
+  "source_collection_completed_at_utc": "2026-09-20T15:56:14.221627+00:00",
+  "inputs": {
+    "judge_config.json": {
+      "bytes": 1432,
+      "sha256": "7b7547745a0fcde7b966e60e0ece0e9eac582e91a395af88e7d2539c8922935a"
+    },
+    "target_manifest.jsonl": {
+      "bytes": 1509792,
+      "sha256": "bda3a16715cba7f2a98ec42e1c9aa7d410f9d5a11ee6284252b23e6bcccc2d52"
+    },
+    "private/verdicts.jsonl": {
+      "bytes": 9969816,
+      "sha256": "a9a1923882aa1458bc1fbfc1f30038e0321136dfe1aea006420f94e542d4e9a3"
+    },
+    "private/raw_events.jsonl": {
+      "bytes": 66012012,
+      "sha256": "6d9a4e010b38ab7dfb07a20131e667a53508f347a1a0a873115fc475d7021319"
+    },
+    "recovery_operational_audit.json": {
+      "bytes": 2520,
+      "sha256": "78d08a6e39780f21b797f21a8466315919c09d477520770fe4f239f75248bc3a"
+    }
+  },
+  "analysis_script": {
+    "path": "analysis/analyze_openai_strict.py",
+    "bytes": 30031,
+    "sha256": "8fac2cff56fa9d7f5e2957dd982ae670f69f94ec3aa2df14a4721dd67e0ecb6f"
+  },
+  "outputs": {
+    "results.json": {
+      "bytes": 12967,
+      "sha256": "64970339fb97f098566a186a5ec8bcfa25a1157651ee66459af74dd06630000d"
+    },
+    "aggregate_by_comparison_seed.csv": {
+      "bytes": 1855,
+      "sha256": "9063a50eabf237cdea0f982506054f3079bdbff22aa61774e474e287fe387819"
+    },
+    "aggregate_overall.csv": {
+      "bytes": 1384,
+      "sha256": "7323bb5cd58fa5ec36ef17e358e8646421daa5004481d77daa175bd80b96665b"
+    },
+    "judge_resources.csv": {
+      "bytes": 363,
+      "sha256": "14e748e5ac8bc856de563b4080e827704fd0cba407db171bf8a7201945aa67df"
+    },
+    "OPENAI_STRICT_ANALYSIS.md": {
+      "bytes": 2218,
+      "sha256": "13f9b3030151b23faa1fa3589fa3b76e5b446100bab42c12c73d4027216ea80e"
+    }
+  },
+  "privacy": "Aggregate outputs only; no item-level verdicts or rationales exported."
+}

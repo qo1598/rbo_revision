@@ -1,0 +1,347 @@
+{
+  "schema_version": "rbo-v1-openai-strict-analysis-v1",
+  "source_collection_completed_at_utc": "2026-09-20T15:56:14.221627+00:00",
+  "analysis_scope": {
+    "provider": "openai",
+    "configured_model": "gpt-4.1-2025-04-14",
+    "maximum_total_request_ordinal_included": 2,
+    "late_successes_excluded": 4,
+    "unresolved_order_targets": 5,
+    "raw_valid_targets": 4031,
+    "strict_valid_targets": 4027,
+    "planned_targets": 4032,
+    "order_level_counts": {
+      "late_success_excluded": 4,
+      "no_valid_response": 1,
+      "strict_missing": 5,
+      "strict_valid": 4027,
+      "unable": 1
+    },
+    "aggregation_rule": "Map both presentation-order verdicts to condition identity; retain only matching non-unable labels. Missing, unable, and disagreement remain unresolved."
+  },
+  "inference": {
+    "independent_cluster": "unique item_id",
+    "repeated_observations_within_cluster": "three generation seeds and both judge presentation orders",
+    "interval": "percentile cluster bootstrap over unique item IDs",
+    "test": "Monte Carlo two-sided unique-item cluster sign-flip test; Holm adjusted across the two primary comparisons",
+    "bootstrap_repetitions": 20000,
+    "signflip_repetitions": 100000,
+    "random_seed": 20260921
+  },
+  "by_comparison_seed": [
+    {
+      "planned_item_seed_pairs": 336,
+      "candidate_wins": 147,
+      "reference_wins": 41,
+      "ties": 56,
+      "unresolved": 92,
+      "unresolved_missing_order": 2,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 90,
+      "reciprocal_comparable_pairs": 334,
+      "reciprocal_order_disagreement_rate": 0.2694610778443114,
+      "decisive": 188,
+      "conditional_candidate_win_rate": 0.7819148936170213,
+      "conditional_effect_vs_half": 0.28191489361702127,
+      "unconditional_candidate_win_rate": 0.4375,
+      "tie_rate": 0.16666666666666666,
+      "unresolved_rate": 0.27380952380952384,
+      "comparison": "single_vs_self_refine",
+      "reference_condition": "single",
+      "candidate_condition": "self_refine",
+      "seed": 1701,
+      "conditional_wilson_lower_95": 0.7175632150728568,
+      "conditional_wilson_upper_95": 0.8349763697051844
+    },
+    {
+      "planned_item_seed_pairs": 336,
+      "candidate_wins": 146,
+      "reference_wins": 47,
+      "ties": 60,
+      "unresolved": 83,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 83,
+      "reciprocal_comparable_pairs": 336,
+      "reciprocal_order_disagreement_rate": 0.24702380952380953,
+      "decisive": 193,
+      "conditional_candidate_win_rate": 0.7564766839378239,
+      "conditional_effect_vs_half": 0.25647668393782386,
+      "unconditional_candidate_win_rate": 0.43452380952380953,
+      "tie_rate": 0.17857142857142858,
+      "unresolved_rate": 0.24702380952380953,
+      "comparison": "single_vs_self_refine",
+      "reference_condition": "single",
+      "candidate_condition": "self_refine",
+      "seed": 1702,
+      "conditional_wilson_lower_95": 0.691303383848499,
+      "conditional_wilson_upper_95": 0.8116394443195274
+    },
+    {
+      "planned_item_seed_pairs": 336,
+      "candidate_wins": 138,
+      "reference_wins": 55,
+      "ties": 55,
+      "unresolved": 88,
+      "unresolved_missing_order": 1,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 87,
+      "reciprocal_comparable_pairs": 335,
+      "reciprocal_order_disagreement_rate": 0.25970149253731345,
+      "decisive": 193,
+      "conditional_candidate_win_rate": 0.7150259067357513,
+      "conditional_effect_vs_half": 0.21502590673575128,
+      "unconditional_candidate_win_rate": 0.4107142857142857,
+      "tie_rate": 0.1636904761904762,
+      "unresolved_rate": 0.2619047619047619,
+      "comparison": "single_vs_self_refine",
+      "reference_condition": "single",
+      "candidate_condition": "self_refine",
+      "seed": 1703,
+      "conditional_wilson_lower_95": 0.6476301852609161,
+      "conditional_wilson_upper_95": 0.774028953506217
+    },
+    {
+      "planned_item_seed_pairs": 336,
+      "candidate_wins": 31,
+      "reference_wins": 83,
+      "ties": 123,
+      "unresolved": 99,
+      "unresolved_missing_order": 1,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 98,
+      "reciprocal_comparable_pairs": 335,
+      "reciprocal_order_disagreement_rate": 0.29253731343283584,
+      "decisive": 114,
+      "conditional_candidate_win_rate": 0.2719298245614035,
+      "conditional_effect_vs_half": -0.22807017543859648,
+      "unconditional_candidate_win_rate": 0.09226190476190477,
+      "tie_rate": 0.36607142857142855,
+      "unresolved_rate": 0.29464285714285715,
+      "comparison": "single_vs_rbo",
+      "reference_condition": "single",
+      "candidate_condition": "rbo_original_semantics",
+      "seed": 1701,
+      "conditional_wilson_lower_95": 0.19868457062496658,
+      "conditional_wilson_upper_95": 0.3600445853071367
+    },
+    {
+      "planned_item_seed_pairs": 336,
+      "candidate_wins": 39,
+      "reference_wins": 84,
+      "ties": 119,
+      "unresolved": 94,
+      "unresolved_missing_order": 1,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 93,
+      "reciprocal_comparable_pairs": 335,
+      "reciprocal_order_disagreement_rate": 0.27761194029850744,
+      "decisive": 123,
+      "conditional_candidate_win_rate": 0.3170731707317073,
+      "conditional_effect_vs_half": -0.18292682926829268,
+      "unconditional_candidate_win_rate": 0.11607142857142858,
+      "tie_rate": 0.3541666666666667,
+      "unresolved_rate": 0.27976190476190477,
+      "comparison": "single_vs_rbo",
+      "reference_condition": "single",
+      "candidate_condition": "rbo_original_semantics",
+      "seed": 1702,
+      "conditional_wilson_lower_95": 0.2414427051264536,
+      "conditional_wilson_upper_95": 0.40378370256085483
+    },
+    {
+      "planned_item_seed_pairs": 336,
+      "candidate_wins": 29,
+      "reference_wins": 80,
+      "ties": 142,
+      "unresolved": 85,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 1,
+      "reciprocal_order_disagreements": 84,
+      "reciprocal_comparable_pairs": 335,
+      "reciprocal_order_disagreement_rate": 0.2507462686567164,
+      "decisive": 109,
+      "conditional_candidate_win_rate": 0.26605504587155965,
+      "conditional_effect_vs_half": -0.23394495412844035,
+      "unconditional_candidate_win_rate": 0.08630952380952381,
+      "tie_rate": 0.4226190476190476,
+      "unresolved_rate": 0.25297619047619047,
+      "comparison": "single_vs_rbo",
+      "reference_condition": "single",
+      "candidate_condition": "rbo_original_semantics",
+      "seed": 1703,
+      "conditional_wilson_lower_95": 0.1920985866032066,
+      "conditional_wilson_upper_95": 0.35593986900521163
+    }
+  ],
+  "by_comparison": {
+    "single_vs_self_refine": {
+      "planned_item_seed_pairs": 1008,
+      "candidate_wins": 431,
+      "reference_wins": 143,
+      "ties": 171,
+      "unresolved": 263,
+      "unresolved_missing_order": 3,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 260,
+      "reciprocal_comparable_pairs": 1005,
+      "reciprocal_order_disagreement_rate": 0.25870646766169153,
+      "decisive": 574,
+      "conditional_candidate_win_rate": 0.7508710801393729,
+      "conditional_effect_vs_half": 0.25087108013937287,
+      "unconditional_candidate_win_rate": 0.42757936507936506,
+      "tie_rate": 0.16964285714285715,
+      "unresolved_rate": 0.26091269841269843,
+      "comparison": "single_vs_self_refine",
+      "reference_condition": "single",
+      "candidate_condition": "self_refine",
+      "unique_items": 336,
+      "seeds": [
+        1701,
+        1702,
+        1703
+      ],
+      "cluster_bootstrap_repetitions": 20000,
+      "cluster_bootstrap_seed": 20260921,
+      "cluster_bootstrap_95": {
+        "conditional_candidate_win_rate": {
+          "lower_95": 0.7022729813317435,
+          "upper_95": 0.7958842370567437
+        },
+        "unconditional_candidate_win_rate": {
+          "lower_95": 0.38492063492063494,
+          "upper_95": 0.4712301587301587
+        },
+        "tie_rate": {
+          "lower_95": 0.14186507936507936,
+          "upper_95": 0.19940476190476192
+        },
+        "unresolved_rate": {
+          "lower_95": 0.23015873015873015,
+          "upper_95": 0.2926587301587302
+        }
+      },
+      "cluster_signflip_repetitions": 100000,
+      "conditional_effect_vs_half_cluster_95": {
+        "lower_95": 0.20227298133174354,
+        "upper_95": 0.2958842370567437
+      },
+      "cluster_signflip_two_sided_p_raw": 9.99990000099999e-06,
+      "cluster_signflip_two_sided_p_holm": 1.999980000199998e-05
+    },
+    "single_vs_rbo": {
+      "planned_item_seed_pairs": 1008,
+      "candidate_wins": 99,
+      "reference_wins": 247,
+      "ties": 384,
+      "unresolved": 278,
+      "unresolved_missing_order": 2,
+      "unresolved_unable": 1,
+      "reciprocal_order_disagreements": 275,
+      "reciprocal_comparable_pairs": 1005,
+      "reciprocal_order_disagreement_rate": 0.2736318407960199,
+      "decisive": 346,
+      "conditional_candidate_win_rate": 0.2861271676300578,
+      "conditional_effect_vs_half": -0.2138728323699422,
+      "unconditional_candidate_win_rate": 0.09821428571428571,
+      "tie_rate": 0.38095238095238093,
+      "unresolved_rate": 0.2757936507936508,
+      "comparison": "single_vs_rbo",
+      "reference_condition": "single",
+      "candidate_condition": "rbo_original_semantics",
+      "unique_items": 336,
+      "seeds": [
+        1701,
+        1702,
+        1703
+      ],
+      "cluster_bootstrap_repetitions": 20000,
+      "cluster_bootstrap_seed": 20260921,
+      "cluster_bootstrap_95": {
+        "conditional_candidate_win_rate": {
+          "lower_95": 0.23512747875354106,
+          "upper_95": 0.3400591029421619
+        },
+        "unconditional_candidate_win_rate": {
+          "lower_95": 0.07936507936507936,
+          "upper_95": 0.11805555555555555
+        },
+        "tie_rate": {
+          "lower_95": 0.34523809523809523,
+          "upper_95": 0.4176587301587302
+        },
+        "unresolved_rate": {
+          "lower_95": 0.24603174603174602,
+          "upper_95": 0.3055555555555556
+        }
+      },
+      "cluster_signflip_repetitions": 100000,
+      "conditional_effect_vs_half_cluster_95": {
+        "lower_95": -0.26487252124645894,
+        "upper_95": -0.1599408970578381
+      },
+      "cluster_signflip_two_sided_p_raw": 9.99990000099999e-06,
+      "cluster_signflip_two_sided_p_holm": 1.999980000199998e-05
+    }
+  },
+  "judge_resources": {
+    "openai_request_rows_all_ordinals": 4062,
+    "strict_request_rows_ordinal_le_2": 4048,
+    "later_request_rows_ordinal_gt_2": 14,
+    "strict_attempt_outcomes_ordinal_le_2": 4046,
+    "unmatched_strict_request_rows_without_outcome": 2,
+    "unmatched_later_request_rows_without_outcome": 0,
+    "strict_attempt_elapsed_seconds": {
+      "n": 4046,
+      "sum": 6323.031000003801,
+      "mean": 1.5627857142866537,
+      "median": 1.5,
+      "p95": 2.25
+    },
+    "strict_error_kinds": {
+      "parse": 19
+    },
+    "strict_http_statuses_for_errors": {
+      "200": 19
+    },
+    "strict_valid_response_usage": {
+      "prompt_tokens": 2664322,
+      "completion_tokens": 539088,
+      "total_tokens": 3203410
+    },
+    "strict_valid_response_elapsed_seconds": {
+      "n": 4027,
+      "sum": 6276.638000003644,
+      "mean": 1.5586386888511656,
+      "median": 1.5,
+      "p95": 2.234000000054948
+    },
+    "strict_returned_models": {
+      "gpt-4.1-2025-04-14": 4027
+    },
+    "strict_cost_metadata_status": {
+      "not_returned_by_api": 4027
+    },
+    "monetary_cost": null,
+    "monetary_cost_note": "The API returned no monetary cost; no post hoc price estimate is substituted.",
+    "excluded_late_success_usage": {
+      "prompt_tokens": 3065,
+      "completion_tokens": 1132,
+      "total_tokens": 4197
+    },
+    "excluded_late_success_elapsed_seconds": {
+      "n": 4,
+      "sum": 9.000999999931082,
+      "mean": 2.2502499999827705,
+      "median": 2.250499999965541,
+      "p95": 2.3233499999681952
+    }
+  },
+  "limitations": [
+    "This is one OpenAI judge model, not the frozen multi-provider panel.",
+    "The four late successes are excluded and one target has no valid response; neither is converted to a tie.",
+    "The cluster bootstrap addresses repeated seeds within item but does not capture judge-model selection uncertainty.",
+    "A nonsignificant result does not establish equivalence.",
+    "Monetary cost is unavailable because the API returned no cost and no contemporaneous pricing table was frozen."
+  ]
+}

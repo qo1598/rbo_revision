@@ -1,0 +1,11 @@
+{
+ "run_koalpaca.py": "37c512828126d69620ae67b8c33d897f2185c92c96a67b5945b2c7f4ce6895b0",
+ "rbo.py": "cc4cb839a1c77af841aa335a04c3073883e7754d36fa00061557fb85407cdfb1",
+ "common.py": "ca76661c71445a5f5ebfc1c495811e7ee5b5a3a485f78474704f3b7593b40160",
+ "PROTOCOL_KOALPACA350.md": "4ab502651b0ec1fb5576577d3d32683a405fb667e4d178fab4bbaa10f8ce3fc4",
+ "../rbo_s_v1/bank_orig350.jsonl": "cd4cdb09997dde288daa05361dedc5f6703dfa9dc673ec5560d8daff8be4b39c",
+ "../rbo_s_v1/gen_judge.py": "6453bdcf61c515fb108268d66500e5646042619e2e330d8a132b9d74be19a3fd",
+ "../rbo_s_v1/gen_eval.py": "48e5fd747a3caa34afde7c1c39b020138a927189ee3fe6ff347ed3d95d76d3d2",
+ "../rbo_s_v1/judge_client.py": "c6366c58bcfc9fa156044a7236965e05c22f77d6559d9da1231747c2f91fa83d",
+ "_created": "2026-09-27 before any RBO v2 KoAlpaca output"
+}

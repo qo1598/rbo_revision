@@ -1,0 +1,58 @@
+{
+ "korquad": {
+  "single A.X": {
+   "n": 900,
+   "mean_prompt_tokens": 311.3688888888889,
+   "approx_calls": 0
+  },
+  "single Qwen3-8B": {
+   "n": 900,
+   "mean_prompt_tokens": 505.96222222222224,
+   "approx_calls": 0
+  },
+  "SC3 A.X": {
+   "n": 900,
+   "mean_prompt_tokens": 934.1066666666667,
+   "approx_calls": 0
+  },
+  "Self-Refine A.X": {
+   "n": 900,
+   "mean_prompt_tokens": 604.8144444444445,
+   "approx_calls": 900
+  },
+  "RBO v2": {
+   "n": 900,
+   "mean_prompt_tokens": 1045.9866666666667,
+   "approx_calls": 31
+  }
+ },
+ "hrm8k": {
+  "_qwen_per_ax_token_ratio": 1.6665339350499955,
+  "single A.X": {
+   "n": 400,
+   "mean_prompt_tokens": 88.505,
+   "approx_calls": 0
+  },
+  "single Qwen3-8B": {
+   "n": 400,
+   "mean_prompt_tokens": 155.1675,
+   "approx_calls": 0
+  },
+  "SC3 A.X": {
+   "n": 400,
+   "mean_prompt_tokens": 265.515,
+   "approx_calls": 0
+  },
+  "Self-Refine A.X": {
+   "n": 400,
+   "mean_prompt_tokens": 957.955,
+   "approx_calls": 952
+  },
+  "RBO v2": {
+   "n": 400,
+   "mean_prompt_tokens": 644.5354301610477,
+   "approx_calls": 80
+  }
+ },
+ "method": "templates + traces + HF tokenizers (skt/A.X-4.0-Light; Qwen/Qwen3-8B, +4 Ollama template offset); see docstring"
+}

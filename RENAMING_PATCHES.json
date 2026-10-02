@@ -1,0 +1,1401 @@
+{
+ "code/human_eval/analyze.py": {
+  "original_path": "code/human_eval/analyze.py",
+  "original_sha256": "2aed1496b75f607a7f6eaeb78313229824dcaae0e48f14902f2e5434c2aa0d4d",
+  "edits": [
+   [
+    942,
+    5,
+    "rbov3"
+   ],
+   [
+    955,
+    8,
+    "v3single"
+   ],
+   [
+    1000,
+    5,
+    "rbov3"
+   ],
+   [
+    1069,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "code/human_eval/build.py": {
+  "original_path": "code/human_eval/build.py",
+  "original_sha256": "5e8bfb69fab533cc3c739edc2d6a98574ed8d52c5129e49ced08eb301687c881",
+  "edits": [
+   [
+    859,
+    5,
+    "rbov3"
+   ],
+   [
+    868,
+    8,
+    "v3single"
+   ],
+   [
+    892,
+    5,
+    "rbov3"
+   ],
+   [
+    926,
+    5,
+    "rbov3"
+   ],
+   [
+    1701,
+    5,
+    "rbov3"
+   ],
+   [
+    1710,
+    8,
+    "v3single"
+   ],
+   [
+    3340,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "code/human_eval/build9.py": {
+  "original_path": "code/human_eval/build9.py",
+  "original_sha256": "f18a0f2c4317672a8892b2f6ca2d70b2f753405225a59f219af04dd05e4a85a3",
+  "edits": [
+   [
+    1854,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "code/judge_and_banks/gen_judge.py": {
+  "original_path": "code/judge_and_banks/gen_judge.py",
+  "original_sha256": "6453bdcf61c515fb108268d66500e5646042619e2e330d8a132b9d74be19a3fd",
+  "edits": [
+   [
+    999,
+    21,
+    "PROTOCOL_V2_KOALPACA_AMENDMENT1"
+   ]
+  ]
+ },
+ "code/manuscript/figures.py": {
+  "original_path": "code/manuscript/figures.py",
+  "original_sha256": "4ccbd31cf1af5ca20ad94fac3d59016d8749f7cbd5d052155f24e4d3f28f2020",
+  "edits": [
+   [
+    399,
+    6,
+    "rbo_v3"
+   ],
+   [
+    684,
+    6,
+    "rbo_v3"
+   ],
+   [
+    4132,
+    8,
+    "v3single"
+   ]
+  ]
+ },
+ "code/manuscript/ifeval_coverage.py": {
+  "original_path": "code/manuscript/ifeval_coverage.py",
+  "original_sha256": "382a41909011792fef9c20591855e5fe482ac9dbd408cc7edfd8b2a807a12f7a",
+  "edits": [
+   [
+    681,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ },
+ "code/manuscript/reconstruct_prompt_tokens.py": {
+  "original_path": "code/manuscript/reconstruct_prompt_tokens.py",
+  "original_sha256": "08ca66ef3ecc18246d445b34774bcd4cb429dd2b9dc4d612a9957befa36e68c3",
+  "edits": [
+   [
+    186,
+    6,
+    "rbo_v3"
+   ],
+   [
+    1069,
+    3,
+    "_V3"
+   ],
+   [
+    1242,
+    6,
+    "rbo_v3"
+   ],
+   [
+    3931,
+    6,
+    "RBO v3"
+   ],
+   [
+    6390,
+    6,
+    "RBO v3"
+   ],
+   [
+    9836,
+    6,
+    "RBO v3"
+   ],
+   [
+    10205,
+    3,
+    "_V3"
+   ]
+  ]
+ },
+ "code/manuscript/resources.py": {
+  "original_path": "code/manuscript/resources.py",
+  "original_sha256": "d01c0cc50ab856ffc14f0781750803f453140e63707ed5847ff2548f8c191838",
+  "edits": [
+   [
+    36,
+    6,
+    "RBO v3"
+   ],
+   [
+    128,
+    6,
+    "rbo_v3"
+   ],
+   [
+    201,
+    3,
+    "_V3"
+   ],
+   [
+    450,
+    6,
+    "rbo_v3"
+   ],
+   [
+    623,
+    6,
+    "RBO v3"
+   ],
+   [
+    784,
+    6,
+    "RBO v3"
+   ],
+   [
+    865,
+    6,
+    "RBO v3"
+   ],
+   [
+    1058,
+    6,
+    "RBO v3"
+   ],
+   [
+    1136,
+    6,
+    "RBO v3"
+   ],
+   [
+    1319,
+    6,
+    "RBO v3"
+   ],
+   [
+    2851,
+    3,
+    "_V3"
+   ]
+  ]
+ },
+ "code/rbo_v2/analyze_ext.py": {
+  "original_path": "code/rbo_v3/analyze_ext.py",
+  "original_sha256": "6894fec4c5f8c000680a221ea2d4d8add6ef276113c3e66222f9c64ce957ff55",
+  "edits": []
+ },
+ "code/rbo_v2/analyze_ifeval.py": {
+  "original_path": "code/rbo_v3/analyze_ifeval.py",
+  "original_sha256": "ef34880957131f0330e6dc9a65bca9d3e187cbf233a86d885aa3bd2fac695d4e",
+  "edits": []
+ },
+ "code/rbo_v2/analyze_koalpaca350.py": {
+  "original_path": "code/rbo_v3/analyze_koalpaca350.py",
+  "original_sha256": "068b9ebf04fbaeb0b149af9b11b44d04534dae58b95149054cbb9ef28b811c8e",
+  "edits": [
+   [
+    617,
+    5,
+    "rbov3"
+   ],
+   [
+    630,
+    5,
+    "rbov3"
+   ],
+   [
+    640,
+    8,
+    "v3single"
+   ],
+   [
+    660,
+    8,
+    "v3single"
+   ],
+   [
+    938,
+    8,
+    "v3single"
+   ],
+   [
+    954,
+    8,
+    "v3single"
+   ],
+   [
+    1501,
+    5,
+    "rbov3"
+   ],
+   [
+    2041,
+    5,
+    "rbov3"
+   ],
+   [
+    2500,
+    5,
+    "rbov3"
+   ],
+   [
+    2549,
+    5,
+    "rbov3"
+   ],
+   [
+    2763,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/analyze_mathqa.py": {
+  "original_path": "code/rbo_v3/analyze_mathqa.py",
+  "original_sha256": "4a6d0d1152a947967af85621d2769ec2b28327e6b1fce7e639a23042a4798f7e",
+  "edits": []
+ },
+ "code/rbo_v2/common.py": {
+  "original_path": "code/rbo_v3/common.py",
+  "original_sha256": "ca76661c71445a5f5ebfc1c495811e7ee5b5a3a485f78474704f3b7593b40160",
+  "edits": [
+   [
+    57,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/data/hrm8k/gsm8k_test.csv": {
+  "original_path": "code/rbo_v3/data/hrm8k/gsm8k_test.csv",
+  "original_sha256": "939687e1ea5a4eb6b44d514baf88beefba489e0a78be8a0267dca97dbe3caf11",
+  "edits": []
+ },
+ "code/rbo_v2/data/ifeval_ko/ifeval_ko.yaml": {
+  "original_path": "code/rbo_v3/data/ifeval_ko/ifeval_ko.yaml",
+  "original_sha256": "5be0e47d832327d68c4eb5463df44aea296ff4ccc4ae930e28fee57e4d7c837b",
+  "edits": []
+ },
+ "code/rbo_v2/data/ifeval_ko/instructions.py": {
+  "original_path": "code/rbo_v3/data/ifeval_ko/instructions.py",
+  "original_sha256": "afdbf1e2cafe8f3a1480d36aeff245365e1f896bacd87cd3c1ea48278e673842",
+  "edits": []
+ },
+ "code/rbo_v2/data/ifeval_ko/instructions_registry.py": {
+  "original_path": "code/rbo_v3/data/ifeval_ko/instructions_registry.py",
+  "original_sha256": "3c7247b270eb51e5a6eb937b865f68fad05617b7648299c9f0b6bcd2f9b82116",
+  "edits": []
+ },
+ "code/rbo_v2/data/ifeval_ko/instructions_util.py": {
+  "original_path": "code/rbo_v3/data/ifeval_ko/instructions_util.py",
+  "original_sha256": "95d2b002aa4d12bbab524e48c1dbbcfe6f444078c5f4ed41f79cddc1f455ddd2",
+  "edits": []
+ },
+ "code/rbo_v2/data/ifeval_ko/README.md": {
+  "original_path": "code/rbo_v3/data/ifeval_ko/README.md",
+  "original_sha256": "ffc3b48567c6607751679360bb04d1bd36577ad711d6e87e2dc573e73cc89220",
+  "edits": []
+ },
+ "code/rbo_v2/data/ifeval_ko/utils.py": {
+  "original_path": "code/rbo_v3/data/ifeval_ko/utils.py",
+  "original_sha256": "d65b40fd09b96babfa55ce14d024cf17244a9b29a4e0f041ab7adeaad897c12a",
+  "edits": []
+ },
+ "code/rbo_v2/data/ifeval_ko.parquet": {
+  "original_path": "code/rbo_v3/data/ifeval_ko.parquet",
+  "original_sha256": "91e0efeef3ea81191e48ce358ebb30d399abdfadc58cbc42e943281820038fa0",
+  "edits": []
+ },
+ "code/rbo_v2/data/README_Ko.md": {
+  "original_path": "code/rbo_v3/data/README_Ko.md",
+  "original_sha256": "4c6faf50abb4fbc740776a330990be29dcb5a4ce9fb34560fc1433ecaccc56c6",
+  "edits": []
+ },
+ "code/rbo_v2/judge_usage.py": {
+  "original_path": "code/rbo_v3/judge_usage.py",
+  "original_sha256": "a232a5bf6414cef2df4e18b83ca15ee5f0aaa87f107604cab512345fe76f6f6b",
+  "edits": []
+ },
+ "code/rbo_v2/rbo.py": {
+  "original_path": "code/rbo_v3/rbo.py",
+  "original_sha256": "cc4cb839a1c77af841aa335a04c3073883e7754d36fa00061557fb85407cdfb1",
+  "edits": [
+   [
+    3,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/rbo_math.py": {
+  "original_path": "code/rbo_v3/rbo_math.py",
+  "original_sha256": "aedd1cc207970c3a565cc342e8093488240e46d3e82ee73d4b10cb4ae3fdba0f",
+  "edits": [
+   [
+    3,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/rbo_qa.py": {
+  "original_path": "code/rbo_v3/rbo_qa.py",
+  "original_sha256": "6ffcf849bc17544f1725c45dc297459e26277ba73a8f1387a2265ad038e2daf6",
+  "edits": [
+   [
+    3,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/replay_reviser.py": {
+  "original_path": "code/rbo_v3/replay_reviser.py",
+  "original_sha256": "592b28c21e4a0e7af6ef7be49f453e7a11b17f5d63d576830c8234c836eccbbb",
+  "edits": []
+ },
+ "code/rbo_v2/run_after_korquad.sh": {
+  "original_path": "code/rbo_v3/run_after_korquad.sh",
+  "original_sha256": "875c74fa591a491391186d6b95b50b29f53fb1c99f77a3bddc8dbf46be3ec614",
+  "edits": [
+   [
+    211,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_ext.sh": {
+  "original_path": "code/rbo_v3/run_ext.sh",
+  "original_sha256": "9f4b92a5a79d162142c0576d9e5d296eb3542841332179c839156dc899bff218",
+  "edits": [
+   [
+    104,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_frontier_koalpaca.py": {
+  "original_path": "code/rbo_v3/run_frontier_koalpaca.py",
+  "original_sha256": "47296de1666e7455c6327f80d369dedb6606528fc6e99666c8f4b252af732010",
+  "edits": [
+   [
+    150,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_gpt4o.py": {
+  "original_path": "code/rbo_v3/run_gpt4o.py",
+  "original_sha256": "51fec8b3970bb23d29cb49c84853afe003a12e6fb239b5258186d6b2f2e27501",
+  "edits": []
+ },
+ "code/rbo_v2/run_gpt4o_tasks.py": {
+  "original_path": "code/rbo_v3/run_gpt4o_tasks.py",
+  "original_sha256": "934bc6bbafa30e15f2cf42a968b5b5afc7cd77dc9b1a4c552a6aa0a474d5e3a8",
+  "edits": []
+ },
+ "code/rbo_v2/run_judge_koalpaca.sh": {
+  "original_path": "code/rbo_v3/run_judge_koalpaca.sh",
+  "original_sha256": "d0a12dfe3167939421201c44baa05d1f8e95f694c90705989a91a60b8fff26ee",
+  "edits": [
+   [
+    408,
+    22,
+    "_policies_v2.jsonl"
+   ],
+   [
+    435,
+    5,
+    "rbov3"
+   ],
+   [
+    497,
+    22,
+    "_policies_v2.jsonl"
+   ],
+   [
+    524,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_judge_koalpaca_a1.sh": {
+  "original_path": "code/rbo_v3/run_judge_koalpaca_a1.sh",
+  "original_sha256": "4bd138ec9490fd9058928fbf2870e2b2d504286309b85f53dfbe8c1951c528af",
+  "edits": [
+   [
+    240,
+    22,
+    "_policies_v2.jsonl"
+   ],
+   [
+    267,
+    5,
+    "rbov3"
+   ],
+   [
+    325,
+    22,
+    "_policies_v2.jsonl"
+   ],
+   [
+    352,
+    5,
+    "rbov3"
+   ],
+   [
+    434,
+    8,
+    "v3single"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_koalpaca.py": {
+  "original_path": "code/rbo_v3/run_koalpaca.py",
+  "original_sha256": "37c512828126d69620ae67b8c33d897f2185c92c96a67b5945b2c7f4ce6895b0",
+  "edits": [
+   [
+    866,
+    8,
+    "v3single"
+   ],
+   [
+    889,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_mathqa.sh": {
+  "original_path": "code/rbo_v3/run_mathqa.sh",
+  "original_sha256": "7d30ff71ec16ae56971bfa670fa61ac4ac7c85f035703ba8f3645eb6333b0952",
+  "edits": [
+   [
+    33,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_resume.sh": {
+  "original_path": "code/rbo_v3/run_resume.sh",
+  "original_sha256": "c04d66ef4c9e243a43677f43bd272015ca72a97e0f0700ec1b7472585c215c57",
+  "edits": [
+   [
+    158,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_resume_math.sh": {
+  "original_path": "code/rbo_v3/run_resume_math.sh",
+  "original_sha256": "dc106f073f561060eaaaea7488a05d534eccd04143a71b674da047d54f4754b8",
+  "edits": [
+   [
+    145,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ },
+ "code/rbo_v2/run_single.py": {
+  "original_path": "code/rbo_v3/run_single.py",
+  "original_sha256": "f48014216cf81c60419244c03edded0952b1a592585414630642771974093c28",
+  "edits": []
+ },
+ "code/rbo_v2/run_sr.py": {
+  "original_path": "code/rbo_v3/run_sr.py",
+  "original_sha256": "2d2e90ae682531bc1fb6325691bd389e8e77e986437e539d5ddc2c3000bca3cd",
+  "edits": []
+ },
+ "code/rbo_v2/score_ifeval.py": {
+  "original_path": "code/rbo_v3/score_ifeval.py",
+  "original_sha256": "4462c88cbe683e25a8b129494d736d3ef85ef3c9dad7f4c8c1ddd38c81194546",
+  "edits": []
+ },
+ "code/rbo_v2/split_ifeval.py": {
+  "original_path": "code/rbo_v3/split_ifeval.py",
+  "original_sha256": "5423685f951c74b4c6ccaeff83154b33ef809116588e50f0115904aebfb7b594",
+  "edits": []
+ },
+ "derived/FIG_BOUNDARY_DATA.json": {
+  "original_path": "derived/FIG_BOUNDARY_DATA.json",
+  "original_sha256": "3c0500241b50bc2aa9a5cb7e8885d53947df32cf8404e1a4f626f09c30478501",
+  "edits": [
+   [
+    1273,
+    5,
+    "rbov3"
+   ],
+   [
+    1615,
+    8,
+    "v3single"
+   ],
+   [
+    1914,
+    5,
+    "rbov3"
+   ],
+   [
+    1935,
+    8,
+    "v3single"
+   ],
+   [
+    2565,
+    5,
+    "rbov3"
+   ],
+   [
+    3245,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "derived/KOALPACA350_BY_CATEGORY.json": {
+  "original_path": "derived/KOALPACA350_BY_CATEGORY.json",
+  "original_sha256": "7ac536986eef90890a13a451e6ec6d709aed0b8e24389ff3e26c7c9bed0dc8e1",
+  "edits": [
+   [
+    9,
+    8,
+    "v3single"
+   ]
+  ]
+ },
+ "derived/PROMPT_TOKENS_V2.json": {
+  "original_path": "derived/PROMPT_TOKENS_V3.json",
+  "original_sha256": "6a18a86d7ef4d045355a1da5574868dc736e36fa86ff6c5caad2de5656d154df",
+  "edits": [
+   [
+    455,
+    6,
+    "RBO v3"
+   ],
+   [
+    1020,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "derived/RESOURCES_V2.json": {
+  "original_path": "derived/RESOURCES_V3.json",
+  "original_sha256": "87e9f7fa7997895a8ef91b39a8e50b406a7b5a306815013ae2c70dbc82223b3d",
+  "edits": [
+   [
+    20,
+    6,
+    "RBO v3"
+   ],
+   [
+    812,
+    6,
+    "RBO v3"
+   ],
+   [
+    1058,
+    6,
+    "RBO v3"
+   ],
+   [
+    1989,
+    6,
+    "RBO v3"
+   ],
+   [
+    2219,
+    6,
+    "RBO v3"
+   ],
+   [
+    3034,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "judgments/koalpaca350/eval_orig350_ext-rbov2_vs_archived-gpt4o_archived.jsonl": {
+  "original_path": "judgments/koalpaca350/eval_orig350_ext-rbov3_vs_archived-gpt4o_archived.jsonl",
+  "original_sha256": "8e7acfbdd289d7fc51220b1da371af8bd6556f276db750cfb102409285b1c633",
+  "edits": []
+ },
+ "judgments/koalpaca350/eval_orig350_ext-rbov2_vs_archived-rbo_v1_main.jsonl": {
+  "original_path": "judgments/koalpaca350/eval_orig350_ext-rbov3_vs_archived-rbo_v1_main.jsonl",
+  "original_sha256": "68655d6cb98a3108a8409337b2c26fb8c3c4ba817a818e9394f1a25fcb0c31f5",
+  "edits": []
+ },
+ "judgments/koalpaca350/eval_orig350_ext-rbov2_vs_ext-deepseek_matched.jsonl": {
+  "original_path": "judgments/koalpaca350/eval_orig350_ext-rbov3_vs_ext-deepseek_matched.jsonl",
+  "original_sha256": "58aad60a3f6648b6332a1f0f8c258d840aa58de62fd3914b21984f74771b7f74",
+  "edits": []
+ },
+ "judgments/koalpaca350/eval_orig350_ext-rbov2_vs_ext-gpt4o_matched.jsonl": {
+  "original_path": "judgments/koalpaca350/eval_orig350_ext-rbov3_vs_ext-gpt4o_matched.jsonl",
+  "original_sha256": "3aa7a052febc0250ffc4c1a673669246124ebf3172129751dcc64da69927862d",
+  "edits": []
+ },
+ "judgments/koalpaca350/eval_orig350_ext-rbov2_vs_ext-v2single_ax7.jsonl": {
+  "original_path": "judgments/koalpaca350/eval_orig350_ext-rbov3_vs_ext-v3single_ax7.jsonl",
+  "original_sha256": "ab9e445ddef9a79ddee533ec3ccaaf56c115b514d3121b4b0ef05a6f6cc7c0ce",
+  "edits": []
+ },
+ "outputs/koalpaca350/orig350_ext_rbov2.jsonl": {
+  "original_path": "outputs/koalpaca350/orig350_ext_rbov3.jsonl",
+  "original_sha256": "675a752ce2e8a82f5783d1e6369fc8a8c176b82ab9b51d6b897ed1560c7f356e",
+  "edits": []
+ },
+ "outputs/koalpaca350/orig350_ext_v2single_ax7.jsonl": {
+  "original_path": "outputs/koalpaca350/orig350_ext_v3single_ax7.jsonl",
+  "original_sha256": "3f54467e21593f707f17d1130f71905e2c73af2be6000e7c5fd78fc1fc544e2f",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_gpt4o.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_gpt4o.jsonl",
+  "original_sha256": "ca617d8e9176064f21105e51e2a0a73870062ddec6c8049cd44be5186c97b849",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_rbo_midm2-ax7-midm2-hcx3.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_rbo_midm2-ax7-midm2-hcx3.jsonl",
+  "original_sha256": "0a51d2773d323954fc4860fe1d2583a9062274b659a5024d35a5fc9133664aa2",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_rbo_qwen8-ax7-qwen8-qwen8.dev_v1.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_rbo_qwen8-ax7-qwen8-qwen8.dev_v1.jsonl",
+  "original_sha256": "511bb152d2015f506c8798371cb98c4a50aa203d7b7e8709bc68fe8af36190f9",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_rbo_qwen8-ax7-qwen8-qwen8.dev_v1_rerun.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_rbo_qwen8-ax7-qwen8-qwen8.dev_v1_rerun.jsonl",
+  "original_sha256": "41d3dd33565e256a3d724d3c1fc776960df255121a6459331bc33377afe53af5",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_rbo_qwen8-ax7-qwen8-qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_rbo_qwen8-ax7-qwen8-qwen8.jsonl",
+  "original_sha256": "cfc5d06f47c72d3740c2d7df1a5053133a4f34c8d3ee48ad492421934788d3e3",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_sc3_ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_sc3_ax7.jsonl",
+  "original_sha256": "5395f640036a53d0a32d5ec4265e133c8d3b264f337e579605b8d5308e0737b4",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_single_ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_single_ax7.jsonl",
+  "original_sha256": "9c51b81172304692123b76acbed8b4a664fef55693c63cce9b63e4d24f2f0fc8",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_single_qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_single_qwen8.jsonl",
+  "original_sha256": "f65b99820a580d342e58719f9dca5004d97a5db8ce4c344944b5d74952028f40",
+  "edits": []
+ },
+ "outputs/rbo_v2/hrm8k_sr_ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/hrm8k_sr_ax7.jsonl",
+  "original_sha256": "1d18d4e8ca807f0dfbf40d1e1e8bbf3411fa208cce9ccd8b687dbf2bdd8e94d2",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_dev_single_qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_dev_single_qwen8.jsonl",
+  "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_gpt4o.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_gpt4o.jsonl",
+  "original_sha256": "f82c44928008bc797ed1512f915fba1045ddb2fef2d1982b6e55a59441ebf87a",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboL2_qwen8-ax7-qwen8-qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboL2_qwen8-ax7-qwen8-qwen8.jsonl",
+  "original_sha256": "58a0317df203e78b08b22cf685833b503bd29d9ed82abfb52270a288f3bba2ec",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_ax7-ax7-ax7-ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_ax7-ax7-ax7-ax7.jsonl",
+  "original_sha256": "2858e0e9636e33c15371c6b03412f558c0ab6830ffc9d57a288f32683ab685f6",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_exaone2-exaone2-exaone2-exaone2.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_exaone2-exaone2-exaone2-exaone2.jsonl",
+  "original_sha256": "5adba9d2ddc1a527d4cb4f7a52b34a6574c38ce4902ddc0988aee5f457b7022a",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_exaone8-exaone8-exaone8-exaone8.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_exaone8-exaone8-exaone8-exaone8.jsonl",
+  "original_sha256": "8ae9b2db6f3c32ff92789b878df4186ff537a84691c846e8e886c7c68253da0a",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_hcx3-hcx3-hcx3-hcx3.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_hcx3-hcx3-hcx3-hcx3.jsonl",
+  "original_sha256": "5ae180696ef4dd8851cf30e66502ac65dfd1bd7a354a192dbb23907a86778a3d",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_midm2-ax7-midm2-hcx3.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_midm2-ax7-midm2-hcx3.jsonl",
+  "original_sha256": "1a14ee2a25d3a9e2a7020141f768b5bb8f2667d485e2342b55221d20097095d4",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_midm2-midm2-midm2-midm2.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_midm2-midm2-midm2-midm2.jsonl",
+  "original_sha256": "98203004bd6c3226ea554e0f88c67a9bd6e680619c70f518c94f8b16576a4d16",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_qwen1.7-qwen1.7-qwen1.7-qwen1.7.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_qwen1.7-qwen1.7-qwen1.7-qwen1.7.jsonl",
+  "original_sha256": "8968e36719933a91589a18778b00057d716073a66c4fc0fcb8df88cf0a5b442e",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_qwen4-qwen4-qwen4-qwen4.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_qwen4-qwen4-qwen4-qwen4.jsonl",
+  "original_sha256": "ade7caf29b328dd066eb94f6b19f71d54224b8747085b8916c3cf3aaf94fb262",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_qwen8-ax7-qwen8-qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_qwen8-ax7-qwen8-qwen8.jsonl",
+  "original_sha256": "ad0e2503455568a480b6a9feb693c81a082a4cb1a267921cdbffe098cbdc0f73",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT2_qwen8-qwen8-qwen8-qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT2_qwen8-qwen8-qwen8-qwen8.jsonl",
+  "original_sha256": "93dfad87da4b46b336b2859bd2b9f0c7575cfe54249c7d9a3e9f073cb3ad90f6",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT_qwen8-ax7-qwen8-ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT_qwen8-ax7-qwen8-ax7.jsonl",
+  "original_sha256": "822b9f1a615390f9471809b932907a1df64f69254c3c7590d00550595680e048",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_rboT_qwen8-ax7-qwen8-qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_rboT_qwen8-ax7-qwen8-qwen8.jsonl",
+  "original_sha256": "7e25e04e9231a33ea36115af3c81b49ae80c3c0f0e681d6b469b0e6f96e15c99",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_single_ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_single_ax7.jsonl",
+  "original_sha256": "396968802651c18e4b1ca320a1da3fff225f8e4c324876992cc24123d3559f62",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_single_exaone2.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_single_exaone2.jsonl",
+  "original_sha256": "7ec22f119409cd69e1042161a8953abcbd96bc51ec078e5827a885e30d246c45",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_single_exaone8.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_single_exaone8.jsonl",
+  "original_sha256": "04624f285cb5d2de131453e7bec0886457677f54aad3e92fd030a6ad15592d07",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_single_hcx3.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_single_hcx3.jsonl",
+  "original_sha256": "c4ce9b332eb2f48dd8688bf52ae18470a211b84c6a757fac43eeec648b1b0515",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_single_midm2.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_single_midm2.jsonl",
+  "original_sha256": "04022115f565a94c54b36be43c6cb01faa597fff5299adfcc2e70c127c2f6f3d",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_single_qwen1.7.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_single_qwen1.7.jsonl",
+  "original_sha256": "76b0b66cd87250e66c4af1097d8c7ed18af475c9432007d23ce30f0e871791a2",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_single_qwen4.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_single_qwen4.jsonl",
+  "original_sha256": "0abdcb1949a3f9cb790e6189e4e831de388e9e94129827178c3b7fdffb7b038c",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_single_qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_single_qwen8.jsonl",
+  "original_sha256": "c428f7e175658f2d7b9a0a62badf97beb63cadf00eca4d69144ec3c8af1b12eb",
+  "edits": []
+ },
+ "outputs/rbo_v2/ifeval_sr_ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/ifeval_sr_ax7.jsonl",
+  "original_sha256": "9c1f000b3a8302a7d8f428fca221d26c2adf63685c7596c80618dbcd10eeba16",
+  "edits": []
+ },
+ "outputs/rbo_v2/korquad_gpt4o.jsonl": {
+  "original_path": "outputs/rbo_v3/korquad_gpt4o.jsonl",
+  "original_sha256": "b61ce521aa361364e82b2a1516a537d7e7acc782ee3413b0580935caa1f64f0d",
+  "edits": []
+ },
+ "outputs/rbo_v2/korquad_rbo_midm2-ax7-midm2-hcx3.jsonl": {
+  "original_path": "outputs/rbo_v3/korquad_rbo_midm2-ax7-midm2-hcx3.jsonl",
+  "original_sha256": "15e4f9c486f7be584c696bcbe1072113dec2bfb3b8ab691ce63bdc94aefa1a1a",
+  "edits": []
+ },
+ "outputs/rbo_v2/korquad_rbo_qwen8-ax7-qwen8-qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/korquad_rbo_qwen8-ax7-qwen8-qwen8.jsonl",
+  "original_sha256": "8e38dc0543f4579655c6ee49a0e33fa3a50904c898845a0f4a3e8e7217239bd2",
+  "edits": []
+ },
+ "outputs/rbo_v2/korquad_sc3_ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/korquad_sc3_ax7.jsonl",
+  "original_sha256": "58815e303d95e439b60e6375700953692883c93b645b0fbb63f78acf1081a8a4",
+  "edits": []
+ },
+ "outputs/rbo_v2/korquad_single_ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/korquad_single_ax7.jsonl",
+  "original_sha256": "dd882c1484daee591dd27de8d03a45a945d7905de329fd179d0b5cd3bebcf7b1",
+  "edits": []
+ },
+ "outputs/rbo_v2/korquad_single_qwen8.jsonl": {
+  "original_path": "outputs/rbo_v3/korquad_single_qwen8.jsonl",
+  "original_sha256": "d4654c1b74a6a858edafeab7077aeed40771d318906b4860964d9354260613b8",
+  "edits": []
+ },
+ "outputs/rbo_v2/korquad_sr_ax7.jsonl": {
+  "original_path": "outputs/rbo_v3/korquad_sr_ax7.jsonl",
+  "original_sha256": "53907e764895b173d4ac8221161602c70adaea03a2947ec6d3339550d4132085",
+  "edits": []
+ },
+ "protocols/human_eval/CORRECTION_2026-10-02_PROTOCOL_TEMPLATE_NOTE.md": {
+  "original_path": "protocols/human_eval/CORRECTION_2026-10-02_PROTOCOL_TEMPLATE_NOTE.md",
+  "original_sha256": "37dd44c0025eae0edf527c113a656e0ff11fe87491bca9b6d4a875d4e7e2e322",
+  "edits": [
+   [
+    409,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ },
+ "protocols/human_eval/MANIFEST.json": {
+  "original_path": "protocols/human_eval/MANIFEST.json",
+  "original_sha256": "df60e6d0d9ab40f13ca97e17a293147531937b725a7bae962ccfb8d9ad5e0c75",
+  "edits": [
+   [
+    386,
+    5,
+    "rbov3"
+   ],
+   [
+    484,
+    8,
+    "v3single"
+   ],
+   [
+    718,
+    5,
+    "rbov3"
+   ],
+   [
+    731,
+    8,
+    "v3single"
+   ],
+   [
+    767,
+    5,
+    "rbov3"
+   ],
+   [
+    817,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "protocols/human_eval/PROTOCOL.md": {
+  "original_path": "protocols/human_eval/PROTOCOL.md",
+  "original_sha256": "3e5c00bdad30527831c3cd76df77cba0182b835fba28023c5b2ea2b35ec35a71",
+  "edits": [
+   [
+    707,
+    6,
+    "RBO v3"
+   ],
+   [
+    739,
+    5,
+    "rbov3"
+   ],
+   [
+    762,
+    8,
+    "v3single"
+   ],
+   [
+    798,
+    6,
+    "RBO v3"
+   ],
+   [
+    840,
+    5,
+    "rbov3"
+   ],
+   [
+    901,
+    6,
+    "RBO v3"
+   ],
+   [
+    933,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/CORRECTION_2026-10-01_KOALPACA350_AMENDMENT1.md": {
+  "original_path": "protocols/rbo_v3/CORRECTION_2026-10-01_KOALPACA350_AMENDMENT1.md",
+  "original_sha256": "a5f445a9b207f5bd1774b74c061429e496e32c43f864159942a9dd7297d954a1",
+  "edits": [
+   [
+    337,
+    33,
+    "실험v3-v5"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/HRM8K_CONFIRM_RESULT.json": {
+  "original_path": "protocols/rbo_v3/HRM8K_CONFIRM_RESULT.json",
+  "original_sha256": "36dc837e654296736dd3163ec27180e7390d715942e653a6602cb40d30c7ff97",
+  "edits": []
+ },
+ "protocols/rbo_v2/IFEVAL_CONFIRM_RESULT.json": {
+  "original_path": "protocols/rbo_v3/IFEVAL_CONFIRM_RESULT.json",
+  "original_sha256": "f71cef4fc60957b21a1ec754375a995acf0f6066718bb8ca7d70cdf7109f378a",
+  "edits": []
+ },
+ "protocols/rbo_v2/IFEVAL_EXT_LOCK.json": {
+  "original_path": "protocols/rbo_v3/IFEVAL_EXT_LOCK.json",
+  "original_sha256": "636a1e7ba395360aa1935876e8e0c5036f72ab5894e9ce467356bc673cd8d46a",
+  "edits": []
+ },
+ "protocols/rbo_v2/IFEVAL_EXT_LOCK_A1.json": {
+  "original_path": "protocols/rbo_v3/IFEVAL_EXT_LOCK_A1.json",
+  "original_sha256": "f3dee9b9b0c05f9a08df8565535d34a33c5cb8b5e3d3ae81966c99be5828b606",
+  "edits": []
+ },
+ "protocols/rbo_v2/IFEVAL_EXT_LOCK_A2.json": {
+  "original_path": "protocols/rbo_v3/IFEVAL_EXT_LOCK_A2.json",
+  "original_sha256": "7db0a9daa607e614df5fccea87b8f60a2901a1ba322467e8f2fabf49f24867b2",
+  "edits": []
+ },
+ "protocols/rbo_v2/IFEVAL_EXT_RESULT.json": {
+  "original_path": "protocols/rbo_v3/IFEVAL_EXT_RESULT.json",
+  "original_sha256": "d24f65ef071cb3886ef0e0282e32aa1099477c03b66e4abf46f017e0d683f685",
+  "edits": []
+ },
+ "protocols/rbo_v2/IFEVAL_LOCK.json": {
+  "original_path": "protocols/rbo_v3/IFEVAL_LOCK.json",
+  "original_sha256": "7e231a251abe39a257785b063f28c644bb71cca18cb4ec1d344d016e6edb616e",
+  "edits": []
+ },
+ "protocols/rbo_v2/KOALPACA350_LOCK.json": {
+  "original_path": "protocols/rbo_v3/KOALPACA350_LOCK.json",
+  "original_sha256": "dc7904797d2c8bed81e3acb657236b2a0400d9c7e6d42f4b831b9ba70101af24",
+  "edits": [
+   [
+    788,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/KOALPACA350_LOCK_A1.json": {
+  "original_path": "protocols/rbo_v3/KOALPACA350_LOCK_A1.json",
+  "original_sha256": "e55b52339b263c36ac99a988a6e36df57c330640ecca39f5d59cb34f10623666",
+  "edits": []
+ },
+ "protocols/rbo_v2/KOALPACA350_RESULT.json": {
+  "original_path": "protocols/rbo_v3/KOALPACA350_RESULT.json",
+  "original_sha256": "00df4b9cad6be4e2cbb261466534ea563f38f54b8b16fe7e42323ea7b3f5b19f",
+  "edits": [
+   [
+    6,
+    8,
+    "v3single"
+   ],
+   [
+    322,
+    5,
+    "rbov3"
+   ],
+   [
+    345,
+    8,
+    "v3single"
+   ],
+   [
+    1031,
+    5,
+    "rbov3"
+   ],
+   [
+    1740,
+    5,
+    "rbov3"
+   ],
+   [
+    2462,
+    5,
+    "rbov3"
+   ],
+   [
+    3213,
+    5,
+    "rbov3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/KORQUAD_CONFIRM_RESULT.json": {
+  "original_path": "protocols/rbo_v3/KORQUAD_CONFIRM_RESULT.json",
+  "original_sha256": "8b323e0b88b3608bf6f9c25a8d662b9b6edf4d7dd6fb57ea31458023e3231a70",
+  "edits": []
+ },
+ "protocols/rbo_v2/MATHQA_LOCK.json": {
+  "original_path": "protocols/rbo_v3/MATHQA_LOCK.json",
+  "original_sha256": "7096e5f425af7fe1527d5d5620289284aa167ad599267d908ccaa2da2d86ae63",
+  "edits": []
+ },
+ "protocols/rbo_v2/PROTOCOL_IFEVAL.md": {
+  "original_path": "protocols/rbo_v3/PROTOCOL_IFEVAL.md",
+  "original_sha256": "d434405a98f54a72f3646c44c0bf2e82ce65165346adfc8ea1f946b5df55ddf2",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/PROTOCOL_IFEVAL_EXT.md": {
+  "original_path": "protocols/rbo_v3/PROTOCOL_IFEVAL_EXT.md",
+  "original_sha256": "a3c492e9432c71cad34a50542095c94682f0ad3e84e022ede541cf041b79254a",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ],
+   [
+    1009,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/PROTOCOL_KOALPACA350.md": {
+  "original_path": "protocols/rbo_v3/PROTOCOL_KOALPACA350.md",
+  "original_sha256": "4ab502651b0ec1fb5576577d3d32683a405fb667e4d178fab4bbaa10f8ce3fc4",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ],
+   [
+    107,
+    6,
+    "RBO v3"
+   ],
+   [
+    278,
+    6,
+    "RBO v3"
+   ],
+   [
+    765,
+    21,
+    "PROTOCOL_V2_KOALPACA_AMENDMENT1"
+   ],
+   [
+    1092,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/PROTOCOL_KOALPACA350_AMENDMENT1.md": {
+  "original_path": "protocols/rbo_v3/PROTOCOL_KOALPACA350_AMENDMENT1.md",
+  "original_sha256": "b01e0848bd92129f6e74b95c964369a96929bacc20053ad44960957cd79c69b9",
+  "edits": [
+   [
+    87,
+    6,
+    "RBO v3"
+   ],
+   [
+    223,
+    5,
+    "rbov3"
+   ],
+   [
+    366,
+    6,
+    "RBO v3"
+   ],
+   [
+    383,
+    6,
+    "RBO v3"
+   ],
+   [
+    496,
+    37,
+    "`논문2/실험v3-v5/generate_responses*.py`"
+   ],
+   [
+    715,
+    6,
+    "RBO v3"
+   ],
+   [
+    1224,
+    6,
+    "RBO v3"
+   ],
+   [
+    1483,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/PROTOCOL_MATH_QA.md": {
+  "original_path": "protocols/rbo_v3/PROTOCOL_MATH_QA.md",
+  "original_sha256": "25bc26dafb58815c96cc6024ff4be360f8d7ea2a20369c074746379385d7f202",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ],
+   [
+    1366,
+    6,
+    "RBO v3"
+   ],
+   [
+    1398,
+    6,
+    "RBO v3"
+   ],
+   [
+    1601,
+    6,
+    "RBO v3"
+   ],
+   [
+    1626,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/RESULT_HRM8K_V2_2026-09-28.md": {
+  "original_path": "protocols/rbo_v3/RESULT_HRM8K_V3_2026-09-28.md",
+  "original_sha256": "516e3bf0c160388f6a68c1b6815f815d54f11d8b90e661b42e535568dd07c6da",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ],
+   [
+    380,
+    6,
+    "RBO v3"
+   ],
+   [
+    576,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/RESULT_IFEVAL_2026-09-26.md": {
+  "original_path": "protocols/rbo_v3/RESULT_IFEVAL_2026-09-26.md",
+  "original_sha256": "51262d9f21b8f5f8c6e8563f4b09f0bc2afadcbc188b7ad8424e69e5d01579f3",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/RESULT_IFEVAL_EXT_2026-09-27.md": {
+  "original_path": "protocols/rbo_v3/RESULT_IFEVAL_EXT_2026-09-27.md",
+  "original_sha256": "08e13353e4007ce74413e98141bc7589aa835243f25653c89cfc19ef0af602f1",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ],
+   [
+    796,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/RESULT_KOALPACA350_V2_2026-09-27.md": {
+  "original_path": "protocols/rbo_v3/RESULT_KOALPACA350_V3_2026-09-27.md",
+  "original_sha256": "012b38b82784571f7ae2334e95e975cf3b6ecb3026a9fd850751f213191f26d4",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ],
+   [
+    321,
+    6,
+    "RBO v3"
+   ],
+   [
+    448,
+    6,
+    "RBO v3"
+   ],
+   [
+    515,
+    6,
+    "RBO v3"
+   ],
+   [
+    1123,
+    6,
+    "RBO v3"
+   ],
+   [
+    2199,
+    33,
+    "실험v3-v5"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/RESULT_KORQUAD_V2_2026-09-27.md": {
+  "original_path": "protocols/rbo_v3/RESULT_KORQUAD_V3_2026-09-27.md",
+  "original_sha256": "c1bf25e708a9320c8f38375028d8522a328293201eaaa39963f4091c77a6af12",
+  "edits": [
+   [
+    2,
+    6,
+    "RBO v3"
+   ],
+   [
+    277,
+    6,
+    "RBO v3"
+   ],
+   [
+    352,
+    6,
+    "RBO v3"
+   ],
+   [
+    944,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/SPLIT_HRM8K.json": {
+  "original_path": "protocols/rbo_v3/SPLIT_HRM8K.json",
+  "original_sha256": "c44a5a2789a55922be6bf713d5e21af609183e895b8cbe56c84cbe5f30e04504",
+  "edits": []
+ },
+ "protocols/rbo_v2/SPLIT_IFEVAL.json": {
+  "original_path": "protocols/rbo_v3/SPLIT_IFEVAL.json",
+  "original_sha256": "5f4c19368a1ca4eb18c9bb6b7ff52048b6e9b4bf46c5fcecf125227cd54a99fb",
+  "edits": []
+ },
+ "protocols/rbo_v2/SPLIT_IFEVAL.superseded_dev101.json": {
+  "original_path": "protocols/rbo_v3/SPLIT_IFEVAL.superseded_dev101.json",
+  "original_sha256": "3dfb1a6470e0a50a85d7f5782269a6fe320683a8440d0d92275119a4f3d6d69d",
+  "edits": []
+ },
+ "protocols/rbo_v2/SPLIT_KORQUAD.json": {
+  "original_path": "protocols/rbo_v3/SPLIT_KORQUAD.json",
+  "original_sha256": "b5e1e399bec95a51acea6416fabef781c561baef707863dc7f2bdf122ade3691",
+  "edits": [
+   [
+    305,
+    6,
+    "RBO v3"
+   ]
+  ]
+ },
+ "protocols/rbo_v2/SPLIT_NOTE.md": {
+  "original_path": "protocols/rbo_v3/SPLIT_NOTE.md",
+  "original_sha256": "83face99c8299a82077f53f8e18563f8bb870dcc12297c4487fef15f90e1228f",
+  "edits": []
+ },
+ "README.md": {
+  "original_path": "README.md",
+  "original_sha256": "30361f529f785fb3c69bbb6fd283ab6e9b14e256bd081456b5660b68ee0f2cd9",
+  "edits": [
+   [
+    284,
+    6,
+    "rbo_v3"
+   ],
+   [
+    295,
+    6,
+    "RBO v3"
+   ],
+   [
+    4886,
+    6,
+    "rbo_v3"
+   ]
+  ]
+ }
+}

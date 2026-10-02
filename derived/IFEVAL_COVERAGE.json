@@ -1,0 +1,142 @@
+{
+ "tool_types": [
+  "detectable_content:number_placeholders",
+  "detectable_format:json_format",
+  "detectable_format:number_bullet_lists",
+  "detectable_format:number_highlighted_sections",
+  "keywords:existence",
+  "keywords:forbidden_words",
+  "keywords:frequency",
+  "length_constraints:number_paragraphs",
+  "length_constraints:number_sentences",
+  "length_constraints:number_words",
+  "punctuation:no_comma",
+  "startend:end_checker",
+  "startend:quotation"
+ ],
+ "no_tool_types": [
+  "combination:repeat_prompt",
+  "combination:two_responses",
+  "detectable_content:postscript",
+  "detectable_format:constrained_response",
+  "detectable_format:multiple_sections",
+  "detectable_format:title",
+  "language:response_language",
+  "length_constraints:nth_paragraph_first_word"
+ ],
+ "coverage": {
+  "tool": {
+   "RBO v2": {
+    "n_instructions": 291,
+    "strict": 0.8969072164948454
+   },
+   "single A.X": {
+    "n_instructions": 291,
+    "strict": 0.7697594501718213
+   },
+   "Self-Refine A.X": {
+    "n_instructions": 291,
+    "strict": 0.7731958762886598
+   },
+   "GPT-4o": {
+    "n_instructions": 291,
+    "strict": 0.8144329896907216
+   }
+  },
+  "no_tool": {
+   "RBO v2": {
+    "n_instructions": 119,
+    "strict": 0.7899159663865546
+   },
+   "single A.X": {
+    "n_instructions": 119,
+    "strict": 0.7899159663865546
+   },
+   "Self-Refine A.X": {
+    "n_instructions": 119,
+    "strict": 0.7983193277310925
+   },
+   "GPT-4o": {
+    "n_instructions": 119,
+    "strict": 0.865546218487395
+   }
+  }
+ },
+ "split_sensitivity": {
+  "n_confirm": 292,
+  "n_moved_from_old_dev": 51,
+  "n_kept": 241,
+  "strict": {
+   "RBO v2": 0.8091286307053942,
+   "single A.X": 0.7219917012448133,
+   "Self-Refine A.X": 0.7261410788381742,
+   "GPT-4o": 0.7717842323651453
+  },
+  "rbo_vs_single": {
+   "W": 29,
+   "L": 8,
+   "p_exact": 0.0007528970600105822
+  },
+  "rbo_vs_selfrefine": {
+   "W": 28,
+   "L": 8,
+   "p_exact": 0.0011932429624721408
+  },
+  "rbo_vs_gpt4o": {
+   "W": 27,
+   "L": 18,
+   "p_exact": 0.23269319190831084
+  },
+  "rbo_vs_selfrefine_H2": {
+   "W": 28,
+   "L": 8,
+   "p_exact": 0.0011932429624721408
+  }
+ },
+ "homogeneous_ax": {
+  "strict": 0.773972602739726,
+  "homog_vs_selfrefine": {
+   "W": 23,
+   "L": 10,
+   "p_exact": 0.03508203336969018
+  },
+  "full_vs_homog": {
+   "W": 23,
+   "L": 9,
+   "p_exact": 0.020061607006937265
+  }
+ },
+ "coverage_diff_clustered": {
+  "tool": {
+   "n_prompts": 221,
+   "rbo_minus_single": 0.12714776632302405,
+   "ci95_prompt_cluster": [
+    0.08304498269896193,
+    0.1724137931034483
+   ]
+  },
+  "no_tool": {
+   "n_prompts": 107,
+   "rbo_minus_single": 0.0,
+   "ci95_prompt_cluster": [
+    -0.041666666666666664,
+    0.04132231404958678
+   ]
+  }
+ },
+ "tool_mapping": {
+  "length_constraints:number_words": "word_count",
+  "length_constraints:number_sentences": "sentence_count",
+  "length_constraints:number_paragraphs": "paragraph_count",
+  "detectable_format:number_bullet_lists": "bullet_count",
+  "detectable_format:number_highlighted_sections": "highlight_count",
+  "detectable_content:number_placeholders": "placeholder_count",
+  "keywords:frequency": "keyword_count",
+  "keywords:existence": "keyword_count",
+  "keywords:forbidden_words": "forbidden_words",
+  "punctuation:no_comma": "no_char",
+  "startend:end_checker": "ends_with",
+  "startend:quotation": "wrapped_in",
+  "detectable_format:json_format": "json_valid"
+ }
+}

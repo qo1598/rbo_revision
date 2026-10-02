@@ -1,0 +1,106 @@
+{
+  "lock_drift": [],
+  "n": 292,
+  "accuracy": {
+    "rbo_t2": {
+      "prompt_strict": 0.821917808219178,
+      "prompt_loose": 0.8458904109589042,
+      "inst_strict": 0.8658536585365854
+    },
+    "single_ax7": {
+      "prompt_strict": 0.7226027397260274,
+      "prompt_loose": 0.7534246575342466,
+      "inst_strict": 0.775609756097561
+    },
+    "single_qwen8": {
+      "prompt_strict": 0.726027397260274,
+      "prompt_loose": 0.7602739726027398,
+      "inst_strict": 0.7926829268292683
+    },
+    "sr_ax7": {
+      "prompt_strict": 0.7294520547945206,
+      "prompt_loose": 0.7568493150684932,
+      "inst_strict": 0.7804878048780488
+    },
+    "gpt4o": {
+      "prompt_strict": 0.7671232876712328,
+      "prompt_loose": 0.8013698630136986,
+      "inst_strict": 0.8292682926829268
+    }
+  },
+  "primary": {
+    "H1 rbo_t2 vs single_ax7": {
+      "W": 37,
+      "L": 8,
+      "p_exact_two_sided": 1.5374090196473844e-05,
+      "p_holm": 3.074818039294769e-05
+    },
+    "H2 rbo_t2 vs sr_ax7": {
+      "W": 35,
+      "L": 8,
+      "p_exact_two_sided": 4.1934157934520044e-05,
+      "p_holm": 4.1934157934520044e-05
+    }
+  },
+  "secondary": {
+    "rbo_t2 vs single_qwen8": {
+      "W": 44,
+      "L": 16,
+      "p_exact_two_sided": 0.00039404324272610154
+    },
+    "rbo_t2 vs gpt4o": {
+      "W": 35,
+      "L": 19,
+      "p_exact_two_sided": 0.0402235640957167
+    },
+    "single_ax7 vs gpt4o": {
+      "W": 20,
+      "L": 33,
+      "p_exact_two_sided": 0.09837064844049181
+    },
+    "sr_ax7 vs single_ax7": {
+      "W": 2,
+      "L": 0,
+      "p_exact_two_sided": 0.5
+    }
+  },
+  "rbo_minus_single_ax7": {
+    "diff": 0.09931506849315064,
+    "ci95": [
+      0.05821917808219178,
+      0.14383561643835616
+    ]
+  },
+  "attainment_vs_gpt4o": {
+    "rbo_t2": 1.0714285714285714,
+    "single_ax7": 0.9419642857142858,
+    "single_qwen8": 0.9464285714285715,
+    "sr_ax7": 0.9508928571428572
+  },
+  "attainment_rbo_ci95": [
+    1.0084745762711864,
+    1.138755980861244
+  ],
+  "gate_counterfactual_no_gate_round1_strict": 0.821917808219178,
+  "revision_modes": {
+    "regenerate": {
+      "tried": 60,
+      "accepted": 27
+    },
+    "extend": {
+      "tried": 16,
+      "accepted": 11
+    }
+  },
+  "mean_output_tokens": {
+    "rbo_t2": 579.832191780822,
+    "single_ax7": 272.4075342465753,
+    "single_qwen8": 385.6575342465753,
+    "sr_ax7": 477.5
+  },
+  "mean_calls": {
+    "rbo_t2": 3.51027397260274,
+    "single_ax7": 1,
+    "sr_ax7": 2.3253424657534247
+  }
+}

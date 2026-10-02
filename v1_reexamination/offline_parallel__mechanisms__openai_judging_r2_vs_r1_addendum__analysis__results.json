@@ -1,0 +1,316 @@
+{
+  "schema_version": "rbo-v1-r2-r1-addendum-analysis-v1",
+  "generated_at_utc": "2026-09-20T21:34:48.942120+00:00",
+  "scope": {
+    "provider": "openai",
+    "model": "gpt-4.1-2025-04-14",
+    "planned_targets": 2100,
+    "complete_targets": 2100,
+    "missing_targets": 0,
+    "pair_rule": "Both mapped reciprocal labels must agree and be non-unable; disagreement, unable, and missing remain unresolved.",
+    "separation": "Prospective R2-versus-R1 addendum; completed R2-versus-R0 secondary analysis remains separate."
+  },
+  "inference": {
+    "independent_cluster": "unique item_id",
+    "within_cluster": "three matched seeds and both presentation orders",
+    "interval": "deterministic percentile cluster bootstrap",
+    "bootstrap_repetitions": 20000,
+    "test": "Monte Carlo two-sided unique-item cluster sign-flip",
+    "signflip_repetitions": 100000,
+    "random_seed": 20260921
+  },
+  "integrity": {
+    "status": "pass",
+    "checks": {
+      "frozen_hash_protocol": true,
+      "frozen_hash_judge_config": true,
+      "frozen_hash_collector": true,
+      "frozen_hash_base_collector": true,
+      "frozen_hash_target_manifest": true,
+      "frozen_hash_source_results": true,
+      "frozen_hash_source_upstream": true,
+      "frozen_hash_source_integrity": true,
+      "rubric_hash_frozen": true,
+      "schema_hash_frozen": true,
+      "source_integrity_pass": true,
+      "preflight_pass": true,
+      "diagnostic_pass": true,
+      "progress_complete": true,
+      "progress_concealed": true,
+      "public_logs_no_verdict_reason_fields": true,
+      "private_verdict_stream_only": true,
+      "target_coverage_unique": true,
+      "pair_count_1050": true,
+      "all_pairs_reciprocal": true,
+      "snapshot_coverage_unique": true,
+      "source_output_prompt_freeze_and_reciprocal_links": true,
+      "request_coverage_unique": true,
+      "response_coverage_unique": true,
+      "errors_retry_eligible_only": true,
+      "attempt_cap_respected": true,
+      "request_ordinals_contiguous": true,
+      "one_diagnostic_request_response": true,
+      "freeze_chronology_precedes_study": true,
+      "verdict_coverage_unique": true,
+      "request_response_verdict_content_hash_links": true,
+      "returned_model_exact": true
+    },
+    "chronology": {
+      "freeze_manifest_written_at_utc": "2026-09-20T21:08:35.598695+00:00",
+      "first_study_request_at_utc": "2026-09-20T21:09:01.759723+00:00",
+      "prospective_freeze_precedes_study": true
+    },
+    "counts": {
+      "targets": 2100,
+      "pairs": 1050,
+      "snapshots": 2100,
+      "study_requests": 2101,
+      "study_responses": 2100,
+      "study_errors": 1,
+      "study_verdicts": 2100,
+      "maximum_requests_one_target": 2,
+      "targets_with_one_request": 2099,
+      "targets_with_two_requests": 1,
+      "error_kinds": {
+        "parse": 1
+      },
+      "diagnostic_events": {
+        "request": 1,
+        "response": 1
+      }
+    },
+    "resources": {
+      "returned_models": {
+        "gpt-4.1-2025-04-14": 2100
+      },
+      "valid_response_usage": {
+        "prompt_tokens": 1206055,
+        "completion_tokens": 224843,
+        "total_tokens": 1430898
+      },
+      "valid_response_elapsed_seconds": {
+        "n": 2100,
+        "sum": 3060.2510000000602,
+        "mean": 1.4572623809524097,
+        "median": 1.375,
+        "p95": 2.125
+      },
+      "valid_response_cost_status": {
+        "not_returned_by_api": 2100
+      },
+      "all_attempt_outcome_usage": {
+        "prompt_tokens": 1206413,
+        "completion_tokens": 225143,
+        "total_tokens": 1431556
+      },
+      "all_attempt_outcome_elapsed_seconds": {
+        "n": 2101,
+        "sum": 3062.4220000000605,
+        "mean": 1.4576020942408665,
+        "median": 1.375,
+        "p95": 2.125
+      },
+      "all_attempt_outcome_cost_status": {
+        "not_returned_by_api": 2101
+      },
+      "monetary_cost": null,
+      "cost_note": "API returned no monetary amount; no post hoc price estimate was substituted."
+    },
+    "input_hashes_before_analysis": {
+      "openai_judging_r2_vs_r1_addendum/PROSPECTIVE_ADDENDUM_2026-09-21.md": {
+        "bytes": 3930,
+        "sha256": "940d9c9ee33f296f11e8ece5c78b831044d286dc55c2c7bc5a42cbc42575acbb"
+      },
+      "openai_judging_r2_vs_r1_addendum/judge_config.json": {
+        "bytes": 1385,
+        "sha256": "28b94fb18a4c28fde50688f69c02d37d1d6f79471d806b290c91a6d99f58225a"
+      },
+      "openai_judging_r2_vs_r1_addendum/collect_r2_vs_r1_addendum.py": {
+        "bytes": 19217,
+        "sha256": "94913ac56dc829a1e54f6de6af5e06a6ad14395c74b2d2d70907d549f59ce3ad"
+      },
+      "openai_judging/collect_openai_mechanism_judgments.py": {
+        "bytes": 25362,
+        "sha256": "54231a714e5deadf1b25641aa8145cdc45a4e2e2d3f8a32b4032cbd9718eadb7"
+      },
+      "openai_judging_r2_vs_r1_addendum/target_manifest.jsonl": {
+        "bytes": 1413360,
+        "sha256": "3db29298652f104440f3bb3d8c7628fa055de34bbb8a8bcee8a81aef3c7ede74"
+      },
+      "openai_judging_r2_vs_r1_addendum/freeze_manifest.json": {
+        "bytes": 3488,
+        "sha256": "276c363436376d1c998d2bacca7243f52f155affdcd00775658ca6b0bc44e520"
+      },
+      "openai_judging_r2_vs_r1_addendum/preflight_report.json": {
+        "bytes": 966,
+        "sha256": "ef2be19051b88489210a6f9e93fee250423b61ac886f5b41968f2f991d407a89"
+      },
+      "openai_judging_r2_vs_r1_addendum/diagnostic_report.json": {
+        "bytes": 247,
+        "sha256": "2fb3035857bdb8ad4ad6371e476cafff1d5fb818cd6619b954d8be2dfa7665df"
+      },
+      "openai_judging_r2_vs_r1_addendum/progress.json": {
+        "bytes": 446,
+        "sha256": "ce90d1d6f66ea0ba0d08b6ab3eeeaeabf252bb85150498ccfd6a3d36d9de3a77"
+      },
+      "openai_judging_r2_vs_r1_addendum/collector_stdout.log": {
+        "bytes": 101,
+        "sha256": "8a9fa0a39df63cc86c51f7815c3c48c797e998d179abc175c87d7bb43d6a5063"
+      },
+      "openai_judging_r2_vs_r1_addendum/collector_stderr.log": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "openai_judging_r2_vs_r1_addendum/private/pair_snapshots.jsonl": {
+        "bytes": 2089560,
+        "sha256": "cc40f4b712da26ff9eac9efe7b801b54e26ade1faed84d92d3919b1b25e5ba70"
+      },
+      "openai_judging_r2_vs_r1_addendum/private/raw_events.jsonl": {
+        "bytes": 11745615,
+        "sha256": "323b7b07b18afbed82288440c7f3947e49dbcfa7ff5b1e4677285c4901d4eaf8"
+      },
+      "openai_judging_r2_vs_r1_addendum/private/verdicts.jsonl": {
+        "bytes": 4501788,
+        "sha256": "86f99466714a5e8b6c4a96b9f4cd76fbcb99cfa572d9c3d2bf25f6666b8d999d"
+      },
+      "run/results.jsonl": {
+        "bytes": 2796127,
+        "sha256": "fef0b705ddbdc2a7857691f28400d5bd6e3126f9fe065bea74506055f6b2821c"
+      },
+      "frozen_upstream.jsonl": {
+        "bytes": 486348,
+        "sha256": "90eb563bebffdbc571df8eb8fcbf519bc447cc8e75e7508b7582b7ca67b6db6b"
+      },
+      "analysis/integrity_and_metrics.json": {
+        "bytes": 21435,
+        "sha256": "27d4b87a92a52bc64e399ad155a49a95fd446b2c1f94301e7f4bad0f20e5b41f"
+      }
+    }
+  },
+  "by_seed": [
+    {
+      "planned_pairs": 350,
+      "r2_wins": 62,
+      "r1_wins": 30,
+      "ties": 174,
+      "unresolved": 84,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 84,
+      "reciprocal_comparable_pairs": 350,
+      "reciprocal_order_disagreement_rate": 0.24,
+      "decisive_pairs": 92,
+      "conditional_r2_win_rate": 0.6739130434782609,
+      "conditional_effect_vs_half": 0.17391304347826086,
+      "all_pair_r2_win_rate": 0.17714285714285713,
+      "tie_rate": 0.49714285714285716,
+      "unresolved_rate": 0.24,
+      "seed": 1701,
+      "conditional_wilson_lower_95": 0.5728326114575908,
+      "conditional_wilson_upper_95": 0.761052122703932
+    },
+    {
+      "planned_pairs": 350,
+      "r2_wins": 75,
+      "r1_wins": 24,
+      "ties": 173,
+      "unresolved": 78,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 78,
+      "reciprocal_comparable_pairs": 350,
+      "reciprocal_order_disagreement_rate": 0.22285714285714286,
+      "decisive_pairs": 99,
+      "conditional_r2_win_rate": 0.7575757575757576,
+      "conditional_effect_vs_half": 0.25757575757575757,
+      "all_pair_r2_win_rate": 0.21428571428571427,
+      "tie_rate": 0.4942857142857143,
+      "unresolved_rate": 0.22285714285714286,
+      "seed": 1702,
+      "conditional_wilson_lower_95": 0.6645718449402054,
+      "conditional_wilson_upper_95": 0.8313371064187927
+    },
+    {
+      "planned_pairs": 350,
+      "r2_wins": 62,
+      "r1_wins": 20,
+      "ties": 197,
+      "unresolved": 71,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 71,
+      "reciprocal_comparable_pairs": 350,
+      "reciprocal_order_disagreement_rate": 0.20285714285714285,
+      "decisive_pairs": 82,
+      "conditional_r2_win_rate": 0.7560975609756098,
+      "conditional_effect_vs_half": 0.25609756097560976,
+      "all_pair_r2_win_rate": 0.17714285714285713,
+      "tie_rate": 0.5628571428571428,
+      "unresolved_rate": 0.20285714285714285,
+      "seed": 1703,
+      "conditional_wilson_lower_95": 0.6530729216795924,
+      "conditional_wilson_upper_95": 0.8362011491132831
+    }
+  ],
+  "overall": {
+    "planned_pairs": 1050,
+    "r2_wins": 199,
+    "r1_wins": 74,
+    "ties": 544,
+    "unresolved": 233,
+    "unresolved_missing_order": 0,
+    "unresolved_unable": 0,
+    "reciprocal_order_disagreements": 233,
+    "reciprocal_comparable_pairs": 1050,
+    "reciprocal_order_disagreement_rate": 0.2219047619047619,
+    "decisive_pairs": 273,
+    "conditional_r2_win_rate": 0.7289377289377289,
+    "conditional_effect_vs_half": 0.2289377289377289,
+    "all_pair_r2_win_rate": 0.1895238095238095,
+    "tie_rate": 0.518095238095238,
+    "unresolved_rate": 0.2219047619047619,
+    "comparison": "r2_vs_r1_direct_addendum",
+    "reference_arm": "R1",
+    "candidate_arm": "R2",
+    "unique_items": 350,
+    "seeds": [
+      1701,
+      1702,
+      1703
+    ],
+    "cluster_bootstrap_repetitions": 20000,
+    "cluster_bootstrap_seed": 20260921,
+    "cluster_bootstrap_95": {
+      "conditional_r2_win_rate": {
+        "lower_95": 0.6542715990720296,
+        "upper_95": 0.7972377022827133
+      },
+      "all_pair_r2_win_rate": {
+        "lower_95": 0.15714285714285714,
+        "upper_95": 0.22285714285714286
+      },
+      "tie_rate": {
+        "lower_95": 0.47523809523809524,
+        "upper_95": 0.5619047619047619
+      },
+      "unresolved_rate": {
+        "lower_95": 0.19333333333333333,
+        "upper_95": 0.25142857142857145
+      }
+    },
+    "cluster_signflip_repetitions": 100000,
+    "cluster_signflip_two_sided_p": 9.99990000099999e-06,
+    "multiplicity": "Single prespecified addendum comparison; no within-addendum multiplicity adjustment.",
+    "conditional_effect_vs_half_cluster_95": {
+      "lower_95": 0.15427159907202959,
+      "upper_95": 0.2972377022827133
+    }
+  },
+  "limitations": [
+    "Single OpenAI judge model, not a multi-provider panel.",
+    "R2 versus R1 is model replacement within this fixed bank and does not isolate parameter capacity.",
+    "Same numeric seeds do not guarantee aligned randomness across models.",
+    "Cluster intervals do not include judge-model selection uncertainty.",
+    "Nonsignificance would not establish equivalence."
+  ]
+}

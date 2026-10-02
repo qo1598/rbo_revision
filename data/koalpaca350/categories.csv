@@ -1,0 +1,351 @@
+id,category
+1,Information Extraction
+2,Information Extraction
+3,Generation
+4,Generation
+5,Information Extraction
+6,Closed QA
+7,Classification
+8,Closed QA
+9,Open QA
+10,Information Extraction
+11,Summarization
+12,Information Extraction
+13,Information Extraction
+14,Open QA
+15,Information Extraction
+16,Information Extraction
+17,Generation
+18,Generation
+19,Information Extraction
+20,Information Extraction
+21,Classification
+22,Open QA
+23,Information Extraction
+24,Summarization
+25,Information Extraction
+26,Information Extraction
+27,Brainstorming
+28,Open QA
+29,Brainstorming
+30,Information Extraction
+31,Generation
+32,Brainstorming
+33,Information Extraction
+34,Open QA
+35,Closed QA
+36,Information Extraction
+37,Open QA
+38,Information Extraction
+39,Brainstorming
+40,Open QA
+41,Open QA
+42,Open QA
+43,Generation
+44,Information Extraction
+45,Information Extraction
+46,Generation
+47,Information Extraction
+48,Generation
+49,Closed QA
+50,Summarization
+51,Classification
+52,Open QA
+53,Brainstorming
+54,Summarization
+55,Closed QA
+56,Open QA
+57,Information Extraction
+58,Open QA
+59,Open QA
+60,Open QA
+61,Information Extraction
+62,Open QA
+63,Information Extraction
+64,Information Extraction
+65,Information Extraction
+66,Summarization
+67,Information Extraction
+68,Open QA
+69,Information Extraction
+70,Open QA
+71,Open QA
+72,Open QA
+73,Information Extraction
+74,Open QA
+75,Summarization
+76,Classification
+77,Information Extraction
+78,Information Extraction
+79,Classification
+80,Information Extraction
+81,Information Extraction
+82,Information Extraction
+83,Information Extraction
+84,Brainstorming
+85,Generation
+86,Brainstorming
+87,Classification
+88,Information Extraction
+89,Closed QA
+90,Closed QA
+91,Closed QA
+92,Closed QA
+93,Closed QA
+94,Open QA
+95,Closed QA
+96,Open QA
+97,Classification
+98,Information Extraction
+99,Closed QA
+100,Closed QA
+101,Open QA
+102,Generation
+103,Closed QA
+104,Open QA
+105,Closed QA
+106,Open QA
+107,Open QA
+108,Generation
+109,Information Extraction
+110,Closed QA
+111,Closed QA
+112,Closed QA
+113,Classification
+114,Closed QA
+115,Closed QA
+116,Closed QA
+117,Closed QA
+118,Closed QA
+119,Open QA
+120,Open QA
+121,Open QA
+122,Generation
+123,Closed QA
+124,Brainstorming
+125,Closed QA
+126,Open QA
+127,Information Extraction
+128,Closed QA
+129,Summarization
+130,Brainstorming
+131,Open QA
+132,Information Extraction
+133,Open QA
+134,Open QA
+135,Open QA
+136,Generation
+137,Closed QA
+138,Generation
+139,Generation
+140,Open QA
+141,Open QA
+142,Open QA
+143,Classification
+144,Brainstorming
+145,Open QA
+146,Open QA
+147,Open QA
+148,Classification
+149,Summarization
+150,Brainstorming
+151,Open QA
+152,Generation
+153,Information Extraction
+154,Generation
+155,Open QA
+156,Generation
+157,Open QA
+158,Open QA
+159,Brainstorming
+160,Open QA
+161,Open QA
+162,Generation
+163,Open QA
+164,Open QA
+165,Brainstorming
+166,Open QA
+167,Open QA
+168,Generation
+169,Brainstorming
+170,Brainstorming
+171,Summarization
+172,Closed QA
+173,Generation
+174,Brainstorming
+175,Information Extraction
+176,Classification
+177,Generation
+178,Information Extraction
+179,Generation
+180,Summarization
+181,Summarization
+182,Classification
+183,Closed QA
+184,Summarization
+185,Brainstorming
+186,Summarization
+187,Brainstorming
+188,Summarization
+189,Information Extraction
+190,Summarization
+191,Summarization
+192,Summarization
+193,Summarization
+194,Generation
+195,Summarization
+196,Classification
+197,Generation
+198,Closed QA
+199,Summarization
+200,Summarization
+201,Classification
+202,Summarization
+203,Classification
+204,Generation
+205,Generation
+206,Generation
+207,Summarization
+208,Generation
+209,Summarization
+210,Classification
+211,Brainstorming
+212,Closed QA
+213,Information Extraction
+214,Classification
+215,Closed QA
+216,Classification
+217,Classification
+218,Closed QA
+219,Brainstorming
+220,Generation
+221,Classification
+222,Classification
+223,Classification
+224,Classification
+225,Classification
+226,Classification
+227,Classification
+228,Classification
+229,Classification
+230,Classification
+231,Brainstorming
+232,Classification
+233,Classification
+234,Summarization
+235,Brainstorming
+236,Generation
+237,Closed QA
+238,Brainstorming
+239,Generation
+240,Generation
+241,Closed QA
+242,Generation
+243,Closed QA
+244,Generation
+245,Closed QA
+246,Generation
+247,Brainstorming
+248,Information Extraction
+249,Brainstorming
+250,Generation
+251,Closed QA
+252,Brainstorming
+253,Generation
+254,Closed QA
+255,Brainstorming
+256,Brainstorming
+257,Closed QA
+258,Summarization
+259,Generation
+260,Information Extraction
+261,Summarization
+262,Brainstorming
+263,Summarization
+264,Summarization
+265,Summarization
+266,Classification
+267,Closed QA
+268,Generation
+269,Summarization
+270,Generation
+271,Classification
+272,Generation
+273,Closed QA
+274,Classification
+275,Information Extraction
+276,Brainstorming
+277,Classification
+278,Brainstorming
+279,Generation
+280,Summarization
+281,Classification
+282,Classification
+283,Brainstorming
+284,Summarization
+285,Summarization
+286,Summarization
+287,Information Extraction
+288,Brainstorming
+289,Summarization
+290,Brainstorming
+291,Brainstorming
+292,Brainstorming
+293,Brainstorming
+294,Summarization
+295,Summarization
+296,Summarization
+297,Brainstorming
+298,Summarization
+299,Generation
+300,Closed QA
+301,Closed QA
+302,Generation
+303,Generation
+304,Summarization
+305,Brainstorming
+306,Generation
+307,Summarization
+308,Brainstorming
+309,Information Extraction
+310,Summarization
+311,Summarization
+312,Brainstorming
+313,Closed QA
+314,Generation
+315,Generation
+316,Brainstorming
+317,Summarization
+318,Brainstorming
+319,Classification
+320,Closed QA
+321,Classification
+322,Brainstorming
+323,Brainstorming
+324,Brainstorming
+325,Classification
+326,Brainstorming
+327,Closed QA
+328,Classification
+329,Summarization
+330,Brainstorming
+331,Classification
+332,Brainstorming
+333,Closed QA
+334,Generation
+335,Information Extraction
+336,Classification
+337,Closed QA
+338,Summarization
+339,Classification
+340,Closed QA
+341,Classification
+342,Summarization
+343,Classification
+344,Summarization
+345,Summarization
+346,Brainstorming
+347,Classification
+348,Classification
+349,Classification
+350,Classification

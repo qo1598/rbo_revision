@@ -1,0 +1,191 @@
+{
+ "ext-v2single_ax7": {
+  "Information Extraction": {
+   "x": 12,
+   "tie": 5,
+   "identical": 7,
+   "y": 19,
+   "unresolved": 7
+  },
+  "Generation": {
+   "y": 14,
+   "unresolved": 18,
+   "identical": 5,
+   "x": 7,
+   "tie": 6
+  },
+  "Closed QA": {
+   "y": 15,
+   "tie": 7,
+   "unresolved": 17,
+   "identical": 3,
+   "x": 8
+  },
+  "Classification": {
+   "y": 24,
+   "unresolved": 9,
+   "x": 7,
+   "tie": 10
+  },
+  "Open QA": {
+   "x": 8,
+   "unresolved": 12,
+   "y": 24,
+   "identical": 3,
+   "tie": 3
+  },
+  "Summarization": {
+   "y": 15,
+   "identical": 5,
+   "x": 11,
+   "unresolved": 10,
+   "tie": 9
+  },
+  "Brainstorming": {
+   "y": 28,
+   "tie": 4,
+   "x": 8,
+   "unresolved": 10
+  }
+ },
+ "ext-gpt4o_matched": {
+  "Information Extraction": {
+   "tie": 9,
+   "unresolved": 10,
+   "y": 27,
+   "x": 4
+  },
+  "Generation": {
+   "tie": 6,
+   "y": 28,
+   "identical": 1,
+   "x": 8,
+   "unresolved": 7
+  },
+  "Closed QA": {
+   "y": 31,
+   "x": 7,
+   "identical": 3,
+   "unresolved": 6,
+   "tie": 3
+  },
+  "Classification": {
+   "y": 25,
+   "tie": 5,
+   "unresolved": 15,
+   "x": 5
+  },
+  "Open QA": {
+   "unresolved": 13,
+   "y": 29,
+   "x": 6,
+   "tie": 2
+  },
+  "Summarization": {
+   "y": 31,
+   "unresolved": 9,
+   "x": 5,
+   "tie": 5
+  },
+  "Brainstorming": {
+   "y": 33,
+   "tie": 6,
+   "unresolved": 8,
+   "x": 3
+  }
+ },
+ "ext-deepseek_matched": {
+  "Information Extraction": {
+   "unresolved": 7,
+   "tie": 4,
+   "y": 25,
+   "identical": 1,
+   "x": 13
+  },
+  "Generation": {
+   "y": 29,
+   "unresolved": 9,
+   "identical": 1,
+   "x": 10,
+   "tie": 1
+  },
+  "Closed QA": {
+   "y": 36,
+   "unresolved": 8,
+   "x": 5,
+   "identical": 1
+  },
+  "Classification": {
+   "y": 28,
+   "unresolved": 11,
+   "x": 9,
+   "tie": 2
+  },
+  "Open QA": {
+   "y": 36,
+   "x": 6,
+   "identical": 1,
+   "unresolved": 7
+  },
+  "Summarization": {
+   "y": 25,
+   "x": 9,
+   "unresolved": 12,
+   "identical": 1,
+   "tie": 3
+  },
+  "Brainstorming": {
+   "unresolved": 7,
+   "x": 10,
+   "y": 33
+  }
+ },
+ "archived-rbo_v1_main": {
+  "Information Extraction": {
+   "x": 37,
+   "unresolved": 6,
+   "y": 4,
+   "tie": 2,
+   "identical": 1
+  },
+  "Generation": {
+   "y": 3,
+   "x": 40,
+   "unresolved": 4,
+   "tie": 3
+  },
+  "Closed QA": {
+   "tie": 2,
+   "x": 38,
+   "unresolved": 4,
+   "y": 5,
+   "identical": 1
+  },
+  "Classification": {
+   "y": 7,
+   "x": 33,
+   "tie": 2,
+   "unresolved": 8
+  },
+  "Open QA": {
+   "x": 40,
+   "unresolved": 6,
+   "tie": 3,
+   "y": 1
+  },
+  "Summarization": {
+   "x": 33,
+   "y": 4,
+   "unresolved": 8,
+   "tie": 4,
+   "identical": 1
+  },
+  "Brainstorming": {
+   "tie": 6,
+   "x": 34,
+   "unresolved": 5,
+   "y": 3,
+   "identical": 2
+  }
+ }
+}

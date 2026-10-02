@@ -1,0 +1,950 @@
+{"id": 14, "policy": "single_ax7", "answer": "284개", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 4.69}]}
+{"id": 38, "policy": "single_ax7", "answer": "AMI (Advanced Meteo Imager)", "em": 0.0, "rouge_w": 0.05555555555555555, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.35}]}
+{"id": 132, "policy": "single_ax7", "answer": "특별한 설치·제거 프로그램", "em": 0.0, "rouge_w": 0.8333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 134, "policy": "single_ax7", "answer": "김대중 후보는 자유민주연합 김종필과 연대하였다", "em": 0.0, "rouge_w": 0.21428571428571425, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.32}]}
+{"id": 139, "policy": "single_ax7", "answer": "중국, 러시아", "em": 0.0, "rouge_w": 0.6153846153846153, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 150, "policy": "single_ax7", "answer": "김홍집", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 154, "policy": "single_ax7", "answer": "300만 원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 166, "policy": "single_ax7", "answer": "tau 유전자", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 172, "policy": "single_ax7", "answer": "아메리칸 뮤직 어워드", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.27}]}
+{"id": 188, "policy": "single_ax7", "answer": "미국", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.16}]}
+{"id": 191, "policy": "single_ax7", "answer": "1958년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 203, "policy": "single_ax7", "answer": "고위관직", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 208, "policy": "single_ax7", "answer": "데라사키는 쇼와 천황을 '무력한 존재'로 묘사했다", "em": 0.0, "rouge_w": 0.3870967741935484, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 18, "seconds": 0.49}]}
+{"id": 209, "policy": "single_ax7", "answer": "스기우라와 도야마 등 우익 세력", "em": 0.0, "rouge_w": 0.45454545454545453, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 215, "policy": "single_ax7", "answer": "마리아(Maria)", "em": 0.0, "rouge_w": 0.5454545454545454, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 243, "policy": "single_ax7", "answer": "정암초등학교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.21}]}
+{"id": 249, "policy": "single_ax7", "answer": "16개의 코너가 있습니다", "em": 0.0, "rouge_w": 0.375, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.22}]}
+{"id": 282, "policy": "single_ax7", "answer": "1983년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 296, "policy": "single_ax7", "answer": "실천[行]", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 318, "policy": "single_ax7", "answer": "베르나도트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 340, "policy": "single_ax7", "answer": "천사들이 하느님의 도구로서 심판의 천지개벽을 주관한다", "em": 0.0, "rouge_w": 0.3888888888888889, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.36}]}
+{"id": 342, "policy": "single_ax7", "answer": "향을 만드는 소규모 화학회사들", "em": 0.0, "rouge_w": 0.72, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 383, "policy": "single_ax7", "answer": "10", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 393, "policy": "single_ax7", "answer": "공통성, 간결성, 다양성, 명료성, 발음의 용이성, 문화적 연관성, 복합성", "em": 0.0, "rouge_w": 0.048780487804878044, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 23, "seconds": 0.54}]}
+{"id": 398, "policy": "single_ax7", "answer": "1조 8천억원", "em": 0.0, "rouge_w": 0.7692307692307692, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 401, "policy": "single_ax7", "answer": "CA3", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 456, "policy": "single_ax7", "answer": "민유성", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 467, "policy": "single_ax7", "answer": "마리 앙투아네트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 468, "policy": "single_ax7", "answer": "성전(聖戰, 성스러운 전쟁)", "em": 0.0, "rouge_w": 0.2857142857142857, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 574, "policy": "single_ax7", "answer": "다나카 기이치", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 600, "policy": "single_ax7", "answer": "면담", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 631, "policy": "single_ax7", "answer": "GP-슈트레케", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 635, "policy": "single_ax7", "answer": "SBS", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 667, "policy": "single_ax7", "answer": "후지 TV 《인기녀 100》", "em": 0.0, "rouge_w": 0.6363636363636364, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.28}]}
+{"id": 684, "policy": "single_ax7", "answer": "쇼와", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 698, "policy": "single_ax7", "answer": "2명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 701, "policy": "single_ax7", "answer": "《포켓몬스터 금·은》", "em": 0.0, "rouge_w": 0.9, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.24}]}
+{"id": 702, "policy": "single_ax7", "answer": "오신", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 712, "policy": "single_ax7", "answer": "의무사항", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 785, "policy": "single_ax7", "answer": "삼국 동맹", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 792, "policy": "single_ax7", "answer": "에티오피아 아디스아바바", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.2}]}
+{"id": 799, "policy": "single_ax7", "answer": "환씨", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 826, "policy": "single_ax7", "answer": "윌로우바이의 연구팀은 광견병 치료를 위한 실험적인 방법을 만들어냈습니다", "em": 0.0, "rouge_w": 0.14285714285714288, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 17, "seconds": 0.41}]}
+{"id": 851, "policy": "single_ax7", "answer": "천송이", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 882, "policy": "single_ax7", "answer": "보수 세력", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 889, "policy": "single_ax7", "answer": "1921년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 919, "policy": "single_ax7", "answer": "진술파", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.22}]}
+{"id": 929, "policy": "single_ax7", "answer": "알뜰폰", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 936, "policy": "single_ax7", "answer": "미국 북감리교회", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 940, "policy": "single_ax7", "answer": "15만 5천명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.26}]}
+{"id": 0, "policy": "single_ax7", "answer": "도둑들", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 4.67}]}
+{"id": 1, "policy": "single_ax7", "answer": "아랍 에미리트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 2, "policy": "single_ax7", "answer": "세븐", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 3, "policy": "single_ax7", "answer": "카르브러 리페하르", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.24}]}
+{"id": 4, "policy": "single_ax7", "answer": "윤봉길 생가", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 5, "policy": "single_ax7", "answer": "마오쩌둥", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 6, "policy": "single_ax7", "answer": "10년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 7, "policy": "single_ax7", "answer": "제11회", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 8, "policy": "single_ax7", "answer": "세이키주쿠", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.23}]}
+{"id": 9, "policy": "single_ax7", "answer": "웨스트 햄", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 10, "policy": "single_ax7", "answer": "1961년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 11, "policy": "single_ax7", "answer": "베트남", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 12, "policy": "single_ax7", "answer": "삼성 엑시노스 9 Series (8895)", "em": 0.0, "rouge_w": 0.0975609756097561, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.33}]}
+{"id": 13, "policy": "single_ax7", "answer": "페니키아", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 15, "policy": "single_ax7", "answer": "스크린(Scrin)", "em": 0.0, "rouge_w": 0.5454545454545454, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 16, "policy": "single_ax7", "answer": "서울 용산구 후암동 중증장애인시설", "em": 0.0, "rouge_w": 0.08, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.28}]}
+{"id": 17, "policy": "single_ax7", "answer": "2017년 청룡영화제 남우조연상", "em": 0.0, "rouge_w": 0.45454545454545453, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 18, "policy": "single_ax7", "answer": "아미(ARMY)", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 19, "policy": "single_ax7", "answer": "ADAM", "em": 0.0, "rouge_w": 0.5333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 20, "policy": "single_ax7", "answer": "1993년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.26}]}
+{"id": 21, "policy": "single_ax7", "answer": "경상남도 거제시 장목면 외포리", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.25}]}
+{"id": 22, "policy": "single_ax7", "answer": "Standard Series", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 23, "policy": "single_ax7", "answer": "매천야록", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 24, "policy": "single_ax7", "answer": "여름밤의 꿈", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 25, "policy": "single_ax7", "answer": "싸이", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.1}]}
+{"id": 26, "policy": "single_ax7", "answer": "체인스모커스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.31}]}
+{"id": 27, "policy": "single_ax7", "answer": "P2P 방식으로 분산 저장되어 운영·관리된다", "em": 0.0, "rouge_w": 0.4, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.33}]}
+{"id": 28, "policy": "single_ax7", "answer": "뉘르부르크링 2009 사업", "em": 0.0, "rouge_w": 0.88, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.27}]}
+{"id": 29, "policy": "single_ax7", "answer": "말레이시아", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.14}]}
+{"id": 30, "policy": "single_ax7", "answer": "2008년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 31, "policy": "single_ax7", "answer": "모스크바", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 32, "policy": "single_ax7", "answer": "법제경제", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.21}]}
+{"id": 33, "policy": "single_ax7", "answer": "민주당 신학용의원이 문제삼았다", "em": 0.0, "rouge_w": 0.72, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.3}]}
+{"id": 34, "policy": "single_ax7", "answer": "2011년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 35, "policy": "single_ax7", "answer": "화양연화 pt.1", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.22}]}
+{"id": 36, "policy": "single_ax7", "answer": "미", "em": 0.0, "rouge_w": 0.4, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.14}]}
+{"id": 37, "policy": "single_ax7", "answer": "심세(心細)", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.2}]}
+{"id": 39, "policy": "single_ax7", "answer": "New York University (NYU)", "em": 0.0, "rouge_w": 0.23076923076923078, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.23}]}
+{"id": 40, "policy": "single_ax7", "answer": "저택 정원의 벚꽃 나무에서", "em": 0.0, "rouge_w": 0.5263157894736842, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.24}]}
+{"id": 41, "policy": "single_ax7", "answer": "1951년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 42, "policy": "single_ax7", "answer": "작은 정부' 공약", "em": 0.0, "rouge_w": 0.7692307692307693, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 43, "policy": "single_ax7", "answer": "1995년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 44, "policy": "single_ax7", "answer": "레임덕", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 45, "policy": "single_ax7", "answer": "한나라당", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.16}]}
+{"id": 46, "policy": "single_ax7", "answer": "에움", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 47, "policy": "single_ax7", "answer": "민주주의 신봉자", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 48, "policy": "single_ax7", "answer": "5회", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 49, "policy": "single_ax7", "answer": "5.3%", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 50, "policy": "single_ax7", "answer": "소림 무예 도장의 관장", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.28}]}
+{"id": 51, "policy": "single_ax7", "answer": "박규수", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 52, "policy": "single_ax7", "answer": "정의개발당 (터키)", "em": 0.0, "rouge_w": 0.7692307692307693, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.24}]}
+{"id": 53, "policy": "single_ax7", "answer": "집 앞의 뽕밭", "em": 0.0, "rouge_w": 0.4444444444444445, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.16}]}
+{"id": 54, "policy": "single_ax7", "answer": "1973년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 55, "policy": "single_ax7", "answer": "11조", "em": 0.0, "rouge_w": 0.6, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 56, "policy": "single_ax7", "answer": "남미 축구 선수권 대회", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.18}]}
+{"id": 57, "policy": "single_ax7", "answer": "반포주공아파트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 58, "policy": "single_ax7", "answer": "현기증", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 59, "policy": "single_ax7", "answer": "명성황후", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 60, "policy": "single_ax7", "answer": "6월 1일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 61, "policy": "single_ax7", "answer": "7가지", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 62, "policy": "single_ax7", "answer": "일본", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.15}]}
+{"id": 63, "policy": "single_ax7", "answer": "해안가", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 64, "policy": "single_ax7", "answer": "1948년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 65, "policy": "single_ax7", "answer": "화이트", "em": 0.0, "rouge_w": 0.4, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.1}]}
+{"id": 66, "policy": "single_ax7", "answer": "오세훈은 2007년 신년사를 통해 서울시 SH공사가 공급하는 아파트의 분양원가를 상세히 공개하고, 자치구 분양승인에 대한 새로운 기준을 만들어 분양가격을 판단할 근거를 마련하겠다고 천명했다", "em": 0.0, "rouge_w": 0.08695652173913043, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 38, "seconds": 0.82}]}
+{"id": 67, "policy": "single_ax7", "answer": "2011년 시리아 혁명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 68, "policy": "single_ax7", "answer": "자신의 킹을 넘어뜨리는 것도 기권을 뜻하지만 자주 사용되지 않는 방법이다", "em": 0.0, "rouge_w": 0.09523809523809523, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 18, "seconds": 0.46}]}
+{"id": 69, "policy": "single_ax7", "answer": "쇼와 천황은 《대륙명 제458호》를 내려 일본의 프랑스령 인도차이나 침략을 승낙했다", "em": 0.0, "rouge_w": 0.32727272727272727, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 24, "seconds": 0.56}]}
+{"id": 70, "policy": "single_ax7", "answer": "블록체인", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 71, "policy": "single_ax7", "answer": "전국: 천하영웅의 시대", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 72, "policy": "single_ax7", "answer": "스기야마 하지메", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.24}]}
+{"id": 73, "policy": "single_ax7", "answer": "황족신위령", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.24}]}
+{"id": 74, "policy": "single_ax7", "answer": "마쓰카타 마사요시", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.24}]}
+{"id": 75, "policy": "single_ax7", "answer": "진정성", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 76, "policy": "single_ax7", "answer": "5월 13일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 77, "policy": "single_ax7", "answer": "황도파", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 78, "policy": "single_ax7", "answer": "제16대", "em": 0.0, "rouge_w": 0.8571428571428571, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 79, "policy": "single_ax7", "answer": "러시아", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 80, "policy": "single_ax7", "answer": "1998년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 81, "policy": "single_ax7", "answer": "책임정부", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 82, "policy": "single_ax7", "answer": "알버트 웨스커", "em": 0.0, "rouge_w": 0.6, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.18}]}
+{"id": 83, "policy": "single_ax7", "answer": "싱코페이션", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 84, "policy": "single_ax7", "answer": "8개월", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 85, "policy": "single_ax7", "answer": "알렉산더 매캔지", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 86, "policy": "single_ax7", "answer": "고이득 파라볼라 안테나", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.18}]}
+{"id": 87, "policy": "single_ax7", "answer": "라타키아", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 88, "policy": "single_ax7", "answer": "베코", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 89, "policy": "single_ax7", "answer": "이성계", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 90, "policy": "single_ax7", "answer": "일인칭 건슈팅 게임", "em": 0.0, "rouge_w": 0.7499999999999999, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.26}]}
+{"id": 91, "policy": "single_ax7", "answer": "Bigbang", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 92, "policy": "single_ax7", "answer": "간인노미야 고토히토", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.27}]}
+{"id": 93, "policy": "single_ax7", "answer": "북한 공격설: 어뢰설, 매설기뢰설, 대함화기공격설", "em": 0.0, "rouge_w": 0.07142857142857142, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 47, "seconds": 0.99}]}
+{"id": 94, "policy": "single_ax7", "answer": "1938년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 95, "policy": "single_ax7", "answer": "정육점", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 96, "policy": "single_ax7", "answer": "위스콘신 어린이 병원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 97, "policy": "single_ax7", "answer": "인공지능, 빅 데이터, 3D 프린팅, 로봇", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.3}]}
+{"id": 98, "policy": "single_ax7", "answer": "98골", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 99, "policy": "single_ax7", "answer": "부산대학교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 100, "policy": "single_ax7", "answer": "하석주", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 101, "policy": "single_ax7", "answer": "100만 캐나다 달러", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 102, "policy": "single_ax7", "answer": "4년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 103, "policy": "single_ax7", "answer": "김민희는 신광여자고등학교 재학 시절 길거리 캐스팅 되어 모델링을 시작했습니다", "em": 0.0, "rouge_w": 0.2857142857142857, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 17, "seconds": 0.4}]}
+{"id": 104, "policy": "single_ax7", "answer": "김대업", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.22}]}
+{"id": 105, "policy": "single_ax7", "answer": "이븐 알나딤의 《피흐리스트(Fihrist · 목록)》", "em": 0.0, "rouge_w": 0.3125, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 18, "seconds": 0.44}]}
+{"id": 106, "policy": "single_ax7", "answer": "알렉스 로드리게스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.23}]}
+{"id": 107, "policy": "single_ax7", "answer": "허영", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 108, "policy": "single_ax7", "answer": "김대중후보의 670억 비자금 사건", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.39}]}
+{"id": 109, "policy": "single_ax7", "answer": "좌파단체 소속 청년들", "em": 0.0, "rouge_w": 0.5333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.21}]}
+{"id": 110, "policy": "single_ax7", "answer": "급격한 공간적 환경변화에서 기존 환경과 새로운 환경 인지를 혼동하는 과정", "em": 0.0, "rouge_w": 0.047619047619047616, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 17, "seconds": 0.42}]}
+{"id": 111, "policy": "single_ax7", "answer": "마흐무드 압바스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 112, "policy": "single_ax7", "answer": "모션 그래픽스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.14}]}
+{"id": 113, "policy": "single_ax7", "answer": "일간스포츠", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 114, "policy": "single_ax7", "answer": "김씨는 한씨로부터 3억원을 빌렸습니다", "em": 0.0, "rouge_w": 0.2608695652173913, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.32}]}
+{"id": 115, "policy": "single_ax7", "answer": "헐버트 선교사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.22}]}
+{"id": 116, "policy": "single_ax7", "answer": "《평화의 노래》", "em": 0.0, "rouge_w": 0.8571428571428571, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 117, "policy": "single_ax7", "answer": "방시혁", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 118, "policy": "single_ax7", "answer": "다비치", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 119, "policy": "single_ax7", "answer": "2002년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 120, "policy": "single_ax7", "answer": "64%", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 121, "policy": "single_ax7", "answer": "와트 포인트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 122, "policy": "single_ax7", "answer": "황극력", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 123, "policy": "single_ax7", "answer": "클린신고센터", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 124, "policy": "single_ax7", "answer": "2004년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 125, "policy": "single_ax7", "answer": "에시드 록", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 126, "policy": "single_ax7", "answer": "페이스북", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.15}]}
+{"id": 127, "policy": "single_ax7", "answer": "이학봉", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 128, "policy": "single_ax7", "answer": "이완", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 129, "policy": "single_ax7", "answer": "국무원이", "em": 0.0, "rouge_w": 0.8571428571428571, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 130, "policy": "single_ax7", "answer": "북군 보급 마차들", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 131, "policy": "single_ax7", "answer": "9월 15일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 133, "policy": "single_ax7", "answer": "B", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 135, "policy": "single_ax7", "answer": "무승부", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 136, "policy": "single_ax7", "answer": "국가인권위원회", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 137, "policy": "single_ax7", "answer": "1930", "em": 0.0, "rouge_w": 0.888888888888889, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 138, "policy": "single_ax7", "answer": "반일의병운동", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 140, "policy": "single_ax7", "answer": "2000년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 141, "policy": "single_ax7", "answer": "중국 청나라 말기", "em": 0.0, "rouge_w": 0.5, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 142, "policy": "single_ax7", "answer": "증거", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.1}]}
+{"id": 143, "policy": "single_ax7", "answer": "반미감정", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 144, "policy": "single_ax7", "answer": "방탄소년단", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.28}]}
+{"id": 145, "policy": "single_ax7", "answer": "1954년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 146, "policy": "single_ax7", "answer": "총신대학교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 147, "policy": "single_ax7", "answer": "중국", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 148, "policy": "single_ax7", "answer": "자신이 스스로 지은 업에 따른 것으로 보지 않는 것", "em": 0.0, "rouge_w": 0.0689655172413793, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.3}]}
+{"id": 149, "policy": "single_ax7", "answer": "고노에 후미마로", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.26}]}
+{"id": 151, "policy": "single_ax7", "answer": "블루스의 가장 큰 역할은 록 음악의 탄생에 있다", "em": 0.0, "rouge_w": 0.47058823529411764, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.3}]}
+{"id": 152, "policy": "single_ax7", "answer": "선호투표제", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 153, "policy": "single_ax7", "answer": "모리 가문", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 155, "policy": "single_ax7", "answer": "혈맹단", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 156, "policy": "single_ax7", "answer": "1959년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 157, "policy": "single_ax7", "answer": "치하포", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 158, "policy": "single_ax7", "answer": "조선콤퓨터쎈터", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 159, "policy": "single_ax7", "answer": "천안함 함장 최원일 중령", "em": 0.0, "rouge_w": 0.631578947368421, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.32}]}
+{"id": 160, "policy": "single_ax7", "answer": "북극곰의 예시를 통해 가지고 있던 특성이 없어지는 것이 진화가 아니라고 주장함", "em": 0.0, "rouge_w": 0.13043478260869565, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 19, "seconds": 0.51}]}
+{"id": 161, "policy": "single_ax7", "answer": "국외추방", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 162, "policy": "single_ax7", "answer": "이노우에 가오루", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 163, "policy": "single_ax7", "answer": "단행조례", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 164, "policy": "single_ax7", "answer": "양무운동", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 165, "policy": "single_ax7", "answer": "한나라당", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 167, "policy": "single_ax7", "answer": "최익현", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 168, "policy": "single_ax7", "answer": "T-ALOS 프로젝트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 169, "policy": "single_ax7", "answer": "48위", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.12}]}
+{"id": 170, "policy": "single_ax7", "answer": "심장병", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 171, "policy": "single_ax7", "answer": "104명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 173, "policy": "single_ax7", "answer": "정광용", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 174, "policy": "single_ax7", "answer": "50%", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 175, "policy": "single_ax7", "answer": "7가지 지분", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 176, "policy": "single_ax7", "answer": "2010년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 177, "policy": "single_ax7", "answer": "금고 7년형", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 178, "policy": "single_ax7", "answer": "니코스키와 라이언 사도스키", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.42}]}
+{"id": 179, "policy": "single_ax7", "answer": "서울 청담동 일지아트홀", "em": 0.0, "rouge_w": 0.2857142857142857, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 180, "policy": "single_ax7", "answer": "허버트 빅스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 181, "policy": "single_ax7", "answer": "충정아파트", "em": 0.0, "rouge_w": 0.20000000000000004, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 182, "policy": "single_ax7", "answer": "8만 파운드", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.28}]}
+{"id": 183, "policy": "single_ax7", "answer": "홍신학원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 184, "policy": "single_ax7", "answer": "5월 21일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 185, "policy": "single_ax7", "answer": "1995년 5월", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.22}]}
+{"id": 186, "policy": "single_ax7", "answer": "로마 황제들, 교황 보니파키우스 8세, 페트라르카, 막시밀리안, 페르디난트 1세, 루이 14세, 요하킴 2세, 앙리 4세 등", "em": 0.0, "rouge_w": 0.1492537313432836, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 50, "seconds": 1.07}]}
+{"id": 187, "policy": "single_ax7", "answer": "남침례교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 189, "policy": "single_ax7", "answer": "9만 명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 190, "policy": "single_ax7", "answer": "후카자와 시치로", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 192, "policy": "single_ax7", "answer": "영국", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 193, "policy": "single_ax7", "answer": "줄리아", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 194, "policy": "single_ax7", "answer": "우리 히어로즈", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.19}]}
+{"id": 195, "policy": "single_ax7", "answer": "SBS", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.15}]}
+{"id": 196, "policy": "single_ax7", "answer": "6월 민주 항쟁 이후 통일민주당 총재로 민주화추진협의회를 구성해 민주진영을 구축했다", "em": 0.0, "rouge_w": 0.0784313725490196, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 22, "seconds": 0.53}]}
+{"id": 197, "policy": "single_ax7", "answer": "100만 명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 198, "policy": "single_ax7", "answer": "1942년 10월 말", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.23}]}
+{"id": 199, "policy": "single_ax7", "answer": "마호가니 목재", "em": 0.0, "rouge_w": 0.7272727272727273, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 200, "policy": "single_ax7", "answer": "Kids' WB", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 201, "policy": "single_ax7", "answer": "노땐스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.33}]}
+{"id": 202, "policy": "single_ax7", "answer": "아시다 히토시", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 204, "policy": "single_ax7", "answer": "해양생물학", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 205, "policy": "single_ax7", "answer": "1848년부터 1850년까지", "em": 0.0, "rouge_w": 0.9285714285714286, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.25}]}
+{"id": 206, "policy": "single_ax7", "answer": "김종필 최고위원", "em": 0.0, "rouge_w": 0.5454545454545454, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.16}]}
+{"id": 207, "policy": "single_ax7", "answer": "3,000 mAh", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 210, "policy": "single_ax7", "answer": "향토예비군법 폐지안", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.25}]}
+{"id": 211, "policy": "single_ax7", "answer": "웨스턴오스트레일리아 식민지, 뉴질랜드", "em": 0.0, "rouge_w": 0.717948717948718, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.26}]}
+{"id": 212, "policy": "single_ax7", "answer": "도리스식의 토스카나 주식", "em": 0.0, "rouge_w": 0.7000000000000001, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.22}]}
+{"id": 213, "policy": "single_ax7", "answer": "1999년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 214, "policy": "single_ax7", "answer": "첫 시도", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 216, "policy": "single_ax7", "answer": "지식", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 217, "policy": "single_ax7", "answer": "타이베리움", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 218, "policy": "single_ax7", "answer": "이명박", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.1}]}
+{"id": 219, "policy": "single_ax7", "answer": "Pflegstraße 21a 건물", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.28}]}
+{"id": 220, "policy": "single_ax7", "answer": "8월 19일 자정 (20일)", "em": 0.0, "rouge_w": 0.2666666666666667, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.33}]}
+{"id": 221, "policy": "single_ax7", "answer": "김태영 국방장관", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 222, "policy": "single_ax7", "answer": "페인팅", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 223, "policy": "single_ax7", "answer": "5개 등급", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 224, "policy": "single_ax7", "answer": "Horizontal Plus", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 225, "policy": "single_ax7", "answer": "티푸스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 226, "policy": "single_ax7", "answer": "27명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 227, "policy": "single_ax7", "answer": "구 군사정권 출신자들", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 228, "policy": "single_ax7", "answer": "139미터", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 229, "policy": "single_ax7", "answer": "이대수", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 230, "policy": "single_ax7", "answer": "조성왕실 의궤", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 231, "policy": "single_ax7", "answer": "수금", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 232, "policy": "single_ax7", "answer": "대한민국과의 계약", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 233, "policy": "single_ax7", "answer": "1987년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 234, "policy": "single_ax7", "answer": "1398년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 235, "policy": "single_ax7", "answer": "수컷이 암컷보다 더 빨리 자란다", "em": 0.0, "rouge_w": 0.21052631578947367, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.28}]}
+{"id": 236, "policy": "single_ax7", "answer": "점프 블루스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 237, "policy": "single_ax7", "answer": "찰스 쿠럴트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 238, "policy": "single_ax7", "answer": "수시력", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 239, "policy": "single_ax7", "answer": "좋아해줘", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.2}]}
+{"id": 240, "policy": "single_ax7", "answer": "캐나다 태평양 철도회사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 241, "policy": "single_ax7", "answer": "3학년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.25}]}
+{"id": 242, "policy": "single_ax7", "answer": "2009년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 244, "policy": "single_ax7", "answer": "장제스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 245, "policy": "single_ax7", "answer": "CA1", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 246, "policy": "single_ax7", "answer": "뉴저지주 오션 시티", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.23}]}
+{"id": 247, "policy": "single_ax7", "answer": "2011년 10월 15일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.32}]}
+{"id": 248, "policy": "single_ax7", "answer": "부건빌 섬", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 250, "policy": "single_ax7", "answer": "자유한국당", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 251, "policy": "single_ax7", "answer": "1895년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 252, "policy": "single_ax7", "answer": "러시아", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 253, "policy": "single_ax7", "answer": "잉글랜드", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.16}]}
+{"id": 254, "policy": "single_ax7", "answer": "페드로 로페스(Pedro Lopez)", "em": 0.0, "rouge_w": 0.56, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.34}]}
+{"id": 255, "policy": "single_ax7", "answer": "1억원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.12}]}
+{"id": 256, "policy": "single_ax7", "answer": "성균관 유생들의 나날", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 257, "policy": "single_ax7", "answer": "5·18 관련 특별법", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 258, "policy": "single_ax7", "answer": "WINGS", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.24}]}
+{"id": 259, "policy": "single_ax7", "answer": "자이드 라아드 알 후세인(Zeid Ra’ad Al Hussein)", "em": 0.0, "rouge_w": 0.5531914893617021, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 19, "seconds": 0.73}]}
+{"id": 260, "policy": "single_ax7", "answer": "클래식 블루스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 261, "policy": "single_ax7", "answer": "자위대 창립 50돌 행사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.28}]}
+{"id": 262, "policy": "single_ax7", "answer": "색도(hue)와 채도(saturation) 정보", "em": 0.0, "rouge_w": 0.9268292682926829, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.34}]}
+{"id": 263, "policy": "single_ax7", "answer": "조선책략", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 264, "policy": "single_ax7", "answer": "쇠말뚝뽑기로 민족의 기틀을 세웠다", "em": 0.0, "rouge_w": 0.4347826086956522, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.3}]}
+{"id": 265, "policy": "single_ax7", "answer": "하인리히 힘러", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 266, "policy": "single_ax7", "answer": "거국일치내각", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 267, "policy": "single_ax7", "answer": "니콜 셰르징거", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.22}]}
+{"id": 268, "policy": "single_ax7", "answer": "열정적인 라이브 공연", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 269, "policy": "single_ax7", "answer": "남산 야외식물원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 270, "policy": "single_ax7", "answer": "2010년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 271, "policy": "single_ax7", "answer": "콩세르쥬리 감옥", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 272, "policy": "single_ax7", "answer": "통리기무아문", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 273, "policy": "single_ax7", "answer": "호켄하임링", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 274, "policy": "single_ax7", "answer": "2개의 측파대", "em": 0.0, "rouge_w": 0.4444444444444445, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.24}]}
+{"id": 275, "policy": "single_ax7", "answer": "미네르바의 처벌 수위", "em": 0.0, "rouge_w": 0.5333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 276, "policy": "single_ax7", "answer": "100m", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.12}]}
+{"id": 277, "policy": "single_ax7", "answer": "49억300만 원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 278, "policy": "single_ax7", "answer": "민주정의당", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 279, "policy": "single_ax7", "answer": "토미 존 수술", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 280, "policy": "single_ax7", "answer": "사(捨)의 마음작용", "em": 0.0, "rouge_w": 0.2222222222222222, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.27}]}
+{"id": 281, "policy": "single_ax7", "answer": "설화와 비밀의 부채", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 283, "policy": "single_ax7", "answer": "티머니 교통카드", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 284, "policy": "single_ax7", "answer": "60년대 초반", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 285, "policy": "single_ax7", "answer": "트리케라톱스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 286, "policy": "single_ax7", "answer": "곽충보", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.23}]}
+{"id": 287, "policy": "single_ax7", "answer": "엘리너 루이지 코웰", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.2}]}
+{"id": 288, "policy": "single_ax7", "answer": "외상투자기업법", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 289, "policy": "single_ax7", "answer": "서울", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.11}]}
+{"id": 290, "policy": "single_ax7", "answer": "신생대 초기(약 5500만 년 전)", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.38}]}
+{"id": 291, "policy": "single_ax7", "answer": "Series 1 to 10 티셔츠", "em": 0.0, "rouge_w": 0.2857142857142857, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.23}]}
+{"id": 292, "policy": "single_ax7", "answer": "4번 타자", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 293, "policy": "single_ax7", "answer": "하페즈 알아사드", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 294, "policy": "single_ax7", "answer": "블루 데블스", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 295, "policy": "single_ax7", "answer": "미스터Q", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 297, "policy": "single_ax7", "answer": "공자 좌(송 원공)", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.28}]}
+{"id": 298, "policy": "single_ax7", "answer": "독도함", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 299, "policy": "single_ax7", "answer": "신한국당 신임 총재", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 300, "policy": "single_ax7", "answer": "휴먼 라이츠 워치", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 301, "policy": "single_ax7", "answer": "샤먼 섬과 진먼 섬", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.25}]}
+{"id": 302, "policy": "single_ax7", "answer": "뮤지컬", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.2}]}
+{"id": 303, "policy": "single_ax7", "answer": "뉴욕", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.15}]}
+{"id": 304, "policy": "single_ax7", "answer": "절에서", "em": 0.0, "rouge_w": 0.5, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 305, "policy": "single_ax7", "answer": "100 Hz", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 306, "policy": "single_ax7", "answer": "신선호", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.19}]}
+{"id": 307, "policy": "single_ax7", "answer": "2천66만원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 308, "policy": "single_ax7", "answer": "증강현실", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.14}]}
+{"id": 309, "policy": "single_ax7", "answer": "1m", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 310, "policy": "single_ax7", "answer": "김대중 정부 말기", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 311, "policy": "single_ax7", "answer": "워싱턴 내셔널스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 312, "policy": "single_ax7", "answer": "화성에서 449 W의 전력을 공급할 수 있다", "em": 0.0, "rouge_w": 0.3448275862068966, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.34}]}
+{"id": 313, "policy": "single_ax7", "answer": "1969년 2월", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.24}]}
+{"id": 314, "policy": "single_ax7", "answer": "문헌(文憲)", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.26}]}
+{"id": 315, "policy": "single_ax7", "answer": "쇤브룬 조약", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 316, "policy": "single_ax7", "answer": "6종", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 317, "policy": "single_ax7", "answer": "상위 2명", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 319, "policy": "single_ax7", "answer": "법학과", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 320, "policy": "single_ax7", "answer": "황비홍", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 321, "policy": "single_ax7", "answer": "기독교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 322, "policy": "single_ax7", "answer": "290만 뷰", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.22}]}
+{"id": 323, "policy": "single_ax7", "answer": "4인용 식탁", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 324, "policy": "single_ax7", "answer": "1996년 북한 잠수함 침투사건 처리 과정", "em": 0.0, "rouge_w": 0.6470588235294118, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.27}]}
+{"id": 325, "policy": "single_ax7", "answer": "독일의", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.15}]}
+{"id": 326, "policy": "single_ax7", "answer": "23곡", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.24}]}
+{"id": 327, "policy": "single_ax7", "answer": "대원군", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 328, "policy": "single_ax7", "answer": "라파예트, 조지아의 뉴톤 카운티", "em": 0.0, "rouge_w": 0.4, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.33}]}
+{"id": 329, "policy": "single_ax7", "answer": "향로봉", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 330, "policy": "single_ax7", "answer": "하복 물리 엔진", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 331, "policy": "single_ax7", "answer": "요르단", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 332, "policy": "single_ax7", "answer": "미국 국무부에", "em": 0.0, "rouge_w": 0.6, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 333, "policy": "single_ax7", "answer": "내후각피질과 해마", "em": 0.0, "rouge_w": 0.7142857142857143, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.25}]}
+{"id": 334, "policy": "single_ax7", "answer": "9월 15일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 335, "policy": "single_ax7", "answer": "영국", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 336, "policy": "single_ax7", "answer": "1949년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 337, "policy": "single_ax7", "answer": "2013년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 338, "policy": "single_ax7", "answer": "이동한 거리", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 339, "policy": "single_ax7", "answer": "천연두", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 341, "policy": "single_ax7", "answer": "아몬", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 343, "policy": "single_ax7", "answer": "징역 3년형", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.26}]}
+{"id": 344, "policy": "single_ax7", "answer": "게임스파이", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 345, "policy": "single_ax7", "answer": "황실", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 346, "policy": "single_ax7", "answer": "320톤", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 347, "policy": "single_ax7", "answer": "패배", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 348, "policy": "single_ax7", "answer": "현금으로 집에 보관", "em": 0.0, "rouge_w": 0.33333333333333337, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 349, "policy": "single_ax7", "answer": "9개", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 350, "policy": "single_ax7", "answer": "평창 동계올림픽 유치를 위해 이건희의 노력이 필요하다는 삼성측의 주장을 받아들였다", "em": 0.0, "rouge_w": 0.39285714285714285, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 15, "seconds": 0.4}]}
+{"id": 351, "policy": "single_ax7", "answer": "데이트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 352, "policy": "single_ax7", "answer": "니키 라우다", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 353, "policy": "single_ax7", "answer": "비교 종교학", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.14}]}
+{"id": 354, "policy": "single_ax7", "answer": "9점", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 355, "policy": "single_ax7", "answer": "타이완", "em": 0.0, "rouge_w": 0.8571428571428571, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 356, "policy": "single_ax7", "answer": "2002년 ESP가 음악산업에서 가장 빠르게 성장하는 회사로 등극하게 된 이유는 펜더사가 Jackson Guitars를 인수하면서 ESP와 Jackson 사이의 오랜 경쟁구도가 깨졌기 때문입니다. 이로 인해 많은 아티스트들이 Jackson에서 ESP로 엔도서를 변경하면서 ESP의 성장이 가속화되었습니다", "em": 0.0, "rouge_w": 0.25, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 59, "seconds": 1.29}]}
+{"id": 357, "policy": "single_ax7", "answer": "4번", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 358, "policy": "single_ax7", "answer": "임진강 참사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 359, "policy": "single_ax7", "answer": "MBC PD수첩", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 360, "policy": "single_ax7", "answer": "2007년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.22}]}
+{"id": 361, "policy": "single_ax7", "answer": "독학으로 얻은 것으로 알려졌다", "em": 0.0, "rouge_w": 0.2222222222222222, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.22}]}
+{"id": 362, "policy": "single_ax7", "answer": "봄", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.11}]}
+{"id": 363, "policy": "single_ax7", "answer": "1987년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 364, "policy": "single_ax7", "answer": "허버트 빅스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 365, "policy": "single_ax7", "answer": "제1차 왕자의 난의 원인", "em": 0.0, "rouge_w": 0.8181818181818181, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.27}]}
+{"id": 366, "policy": "single_ax7", "answer": "러브 마이셀프(LOVE MYSELF)", "em": 0.0, "rouge_w": 0.56, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.28}]}
+{"id": 367, "policy": "single_ax7", "answer": "내각제 개헌 문제", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 368, "policy": "single_ax7", "answer": "국체 논쟁", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 369, "policy": "single_ax7", "answer": "7단지", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 370, "policy": "single_ax7", "answer": "암흑국가", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 371, "policy": "single_ax7", "answer": "2번 염색체", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.16}]}
+{"id": 372, "policy": "single_ax7", "answer": "PloS Biology", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.3}]}
+{"id": 373, "policy": "single_ax7", "answer": "우수연기상", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 374, "policy": "single_ax7", "answer": "잊으라니", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 375, "policy": "single_ax7", "answer": "키나(χνα)", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.22}]}
+{"id": 376, "policy": "single_ax7", "answer": "장목소학교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 377, "policy": "single_ax7", "answer": "호법심", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 378, "policy": "single_ax7", "answer": "2.39m(7 피트 10.09 인치)", "em": 0.0, "rouge_w": 0.2962962962962963, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.36}]}
+{"id": 379, "policy": "single_ax7", "answer": "8명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 380, "policy": "single_ax7", "answer": "통합 인력수급 계획수립 및 국내 원자력교육 훈련기관간 역할 정립 등을 통한 통합조정 기능 강화, 전문분야별 맞춤형 인력양성 및 공급 프로그램의 시행, 국제수준에 부합하는 국제 교육훈련 프로그램의 개발 및 확산, 창의적이고 도전적인 원자력R&D 혁신체제 구축, 스타프로젝트, X-프로젝트를 통한 연구개발 지원체제 강화, R&D 혁신을 유도하는 기획․평가 중점으로 운영, 부처공동의 연구기획 활성화와 연구개발 주체간 효율적 역할분담의 맞춤형 기획을 통한 전주기적 연계·협업체계 강화", "em": 0.0, "rouge_w": 0.08921933085501858, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 108, "seconds": 2.17}]}
+{"id": 381, "policy": "single_ax7", "answer": "재즈마스터", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.19}]}
+{"id": 382, "policy": "single_ax7", "answer": "사우디아라비아", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 384, "policy": "single_ax7", "answer": "마종(魔宗)", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.24}]}
+{"id": 385, "policy": "single_ax7", "answer": "지역감정", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 386, "policy": "single_ax7", "answer": "키르기스스탄", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 387, "policy": "single_ax7", "answer": "박성준", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 388, "policy": "single_ax7", "answer": "2002년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 389, "policy": "single_ax7", "answer": "3개", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 390, "policy": "single_ax7", "answer": "우키타 나오이에", "em": 0.0, "rouge_w": 0.11764705882352941, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 391, "policy": "single_ax7", "answer": "새마음포럼", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 392, "policy": "single_ax7", "answer": "교사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 394, "policy": "single_ax7", "answer": "신문과 텔레비전", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 395, "policy": "single_ax7", "answer": "사이온지", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 396, "policy": "single_ax7", "answer": "중학교 시절", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 397, "policy": "single_ax7", "answer": "고대 노르웨이어", "em": 0.0, "rouge_w": 0.3076923076923077, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 399, "policy": "single_ax7", "answer": "화양연화", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 400, "policy": "single_ax7", "answer": "2010년 7월 29일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.3}]}
+{"id": 402, "policy": "single_ax7", "answer": "멜라놉신(melanopsin)", "em": 0.0, "rouge_w": 0.4444444444444445, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 403, "policy": "single_ax7", "answer": "김영삼의 서울대학교 입학 및 졸업 증명서는 그의 생가에 전시되어 있습니다", "em": 0.0, "rouge_w": 0.2127659574468085, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 16, "seconds": 0.41}]}
+{"id": 404, "policy": "single_ax7", "answer": "앨런 맨스필드", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 405, "policy": "single_ax7", "answer": "차경선", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 406, "policy": "single_ax7", "answer": "악 타입", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 407, "policy": "single_ax7", "answer": "새 앨범 녹음과 투어 진행", "em": 0.0, "rouge_w": 0.25, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 408, "policy": "single_ax7", "answer": "8.8점", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 409, "policy": "single_ax7", "answer": "3억 5천만 유로", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 410, "policy": "single_ax7", "answer": "체스보드를 올바른 방향으로 돌리고 기물들을 원래 있던 포지션에서 재배치한다", "em": 0.0, "rouge_w": 0.17777777777777776, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 18, "seconds": 0.44}]}
+{"id": 411, "policy": "single_ax7", "answer": "국무장관", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 412, "policy": "single_ax7", "answer": "진상은 이렇다", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 413, "policy": "single_ax7", "answer": "1,400명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 414, "policy": "single_ax7", "answer": "정동영", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 415, "policy": "single_ax7", "answer": "1인칭 슈팅 게임과 롤플레잉 게임의 혼합형", "em": 0.0, "rouge_w": 0.4666666666666667, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.34}]}
+{"id": 416, "policy": "single_ax7", "answer": "E!Online", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 417, "policy": "single_ax7", "answer": "성균관에 입학하여", "em": 0.0, "rouge_w": 0.5, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 418, "policy": "single_ax7", "answer": "이정재의 도움", "em": 0.0, "rouge_w": 0.6, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.23}]}
+{"id": 419, "policy": "single_ax7", "answer": "박선원 전 청와대 통일안보전략비서관", "em": 0.0, "rouge_w": 0.5806451612903226, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 420, "policy": "single_ax7", "answer": "삼종신기", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 421, "policy": "single_ax7", "answer": "절지동물", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 422, "policy": "single_ax7", "answer": "씨씨알티 에어로스페이스(CCRT AEROSPACE)", "em": 0.0, "rouge_w": 0.631578947368421, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 16, "seconds": 0.4}]}
+{"id": 423, "policy": "single_ax7", "answer": "5월 22일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 424, "policy": "single_ax7", "answer": "트위터 최다 활동 남성그룹 부문", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.26}]}
+{"id": 425, "policy": "single_ax7", "answer": "골든디스크 시상식", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 426, "policy": "single_ax7", "answer": "김경준", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 427, "policy": "single_ax7", "answer": "가나", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 428, "policy": "single_ax7", "answer": "10군데", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 429, "policy": "single_ax7", "answer": "조선일보", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.11}]}
+{"id": 430, "policy": "single_ax7", "answer": "김대중 후보를 당선시키면 나라를 혼란에 빠뜨리는 것이라고 하였다", "em": 0.0, "rouge_w": 0.15789473684210528, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.35}]}
+{"id": 431, "policy": "single_ax7", "answer": "5번", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 432, "policy": "single_ax7", "answer": "새로운 내각의 출범을 발표하였다", "em": 0.0, "rouge_w": 0.7407407407407407, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.29}]}
+{"id": 433, "policy": "single_ax7", "answer": "레드 존", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 434, "policy": "single_ax7", "answer": "만 53세", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 435, "policy": "single_ax7", "answer": "전인대 상무위", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 436, "policy": "single_ax7", "answer": "더 폴리스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 437, "policy": "single_ax7", "answer": "베스트 팬덤상", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.3}]}
+{"id": 438, "policy": "single_ax7", "answer": "마이 프린세스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 439, "policy": "single_ax7", "answer": "2008년 2월 25일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.26}]}
+{"id": 440, "policy": "single_ax7", "answer": "아랑은 왜", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.28}]}
+{"id": 441, "policy": "single_ax7", "answer": "증인", "em": 0.0, "rouge_w": 0.4, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 442, "policy": "single_ax7", "answer": "궁융상지괴응기 운동", "em": 0.0, "rouge_w": 0.8235294117647058, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.25}]}
+{"id": 443, "policy": "single_ax7", "answer": "1992년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 444, "policy": "single_ax7", "answer": "9.42%", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 445, "policy": "single_ax7", "answer": "2010년 9월 15일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.3}]}
+{"id": 446, "policy": "single_ax7", "answer": "오르샤", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 447, "policy": "single_ax7", "answer": "시사360", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 448, "policy": "single_ax7", "answer": "오세훈", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 449, "policy": "single_ax7", "answer": "요시히토", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 450, "policy": "single_ax7", "answer": "2006년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 451, "policy": "single_ax7", "answer": "70%", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.19}]}
+{"id": 452, "policy": "single_ax7", "answer": "플리 바게닝", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.22}]}
+{"id": 453, "policy": "single_ax7", "answer": "빅토르 페랭", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.24}]}
+{"id": 454, "policy": "single_ax7", "answer": "페르센 백작", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 455, "policy": "single_ax7", "answer": "서울특별시장", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 457, "policy": "single_ax7", "answer": "2014년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.36}]}
+{"id": 458, "policy": "single_ax7", "answer": "콩도르세 패자", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 459, "policy": "single_ax7", "answer": "감사원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 460, "policy": "single_ax7", "answer": "와이어드 매거진", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 461, "policy": "single_ax7", "answer": "영변 원자로 시설", "em": 0.0, "rouge_w": 0.3636363636363636, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 462, "policy": "single_ax7", "answer": "1995년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 463, "policy": "single_ax7", "answer": "조지 발렌시(Georges Valensi)", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.32}]}
+{"id": 464, "policy": "single_ax7", "answer": "기업들에게", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 465, "policy": "single_ax7", "answer": "김현웅", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 466, "policy": "single_ax7", "answer": "야마가타 아리토모", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 469, "policy": "single_ax7", "answer": "1992년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 470, "policy": "single_ax7", "answer": "SBS 연기대상 뉴스타상", "em": 0.0, "rouge_w": 0.47058823529411764, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.26}]}
+{"id": 471, "policy": "single_ax7", "answer": "13세기", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 472, "policy": "single_ax7", "answer": "중재위원회는 일반 행정구 인민정부 소재시에 설치되어 있다", "em": 0.0, "rouge_w": 0.27777777777777773, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.37}]}
+{"id": 473, "policy": "single_ax7", "answer": "체크메이트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 474, "policy": "single_ax7", "answer": "목재로 만들어졌기 때문에 현재까지 남아 있을 수 없다", "em": 0.0, "rouge_w": 0.12903225806451613, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.34}]}
+{"id": 475, "policy": "single_ax7", "answer": "공화당과 유신정우회는 김영삼의 인터뷰를 '헌정을 부정하고 사대주의 발언을 했다'고 비판했다", "em": 0.0, "rouge_w": 0.2545454545454546, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 23, "seconds": 0.54}]}
+{"id": 476, "policy": "single_ax7", "answer": "중앙일보", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.11}]}
+{"id": 477, "policy": "single_ax7", "answer": "DARK&WILD", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 478, "policy": "single_ax7", "answer": "이회창", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 479, "policy": "single_ax7", "answer": "70%", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 480, "policy": "single_ax7", "answer": "손시헌", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 481, "policy": "single_ax7", "answer": "미쇼와의 대화", "em": 0.0, "rouge_w": 0.4444444444444445, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 482, "policy": "single_ax7", "answer": "도쿄 국립 경기장", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 483, "policy": "single_ax7", "answer": "사도세자", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 484, "policy": "single_ax7", "answer": "405 라인 시스템", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 485, "policy": "single_ax7", "answer": "랭크", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.16}]}
+{"id": 486, "policy": "single_ax7", "answer": "신계사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 487, "policy": "single_ax7", "answer": "김구", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 488, "policy": "single_ax7", "answer": "현석호, 민관식", "em": 0.0, "rouge_w": 0.5714285714285714, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 489, "policy": "single_ax7", "answer": "문화의 동일성", "em": 0.0, "rouge_w": 0.6, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 490, "policy": "single_ax7", "answer": "반파", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 491, "policy": "single_ax7", "answer": "모래", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.11}]}
+{"id": 492, "policy": "single_ax7", "answer": "1945년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 493, "policy": "single_ax7", "answer": "안기부법 개정", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 494, "policy": "single_ax7", "answer": "IMF", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 495, "policy": "single_ax7", "answer": "하마구치 오사치", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.26}]}
+{"id": 496, "policy": "single_ax7", "answer": "문부과학성", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 497, "policy": "single_ax7", "answer": "김을동 사단", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 498, "policy": "single_ax7", "answer": "Tri-A", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 499, "policy": "single_ax7", "answer": "53개의 직접 커맨드", "em": 0.0, "rouge_w": 0.42857142857142855, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 500, "policy": "single_ax7", "answer": "특화된 몬스터볼", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 501, "policy": "single_ax7", "answer": "노터데임 대학교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 502, "policy": "single_ax7", "answer": "약 17,000명 이상", "em": 0.0, "rouge_w": 0.7058823529411764, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.25}]}
+{"id": 503, "policy": "single_ax7", "answer": "1993년 5월", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.21}]}
+{"id": 504, "policy": "single_ax7", "answer": "한씨와 한 전 총리는 종친 관계이며, 한씨의 부친과 식사를 한 번 했다는 수준의 친분이다", "em": 0.0, "rouge_w": 0.07999999999999999, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 24, "seconds": 0.54}]}
+{"id": 505, "policy": "single_ax7", "answer": "좋지 아니한가", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 506, "policy": "single_ax7", "answer": "쿠투조프", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.27}]}
+{"id": 507, "policy": "single_ax7", "answer": "여의도 시범아파트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 508, "policy": "single_ax7", "answer": "디스이즈게임", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 509, "policy": "single_ax7", "answer": "1992년 민자당 대선후보 때 LA매일신문의 보도로 인해 김영삼의 사생활이 본격적으로 도마에 올랐습니다", "em": 0.0, "rouge_w": 0.24615384615384614, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 24, "seconds": 0.53}]}
+{"id": 510, "policy": "single_ax7", "answer": "유럽 그랑프리", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 511, "policy": "single_ax7", "answer": "세운상가는 주상복합아파트입니다", "em": 0.0, "rouge_w": 0.6086956521739131, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.27}]}
+{"id": 512, "policy": "single_ax7", "answer": "게르하르드 헬름", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.26}]}
+{"id": 513, "policy": "single_ax7", "answer": "퍼블릭 라이브러리 오브 사이언스(Public Library of Science, PLoS)", "em": 0.0, "rouge_w": 0.1568627450980392, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 16, "seconds": 0.38}]}
+{"id": 514, "policy": "single_ax7", "answer": "정동영 후보", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 515, "policy": "single_ax7", "answer": "두 편", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 516, "policy": "single_ax7", "answer": "존 벨 해처", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 517, "policy": "single_ax7", "answer": "엽기적인 그녀", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 518, "policy": "single_ax7", "answer": "11일", "em": 0.0, "rouge_w": 0.4615384615384615, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 519, "policy": "single_ax7", "answer": "세미할로우바디", "em": 0.0, "rouge_w": 0.8333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 520, "policy": "single_ax7", "answer": "선입견", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 521, "policy": "single_ax7", "answer": "신한국당 내부에서는 전두환 노태우의 형 집행이 확정되기도 전에 사면 논의가 시작되었다. 김윤환 신한국당 고문이 전두환 노태우의 사면을 건의하였고, 당내에서 사면 찬성 분위기가 조성되었다", "em": 0.0, "rouge_w": 0.1929824561403509, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 42, "seconds": 1.02}]}
+{"id": 522, "policy": "single_ax7", "answer": "자유당 공천으로 국회의원에 당선됨", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.26}]}
+{"id": 523, "policy": "single_ax7", "answer": "아틀라스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 524, "policy": "single_ax7", "answer": "아들 루이 17세를 성추행했다는 누명을 썼다", "em": 0.0, "rouge_w": 0.2222222222222222, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.32}]}
+{"id": 525, "policy": "single_ax7", "answer": "캐피톨 리프 국립공원 근처", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.21}]}
+{"id": 526, "policy": "single_ax7", "answer": "카밋 버쳐", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.24}]}
+{"id": 527, "policy": "single_ax7", "answer": "세레비", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 528, "policy": "single_ax7", "answer": "케루빔은 하느님의 어좌 노릇을 한다", "em": 0.0, "rouge_w": 0.1904761904761905, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.3}]}
+{"id": 529, "policy": "single_ax7", "answer": "가명보살", "em": 0.0, "rouge_w": 0.36363636363636365, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 530, "policy": "single_ax7", "answer": "박정희 정권의 판자촌 정리 개발계획으로 지어진 회현 제2시민아파트는 철거민을 위한 아파트였으나, 지리적 위치가 좋아 중앙정보부 요원, 연예인, 재력가 등이 거주하며 유명해졌다", "em": 0.0, "rouge_w": 0.2095238095238095, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 43, "seconds": 0.96}]}
+{"id": 531, "policy": "single_ax7", "answer": "다라의 오마리 모스크 주변", "em": 0.0, "rouge_w": 0.8333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 532, "policy": "single_ax7", "answer": "김태호", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 533, "policy": "single_ax7", "answer": "유타주 오그던 출신", "em": 0.0, "rouge_w": 0.8235294117647058, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.24}]}
+{"id": 534, "policy": "single_ax7", "answer": "전남고등학교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 535, "policy": "single_ax7", "answer": "조선일보", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.15}]}
+{"id": 536, "policy": "single_ax7", "answer": "김영삼", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 537, "policy": "single_ax7", "answer": "파일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 538, "policy": "single_ax7", "answer": "정의개발당 사무실", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.16}]}
+{"id": 539, "policy": "single_ax7", "answer": "2위", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 540, "policy": "single_ax7", "answer": "시각적 즐거움과 카타르시스", "em": 0.0, "rouge_w": 0.10526315789473682, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 541, "policy": "single_ax7", "answer": "빅 대디", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 542, "policy": "single_ax7", "answer": "행(行)과 유(有)", "em": 0.0, "rouge_w": 0.1818181818181818, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.3}]}
+{"id": 543, "policy": "single_ax7", "answer": "세계일보", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 544, "policy": "single_ax7", "answer": "방사선 원천기술 확보", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 545, "policy": "single_ax7", "answer": "1", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.12}]}
+{"id": 546, "policy": "single_ax7", "answer": "플라비우스 요세푸스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.22}]}
+{"id": 547, "policy": "single_ax7", "answer": "4차(제3년), \"준회원2\" 이수 과정", "em": 0.0, "rouge_w": 0.4, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 15, "seconds": 0.37}]}
+{"id": 548, "policy": "single_ax7", "answer": "자신의 개인 활동", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 549, "policy": "single_ax7", "answer": "서울", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.15}]}
+{"id": 550, "policy": "single_ax7", "answer": "임호테프", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 551, "policy": "single_ax7", "answer": "외부 모 인사", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 552, "policy": "single_ax7", "answer": "1849년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 553, "policy": "single_ax7", "answer": "4명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 554, "policy": "single_ax7", "answer": "불법행위를 한 날", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 555, "policy": "single_ax7", "answer": "멀미", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 556, "policy": "single_ax7", "answer": "이적행위 목적여부는 검사가 입증해야 한다", "em": 0.0, "rouge_w": 0.16666666666666669, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.36}]}
+{"id": 557, "policy": "single_ax7", "answer": "민상법", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 558, "policy": "single_ax7", "answer": "컨트리 블루스", "em": 0.0, "rouge_w": 0.6153846153846153, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 559, "policy": "single_ax7", "answer": "바그라티온의 러시아군", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 560, "policy": "single_ax7", "answer": "비아 델라 콘칠리아치오네", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.27}]}
+{"id": 561, "policy": "single_ax7", "answer": "12년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 562, "policy": "single_ax7", "answer": "3불선근", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 563, "policy": "single_ax7", "answer": "테넌바움 박사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 564, "policy": "single_ax7", "answer": "1규빗은 약 45~46cm입니다", "em": 0.0, "rouge_w": 0.5454545454545454, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.38}]}
+{"id": 565, "policy": "single_ax7", "answer": "고지마", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 566, "policy": "single_ax7", "answer": "I", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.17}]}
+{"id": 567, "policy": "single_ax7", "answer": "순풍이 불기 시작했기 때문", "em": 0.0, "rouge_w": 0.25, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.28}]}
+{"id": 568, "policy": "single_ax7", "answer": "심추(心麤)", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.23}]}
+{"id": 569, "policy": "single_ax7", "answer": "시장경제법률체계의 수립을 완성한다는 목표", "em": 0.0, "rouge_w": 0.07142857142857144, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.34}]}
+{"id": 570, "policy": "single_ax7", "answer": "남우주연상", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.23}]}
+{"id": 571, "policy": "single_ax7", "answer": "저녁 9시경", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 572, "policy": "single_ax7", "answer": "1958년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 573, "policy": "single_ax7", "answer": "무디스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 575, "policy": "single_ax7", "answer": "1979년 5월 31일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.28}]}
+{"id": 576, "policy": "single_ax7", "answer": "6", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 577, "policy": "single_ax7", "answer": "여자 스키점프", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 578, "policy": "single_ax7", "answer": "커커시리", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 579, "policy": "single_ax7", "answer": "19-20세기", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 580, "policy": "single_ax7", "answer": "서울대학교 병원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 581, "policy": "single_ax7", "answer": "스튜어트는 리의 명령을 오해하여 북군 후방으로 우회 침투했다", "em": 0.0, "rouge_w": 0.05882352941176471, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 17, "seconds": 0.43}]}
+{"id": 582, "policy": "single_ax7", "answer": "김유찬", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 583, "policy": "single_ax7", "answer": "형집행 정지", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.26}]}
+{"id": 584, "policy": "single_ax7", "answer": "미녀 삼총사 2", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.25}]}
+{"id": 585, "policy": "single_ax7", "answer": "오가타 다케토라", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.23}]}
+{"id": 586, "policy": "single_ax7", "answer": "서울광장 운영 방식", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 587, "policy": "single_ax7", "answer": "57%", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 588, "policy": "single_ax7", "answer": "마리아 카롤리나", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 589, "policy": "single_ax7", "answer": "보너 펠러스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 590, "policy": "single_ax7", "answer": "미국과 중국", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 591, "policy": "single_ax7", "answer": "프랑스군", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 592, "policy": "single_ax7", "answer": "연산군", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 593, "policy": "single_ax7", "answer": "히로히토", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 594, "policy": "single_ax7", "answer": "믿음", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 595, "policy": "single_ax7", "answer": "더글러스 맥아더", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.28}]}
+{"id": 596, "policy": "single_ax7", "answer": "수은의 기화된 연기", "em": 0.0, "rouge_w": 0.33333333333333337, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 597, "policy": "single_ax7", "answer": "로저 클레멘스", "em": 0.0, "rouge_w": 0.7272727272727273, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.18}]}
+{"id": 598, "policy": "single_ax7", "answer": "동비(東匪)", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.24}]}
+{"id": 599, "policy": "single_ax7", "answer": "라르스 뢰케 라스무센 총리", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.33}]}
+{"id": 601, "policy": "single_ax7", "answer": "한정어’를 쓰는 것이 더 좋다", "em": 0.0, "rouge_w": 0.3157894736842105, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.29}]}
+{"id": 602, "policy": "single_ax7", "answer": "1900년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 603, "policy": "single_ax7", "answer": "일본의 새 헌법에는 '전쟁 포기'를 선언하는 조항이 새로 추가됐습니다", "em": 0.0, "rouge_w": 0.24390243902439027, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 18, "seconds": 0.43}]}
+{"id": 604, "policy": "single_ax7", "answer": "문성왕후", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 605, "policy": "single_ax7", "answer": "종에 따라서 PRC와 필요한 빛의 양은 다르다", "em": 0.0, "rouge_w": 0.07692307692307693, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.28}]}
+{"id": 606, "policy": "single_ax7", "answer": "오프사이드 오심 골로 1:0으로 승리", "em": 0.0, "rouge_w": 0.6896551724137931, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.33}]}
+{"id": 607, "policy": "single_ax7", "answer": "31일 후", "em": 0.0, "rouge_w": 0.7499999999999999, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 608, "policy": "single_ax7", "answer": "2009년 1월 15일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.28}]}
+{"id": 609, "policy": "single_ax7", "answer": "주인공 캐릭터의 성별", "em": 0.0, "rouge_w": 0.3076923076923077, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 610, "policy": "single_ax7", "answer": "통영중학교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 611, "policy": "single_ax7", "answer": "1999년 라타키아 시위", "em": 0.0, "rouge_w": 0.7000000000000001, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.32}]}
+{"id": 612, "policy": "single_ax7", "answer": "당시 관료들과 지식인들은 백일탈상이 일반적인 관행이었다", "em": 0.0, "rouge_w": 0.23529411764705882, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.35}]}
+{"id": 613, "policy": "single_ax7", "answer": "포츠담 선언", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 614, "policy": "single_ax7", "answer": "1988년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 615, "policy": "single_ax7", "answer": "50억", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 616, "policy": "single_ax7", "answer": "계약법", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.2}]}
+{"id": 617, "policy": "single_ax7", "answer": "1990 유로", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 618, "policy": "single_ax7", "answer": "법학", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.19}]}
+{"id": 619, "policy": "single_ax7", "answer": "1931년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 620, "policy": "single_ax7", "answer": "FAKE LOVE\" 무대를 전 세계에 최초 공개", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.47}]}
+{"id": 621, "policy": "single_ax7", "answer": "유식철학과", "em": 0.0, "rouge_w": 0.4444444444444445, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 622, "policy": "single_ax7", "answer": "영국", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 623, "policy": "single_ax7", "answer": "아베 요시시게", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 624, "policy": "single_ax7", "answer": "43년 만", "em": 0.0, "rouge_w": 0.7499999999999999, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 625, "policy": "single_ax7", "answer": "5관왕", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 626, "policy": "single_ax7", "answer": "보덕암", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 627, "policy": "single_ax7", "answer": "28세", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 628, "policy": "single_ax7", "answer": "승해", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 629, "policy": "single_ax7", "answer": "화가 마니", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 630, "policy": "single_ax7", "answer": "1866년 어린 민자영은 왕비 간택에 참여하였다", "em": 0.0, "rouge_w": 0.32258064516129037, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.36}]}
+{"id": 632, "policy": "single_ax7", "answer": "양기범", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 633, "policy": "single_ax7", "answer": "35cm", "em": 0.0, "rouge_w": 0.888888888888889, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 634, "policy": "single_ax7", "answer": "《포켓몬스터 금·은》", "em": 0.0, "rouge_w": 0.9, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.25}]}
+{"id": 636, "policy": "single_ax7", "answer": "한겨레신문", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 637, "policy": "single_ax7", "answer": "심판", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.13}]}
+{"id": 638, "policy": "single_ax7", "answer": "태초력", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 639, "policy": "single_ax7", "answer": "유진산", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 640, "policy": "single_ax7", "answer": "가상화폐", "em": 0.0, "rouge_w": 0.4444444444444445, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 641, "policy": "single_ax7", "answer": "찰스 다윈", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.23}]}
+{"id": 642, "policy": "single_ax7", "answer": "8월 20일(양력 10월 8일)", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 16, "seconds": 0.42}]}
+{"id": 643, "policy": "single_ax7", "answer": "2047년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 644, "policy": "single_ax7", "answer": "본문에 명시된 대로, 엑스박스 360의 별도로 판매되는 물품은 컨트롤러, 다양한 케이블, 플레이 앤 차지 킷, 유니버설 미디어 리모컨, 키보드, 헤드셋, 무선 레이싱 휠, 엑스박스 라이브 비전 카메라, 무선 네트워크 어댑터, 하드 드라이브, 메모리 유닛, 본체 전면 페이스플레이트 등이 있습니다", "em": 0.0, "rouge_w": 0.012820512820512818, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 62, "seconds": 1.27}]}
+{"id": 645, "policy": "single_ax7", "answer": "40분만에 진화되었습니다", "em": 0.0, "rouge_w": 0.375, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 646, "policy": "single_ax7", "answer": "36만 905명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 647, "policy": "single_ax7", "answer": "1941년 3월", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.21}]}
+{"id": 648, "policy": "single_ax7", "answer": "현실과 동떨어진 상태", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.27}]}
+{"id": 649, "policy": "single_ax7", "answer": "중기 페르시아어", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 650, "policy": "single_ax7", "answer": "기관지확장증으로 진단받아 훈련소에서 강제 퇴소됐다", "em": 0.0, "rouge_w": 0.3636363636363636, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.43}]}
+{"id": 651, "policy": "single_ax7", "answer": "임진모 음악평론가", "em": 0.0, "rouge_w": 0.5, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.27}]}
+{"id": 652, "policy": "single_ax7", "answer": "민주노동당", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 653, "policy": "single_ax7", "answer": "GS칼텍스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 654, "policy": "single_ax7", "answer": "펜들턴 법", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.16}]}
+{"id": 655, "policy": "single_ax7", "answer": "추석", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.18}]}
+{"id": 656, "policy": "single_ax7", "answer": "395대", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 657, "policy": "single_ax7", "answer": "LPG 트리오", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.2}]}
+{"id": 658, "policy": "single_ax7", "answer": "김석기", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 659, "policy": "single_ax7", "answer": "금강산 관광 중단, 5.24조치 실시 등 강력한 대북경제제재", "em": 0.0, "rouge_w": 0.3243243243243243, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 17, "seconds": 0.44}]}
+{"id": 660, "policy": "single_ax7", "answer": "2015년 5월 어린이날", "em": 0.0, "rouge_w": 0.47058823529411764, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.23}]}
+{"id": 661, "policy": "single_ax7", "answer": "로스 데이비스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 662, "policy": "single_ax7", "answer": "9월 4일", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 663, "policy": "single_ax7", "answer": "임수경", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 664, "policy": "single_ax7", "answer": "이상훈 국방부장관", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 665, "policy": "single_ax7", "answer": "실루엣", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.2}]}
+{"id": 666, "policy": "single_ax7", "answer": "2007년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 668, "policy": "single_ax7", "answer": "배상책임을 지지 아니한다", "em": 0.0, "rouge_w": 0.47058823529411764, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.26}]}
+{"id": 669, "policy": "single_ax7", "answer": "새만금간척지", "em": 0.0, "rouge_w": 0.5, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.24}]}
+{"id": 670, "policy": "single_ax7", "answer": "1992년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 671, "policy": "single_ax7", "answer": "관부무착", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.24}]}
+{"id": 672, "policy": "single_ax7", "answer": "2배", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 673, "policy": "single_ax7", "answer": "2014년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 674, "policy": "single_ax7", "answer": "성요셉 아파트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 675, "policy": "single_ax7", "answer": "286.0", "em": 0.0, "rouge_w": 0.7272727272727273, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 676, "policy": "single_ax7", "answer": "캐슬배니아: 밤의 교향곡", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.22}]}
+{"id": 677, "policy": "single_ax7", "answer": "정세균", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 678, "policy": "single_ax7", "answer": "미국 FBI", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 679, "policy": "single_ax7", "answer": "제1 출입문", "em": 0.0, "rouge_w": 0.5454545454545454, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 680, "policy": "single_ax7", "answer": "오야마 이와오", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 681, "policy": "single_ax7", "answer": "디어머드 우어 두브너", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.29}]}
+{"id": 682, "policy": "single_ax7", "answer": "셸비 일레트로닉 컴퍼니(Shelby Electric Company)", "em": 0.0, "rouge_w": 0.5106382978723404, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 15, "seconds": 0.36}]}
+{"id": 683, "policy": "single_ax7", "answer": "장 마리 르 펜", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 685, "policy": "single_ax7", "answer": "샤이크 미스킨", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 686, "policy": "single_ax7", "answer": "동대문아파트", "em": 0.0, "rouge_w": 0.5454545454545454, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 687, "policy": "single_ax7", "answer": "차범근 축구교실", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 688, "policy": "single_ax7", "answer": "디오니시오(Dionysius Areopagita)", "em": 0.0, "rouge_w": 0.33333333333333337, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.41}]}
+{"id": 689, "policy": "single_ax7", "answer": "그렇게 해주시겠습니까?", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.23}]}
+{"id": 690, "policy": "single_ax7", "answer": "DNA", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.46}]}
+{"id": 691, "policy": "single_ax7", "answer": "은하의 탈동조화", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 692, "policy": "single_ax7", "answer": "염홍철", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.28}]}
+{"id": 693, "policy": "single_ax7", "answer": "4층", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 694, "policy": "single_ax7", "answer": "잔혹한 점령군", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.24}]}
+{"id": 695, "policy": "single_ax7", "answer": "2017년 1월 17일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.31}]}
+{"id": 696, "policy": "single_ax7", "answer": "올림픽체조경기장", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 697, "policy": "single_ax7", "answer": "2013년 데뷔 당시 멜론 뮤직 어워드, 서울가요대상, 골든 디스크, 가온 차트 K-POP 어워드에서 신인상 수상", "em": 0.0, "rouge_w": 0.0967741935483871, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 28, "seconds": 0.68}]}
+{"id": 699, "policy": "single_ax7", "answer": "30명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 700, "policy": "single_ax7", "answer": "프랑스군은 보로디노 전투에서 거의 3만 명의 사상자를 냈습니다", "em": 0.0, "rouge_w": 0.21052631578947367, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 16, "seconds": 0.43}]}
+{"id": 703, "policy": "single_ax7", "answer": "광저우 아시안 게임", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 704, "policy": "single_ax7", "answer": "퍼드 갤빈", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 705, "policy": "single_ax7", "answer": "5·17 쿠데타", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 706, "policy": "single_ax7", "answer": "징역3년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.3}]}
+{"id": 707, "policy": "single_ax7", "answer": "88세", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.2}]}
+{"id": 708, "policy": "single_ax7", "answer": "녹색 뉴딜", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 709, "policy": "single_ax7", "answer": "기도 다카마사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 710, "policy": "single_ax7", "answer": "슬픈 어조", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 711, "policy": "single_ax7", "answer": "페니키아의 도시국가들은 해양지배력을 바탕으로 독립을 유지하였다", "em": 0.0, "rouge_w": 0.25641025641025644, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 16, "seconds": 0.38}]}
+{"id": 713, "policy": "single_ax7", "answer": "부산토지공사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 714, "policy": "single_ax7", "answer": "1923년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 715, "policy": "single_ax7", "answer": "평창 동계 스페셜올림픽", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.38}]}
+{"id": 716, "policy": "single_ax7", "answer": "800만 화소", "em": 0.0, "rouge_w": 0.7272727272727273, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 717, "policy": "single_ax7", "answer": "참여연대", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.37}]}
+{"id": 718, "policy": "single_ax7", "answer": "밀직부사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 719, "policy": "single_ax7", "answer": "비충청권의 민심을 바꾸려는 것", "em": 0.0, "rouge_w": 0.4, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.33}]}
+{"id": 720, "policy": "single_ax7", "answer": "선형식 아파트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 721, "policy": "single_ax7", "answer": "도나우버트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 722, "policy": "single_ax7", "answer": "삼광 작전", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 723, "policy": "single_ax7", "answer": "5월 21일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.18}]}
+{"id": 724, "policy": "single_ax7", "answer": "김대중", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 725, "policy": "single_ax7", "answer": "정호용", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 726, "policy": "single_ax7", "answer": "저항의 날", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.23}]}
+{"id": 727, "policy": "single_ax7", "answer": "룩부터 만진 경우에도 캐슬링의 의도가 있으면 캐슬링을 허용한다", "em": 0.0, "rouge_w": 0.05714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 16, "seconds": 0.39}]}
+{"id": 728, "policy": "single_ax7", "answer": "기존 갤럭시 S 시리즈의 디스플레이는 반듯한 직사각형 모양이었습니다", "em": 0.0, "rouge_w": 0.1951219512195122, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.37}]}
+{"id": 729, "policy": "single_ax7", "answer": "카를로 타란하르트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.26}]}
+{"id": 730, "policy": "single_ax7", "answer": "역산", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.12}]}
+{"id": 731, "policy": "single_ax7", "answer": "부산 데레사여자고등학교", "em": 0.0, "rouge_w": 0.8181818181818182, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.24}]}
+{"id": 732, "policy": "single_ax7", "answer": "덕수궁", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.21}]}
+{"id": 733, "policy": "single_ax7", "answer": "목회주제 관련 소논문", "em": 0.0, "rouge_w": 0.5333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 734, "policy": "single_ax7", "answer": "베레지나 강", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 735, "policy": "single_ax7", "answer": "도조 히데키", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 736, "policy": "single_ax7", "answer": "70만 장", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.33}]}
+{"id": 737, "policy": "single_ax7", "answer": "압구정동 현대아파트", "em": 0.0, "rouge_w": 0.631578947368421, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.25}]}
+{"id": 738, "policy": "single_ax7", "answer": "바이오쇼크는 시스템 쇼크 시리즈의 정신적 후속작입니다", "em": 0.0, "rouge_w": 0.5128205128205129, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.36}]}
+{"id": 739, "policy": "single_ax7", "answer": "레제프 타이프 에르도안", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.27}]}
+{"id": 740, "policy": "single_ax7", "answer": "국제사법", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 741, "policy": "single_ax7", "answer": "2013년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 742, "policy": "single_ax7", "answer": "라틴 음악의 전도사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 743, "policy": "single_ax7", "answer": "5월 30일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 744, "policy": "single_ax7", "answer": "천안연수원과 중앙당을 매각하자고 주장하였습니다", "em": 0.0, "rouge_w": 0.21428571428571425, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.31}]}
+{"id": 745, "policy": "single_ax7", "answer": "Geodia gibberosa", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.21}]}
+{"id": 746, "policy": "single_ax7", "answer": "무상급식 주민투표 제안", "em": 0.0, "rouge_w": 0.5, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.25}]}
+{"id": 747, "policy": "single_ax7", "answer": "불법 정치자금 9억4000여만원을 받은 혐의", "em": 0.0, "rouge_w": 0.45161290322580644, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.36}]}
+{"id": 748, "policy": "single_ax7", "answer": "차석", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 749, "policy": "single_ax7", "answer": "역사학과 과학", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 750, "policy": "single_ax7", "answer": "2008년 9월", "em": 0.0, "rouge_w": 0.7692307692307693, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.25}]}
+{"id": 751, "policy": "single_ax7", "answer": "4 GB", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 752, "policy": "single_ax7", "answer": "6명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.2}]}
+{"id": 753, "policy": "single_ax7", "answer": "요조숙녀", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 754, "policy": "single_ax7", "answer": "공통성", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 755, "policy": "single_ax7", "answer": "매슈 리지웨이", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 756, "policy": "single_ax7", "answer": "이리에 스케마사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 757, "policy": "single_ax7", "answer": "영등포역", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.19}]}
+{"id": 758, "policy": "single_ax7", "answer": "비상경계령", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 759, "policy": "single_ax7", "answer": "미국", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.14}]}
+{"id": 760, "policy": "single_ax7", "answer": "그위온 바흐", "em": 0.0, "rouge_w": 0.7058823529411764, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 761, "policy": "single_ax7", "answer": "ESP는 수많은 시그네처 기타를 보유하고 있다", "em": 0.0, "rouge_w": 0.43750000000000006, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 12, "seconds": 0.32}]}
+{"id": 762, "policy": "single_ax7", "answer": "슈퍼문", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 763, "policy": "single_ax7", "answer": "1445유로", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 764, "policy": "single_ax7", "answer": "드루이드 보그말", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.21}]}
+{"id": 765, "policy": "single_ax7", "answer": "4회 연속", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 766, "policy": "single_ax7", "answer": "앙카라", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 767, "policy": "single_ax7", "answer": "4월 3일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 768, "policy": "single_ax7", "answer": "2002년 10월 24일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.28}]}
+{"id": 769, "policy": "single_ax7", "answer": "2002년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 770, "policy": "single_ax7", "answer": "약 7만 8,000명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 771, "policy": "single_ax7", "answer": "스티븐 미쇼와 휴 애인스워스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.3}]}
+{"id": 772, "policy": "single_ax7", "answer": "구스타프 아이클러(Gustav Eichler)", "em": 0.0, "rouge_w": 0.5625, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.35}]}
+{"id": 773, "policy": "single_ax7", "answer": "영광의 금요일 (جمعة العزة)", "em": 0.0, "rouge_w": 0.56, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.36}]}
+{"id": 774, "policy": "single_ax7", "answer": "브라질", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.17}]}
+{"id": 775, "policy": "single_ax7", "answer": "2010년 7월 1일", "em": 0.0, "rouge_w": 0.625, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 776, "policy": "single_ax7", "answer": "1946년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 777, "policy": "single_ax7", "answer": "나가노 오사미", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 778, "policy": "single_ax7", "answer": "숭례문", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 779, "policy": "single_ax7", "answer": "대륙 철학", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 780, "policy": "single_ax7", "answer": "징역 1년 6월", "em": 0.0, "rouge_w": 0.3333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.3}]}
+{"id": 781, "policy": "single_ax7", "answer": "1953년 1월 20일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 782, "policy": "single_ax7", "answer": "메이지 궁전", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 783, "policy": "single_ax7", "answer": "세종대학교 세계어연구소", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 784, "policy": "single_ax7", "answer": "국회의사당", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 786, "policy": "single_ax7", "answer": "스테판 벨로프 선수", "em": 0.0, "rouge_w": 0.8235294117647058, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 787, "policy": "single_ax7", "answer": "생방송 시사360", "em": 0.0, "rouge_w": 0.7142857142857143, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 788, "policy": "single_ax7", "answer": "데루노미야 시게코", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.24}]}
+{"id": 789, "policy": "single_ax7", "answer": "1396년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 790, "policy": "single_ax7", "answer": "1970년대", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.22}]}
+{"id": 791, "policy": "single_ax7", "answer": "미네소타 대학교", "em": 0.0, "rouge_w": 0.888888888888889, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 793, "policy": "single_ax7", "answer": "히데코", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 794, "policy": "single_ax7", "answer": "크렘린 궁", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 795, "policy": "single_ax7", "answer": "히데코에게", "em": 0.0, "rouge_w": 0.7499999999999999, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 796, "policy": "single_ax7", "answer": "김홍집", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 797, "policy": "single_ax7", "answer": "선통제 푸이", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 798, "policy": "single_ax7", "answer": "바리온 물질", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.14}]}
+{"id": 800, "policy": "single_ax7", "answer": "마고 왓슨", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 801, "policy": "single_ax7", "answer": "베르사유 궁전", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 802, "policy": "single_ax7", "answer": "서울 용산구 한남동", "em": 0.0, "rouge_w": 0.8235294117647058, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.25}]}
+{"id": 803, "policy": "single_ax7", "answer": "과반 득표", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 804, "policy": "single_ax7", "answer": "편민사목", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 805, "policy": "single_ax7", "answer": "2007년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 806, "policy": "single_ax7", "answer": "상대는 폰이 없는 상태여야 한다", "em": 0.0, "rouge_w": 0.1111111111111111, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.28}]}
+{"id": 807, "policy": "single_ax7", "answer": "태초력", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 808, "policy": "single_ax7", "answer": "스기우라 주고", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 809, "policy": "single_ax7", "answer": "정치적 실권", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 810, "policy": "single_ax7", "answer": "9회 연속", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 811, "policy": "single_ax7", "answer": "8억 8천만 원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.22}]}
+{"id": 812, "policy": "single_ax7", "answer": "고단샤", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 813, "policy": "single_ax7", "answer": "천안함의 사고원인은 접촉에 의하지 않은 외부의 수중 폭발이라는 주장이 확인되었다", "em": 0.0, "rouge_w": 0.339622641509434, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 18, "seconds": 0.45}]}
+{"id": 814, "policy": "single_ax7", "answer": "2004년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 815, "policy": "single_ax7", "answer": "중국 민법", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 816, "policy": "single_ax7", "answer": "1972년 10월", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.2}]}
+{"id": 817, "policy": "single_ax7", "answer": "9세기에서 10세기 사이", "em": 0.0, "rouge_w": 0.25, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.24}]}
+{"id": 818, "policy": "single_ax7", "answer": "두칸", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 819, "policy": "single_ax7", "answer": "4종", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.35}]}
+{"id": 820, "policy": "single_ax7", "answer": "정도전", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 821, "policy": "single_ax7", "answer": "아마추어 애호가들", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 822, "policy": "single_ax7", "answer": "우리 집에 왜 왔니", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.2}]}
+{"id": 823, "policy": "single_ax7", "answer": "미네르바", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 824, "policy": "single_ax7", "answer": "2012년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 825, "policy": "single_ax7", "answer": "12마디", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 827, "policy": "single_ax7", "answer": "버지니아 주 스톤톤의 스튜어트홀에 기증되었다", "em": 0.0, "rouge_w": 0.3448275862068966, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.35}]}
+{"id": 828, "policy": "single_ax7", "answer": "530제곱킬로미터", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 829, "policy": "single_ax7", "answer": "2분만에", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 830, "policy": "single_ax7", "answer": "일본 오사카의 조선인 부락에서 태어났다", "em": 0.0, "rouge_w": 0.4444444444444445, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.34}]}
+{"id": 831, "policy": "single_ax7", "answer": "장두노미", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 832, "policy": "single_ax7", "answer": "김대중은 처음에는 중재안을 거부했다", "em": 0.0, "rouge_w": 0.17391304347826086, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.28}]}
+{"id": 833, "policy": "single_ax7", "answer": "부처의 실적", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 834, "policy": "single_ax7", "answer": "마키노 노부아키", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.19}]}
+{"id": 835, "policy": "single_ax7", "answer": "1988년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.14}]}
+{"id": 836, "policy": "single_ax7", "answer": "자민당", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 837, "policy": "single_ax7", "answer": "위대한 탄생", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 838, "policy": "single_ax7", "answer": "600,000장", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 839, "policy": "single_ax7", "answer": "김황수 교수", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 840, "policy": "single_ax7", "answer": "제후연합군", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.24}]}
+{"id": 841, "policy": "single_ax7", "answer": "5취온을 패괴의 적집, 무상의 적집, '내 것[我所]' 등으로 여긴다", "em": 0.0, "rouge_w": 0.17142857142857143, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 25, "seconds": 0.59}]}
+{"id": 842, "policy": "single_ax7", "answer": "2008년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.14}]}
+{"id": 843, "policy": "single_ax7", "answer": "마포 삼성아파트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 844, "policy": "single_ax7", "answer": "약 250만 평방 킬로미터", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.32}]}
+{"id": 845, "policy": "single_ax7", "answer": "킹의 높이에 따라 적절한 비율로 정해진다", "em": 0.0, "rouge_w": 0.08695652173913045, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.27}]}
+{"id": 846, "policy": "single_ax7", "answer": "김대중 새정치국민회의 대통령 후보", "em": 0.0, "rouge_w": 0.08, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.53}]}
+{"id": 847, "policy": "single_ax7", "answer": "미네르바", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 848, "policy": "single_ax7", "answer": "2012년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.14}]}
+{"id": 849, "policy": "single_ax7", "answer": "I Got the Blues", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 850, "policy": "single_ax7", "answer": "128MB", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 852, "policy": "single_ax7", "answer": "모슬린이나 사슴털로 채워 넣거나, 트리코로 감싼 내부 골조를 사용", "em": 0.0, "rouge_w": 0.40909090909090906, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 20, "seconds": 0.45}]}
+{"id": 853, "policy": "single_ax7", "answer": "죄형법정주의", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 854, "policy": "single_ax7", "answer": "Rhapsody in Blue", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 855, "policy": "single_ax7", "answer": "2012년도 방송평가에서 JTBC가 SBS와 MBC를 제치고 3위를 기록했습니다", "em": 0.0, "rouge_w": 0.10526315789473682, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 19, "seconds": 0.43}]}
+{"id": 856, "policy": "single_ax7", "answer": "스몰렌스크 전투", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 857, "policy": "single_ax7", "answer": "헤르만 프리스 SS준장", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.25}]}
+{"id": 858, "policy": "single_ax7", "answer": "55.4%", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 859, "policy": "single_ax7", "answer": "워싱턴 주, 벨뷰", "em": 0.0, "rouge_w": 0.4, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.23}]}
+{"id": 860, "policy": "single_ax7", "answer": "스기야마 메모", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 861, "policy": "single_ax7", "answer": "헤럴드 페인", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.21}]}
+{"id": 862, "policy": "single_ax7", "answer": "김희선", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 863, "policy": "single_ax7", "answer": "홈스", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 864, "policy": "single_ax7", "answer": "Rickenbacker Flying Pan", "em": 0.0, "rouge_w": 0.6857142857142856, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.26}]}
+{"id": 865, "policy": "single_ax7", "answer": "CT 촬영", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.27}]}
+{"id": 866, "policy": "single_ax7", "answer": "피동안전개념 및 중대사고 배제기술 개발", "em": 0.0, "rouge_w": 0.06666666666666667, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.3}]}
+{"id": 867, "policy": "single_ax7", "answer": "다케시타 노보루", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 868, "policy": "single_ax7", "answer": "3기", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 869, "policy": "single_ax7", "answer": "김영삼의 대북정책 성향은 보수주의적이었으며, 남북 정상회담에 대한 초기 긍정적 입장과는 달리 김일성 주석의 사망 후 강경한 태도로 전환하여 남북 관계를 악화시켰다", "em": 0.0, "rouge_w": 0.08602150537634408, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 36, "seconds": 0.76}]}
+{"id": 870, "policy": "single_ax7", "answer": "베르트 뢸링 판사", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 871, "policy": "single_ax7", "answer": "2012년 6월 26일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.27}]}
+{"id": 872, "policy": "single_ax7", "answer": "김황식", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 873, "policy": "single_ax7", "answer": "8번째", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 874, "policy": "single_ax7", "answer": "전지현", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.21}]}
+{"id": 875, "policy": "single_ax7", "answer": "37명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 876, "policy": "single_ax7", "answer": "12억 광년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 877, "policy": "single_ax7", "answer": "홍정희 교수", "em": 0.0, "rouge_w": 0.6666666666666666, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.21}]}
+{"id": 878, "policy": "single_ax7", "answer": "2006년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.22}]}
+{"id": 879, "policy": "single_ax7", "answer": "아키히토", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 880, "policy": "single_ax7", "answer": "1999년 6월", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.23}]}
+{"id": 881, "policy": "single_ax7", "answer": "jTBC", "em": 0.0, "rouge_w": 0.8571428571428571, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 883, "policy": "single_ax7", "answer": "동학 농민 운동", "em": 0.0, "rouge_w": 0.3333333333333333, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 884, "policy": "single_ax7", "answer": "2008년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 885, "policy": "single_ax7", "answer": "2.25m", "em": 0.0, "rouge_w": 0.25, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 886, "policy": "single_ax7", "answer": "고려국사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.18}]}
+{"id": 887, "policy": "single_ax7", "answer": "1968년 공화당 전당대회", "em": 0.0, "rouge_w": 0.7272727272727273, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.24}]}
+{"id": 888, "policy": "single_ax7", "answer": "1940년대", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 890, "policy": "single_ax7", "answer": "김태영 국방장관", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.2}]}
+{"id": 891, "policy": "single_ax7", "answer": "후쿠시마 원전사고", "em": 0.0, "rouge_w": 0.9, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 892, "policy": "single_ax7", "answer": "중급인민법원의 형사, 민사, 행정사건 처리 부서", "em": 0.0, "rouge_w": 0.125, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 13, "seconds": 0.32}]}
+{"id": 893, "policy": "single_ax7", "answer": "오스카는 한 곳에 머무르면서 죽은 시늉을 하다가 먹이가 보이면 흡입해 먹는다", "em": 0.0, "rouge_w": 0.21276595744680848, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 20, "seconds": 0.47}]}
+{"id": 894, "policy": "single_ax7", "answer": "5년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 895, "policy": "single_ax7", "answer": "정신병원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 896, "policy": "single_ax7", "answer": "청군의 원조를 청하도록 했다", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 9, "seconds": 0.3}]}
+{"id": 897, "policy": "single_ax7", "answer": "오리건 주립 대학교", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 898, "policy": "single_ax7", "answer": "유럽중앙은행(ECB)", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 8, "seconds": 0.3}]}
+{"id": 899, "policy": "single_ax7", "answer": "거부했습니다", "em": 0.0, "rouge_w": 0.5, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 900, "policy": "single_ax7", "answer": "존 브라운", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 901, "policy": "single_ax7", "answer": "정삼", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 902, "policy": "single_ax7", "answer": "쁘띠 트리아농 궁전", "em": 0.0, "rouge_w": 0.9473684210526316, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.22}]}
+{"id": 903, "policy": "single_ax7", "answer": "2008년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 904, "policy": "single_ax7", "answer": "현의 진동", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 905, "policy": "single_ax7", "answer": "밀회", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 906, "policy": "single_ax7", "answer": "어린이대공원", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 907, "policy": "single_ax7", "answer": "1931년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.15}]}
+{"id": 908, "policy": "single_ax7", "answer": "국제스키연맹", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 909, "policy": "single_ax7", "answer": "조지프 키낸", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.21}]}
+{"id": 910, "policy": "single_ax7", "answer": "1888년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.16}]}
+{"id": 911, "policy": "single_ax7", "answer": "깁슨 SG", "em": 0.0, "rouge_w": 0.5714285714285715, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 912, "policy": "single_ax7", "answer": "G.O.O.D. Music", "em": 0.0, "rouge_w": 0.9523809523809523, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.29}]}
+{"id": 913, "policy": "single_ax7", "answer": "설봉호", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.2}]}
+{"id": 914, "policy": "single_ax7", "answer": "이순구 서울시 경무국장", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 7, "seconds": 0.26}]}
+{"id": 915, "policy": "single_ax7", "answer": "중화민국", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 916, "policy": "single_ax7", "answer": "경남아파트", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.21}]}
+{"id": 917, "policy": "single_ax7", "answer": "유고슬라비아", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.19}]}
+{"id": 918, "policy": "single_ax7", "answer": "김윤환", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.28}]}
+{"id": 920, "policy": "single_ax7", "answer": "장애성년 후견법안", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.21}]}
+{"id": 921, "policy": "single_ax7", "answer": "1위", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.14}]}
+{"id": 922, "policy": "single_ax7", "answer": "3,40대", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.17}]}
+{"id": 923, "policy": "single_ax7", "answer": "11명", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 924, "policy": "single_ax7", "answer": "원시인들의 남녀 관계", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.18}]}
+{"id": 925, "policy": "single_ax7", "answer": "요시다 유타카", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.24}]}
+{"id": 926, "policy": "single_ax7", "answer": "김용주", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.13}]}
+{"id": 927, "policy": "single_ax7", "answer": "52위", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.17}]}
+{"id": 928, "policy": "single_ax7", "answer": "2007년 4월 13일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.28}]}
+{"id": 930, "policy": "single_ax7", "answer": "800 연안호", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.19}]}
+{"id": 931, "policy": "single_ax7", "answer": "흥선대원군", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.18}]}
+{"id": 932, "policy": "single_ax7", "answer": "민법의 적용대상은 재산관계와 인신관계이며, 이는 평등한 주체 사이에서만 적용된다", "em": 0.0, "rouge_w": 0.37735849056603776, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 21, "seconds": 0.5}]}
+{"id": 933, "policy": "single_ax7", "answer": "1952년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 934, "policy": "single_ax7", "answer": "미성년자가 책임능력이 있어 스스로 불법행위책임을 지는 경우에도, 그 손해가 당해 미성년자의 감독의무자의 의무위반과 상당인과관계가 있으면 감독의무자는 일반불법행위자로서 손해배상책임이 있다", "em": 0.0, "rouge_w": 0.07339449541284403, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 41, "seconds": 0.88}]}
+{"id": 935, "policy": "single_ax7", "answer": "리듬앤블루스, 록큰롤, 재즈", "em": 0.0, "rouge_w": 0.5185185185185186, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 11, "seconds": 0.28}]}
+{"id": 937, "policy": "single_ax7", "answer": "전지현", "em": 0.0, "rouge_w": 0.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.16}]}
+{"id": 938, "policy": "single_ax7", "answer": "서해 북방한계선(NLL)", "em": 0.0, "rouge_w": 0.625, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.31}]}
+{"id": 939, "policy": "single_ax7", "answer": "2013 도쿄 드라마 어워드", "em": 0.0, "rouge_w": 0.8, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.25}]}
+{"id": 941, "policy": "single_ax7", "answer": "색깔을 지키면서도 조금씩 스펙트럼을 넓혀야 한다는 지적이 있었다", "em": 0.0, "rouge_w": 0.20512820512820512, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 14, "seconds": 0.35}]}
+{"id": 942, "policy": "single_ax7", "answer": "8세기경", "em": 0.0, "rouge_w": 0.36363636363636365, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.17}]}
+{"id": 943, "policy": "single_ax7", "answer": "3월 8일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 6, "seconds": 0.34}]}
+{"id": 944, "policy": "single_ax7", "answer": "2015년", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 4, "seconds": 0.18}]}
+{"id": 945, "policy": "single_ax7", "answer": "과달카날", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 5, "seconds": 0.22}]}
+{"id": 946, "policy": "single_ax7", "answer": "용사", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.2}]}
+{"id": 947, "policy": "single_ax7", "answer": "2009년 4월 27일", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 10, "seconds": 0.3}]}
+{"id": 948, "policy": "single_ax7", "answer": "벚꽃나무", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 3, "seconds": 0.15}]}
+{"id": 949, "policy": "single_ax7", "answer": "강원도", "em": 1.0, "rouge_w": 1.0, "trace": [], "calls": [{"role": "generator", "model": "ax7", "output_tokens": 2, "seconds": 0.11}]}

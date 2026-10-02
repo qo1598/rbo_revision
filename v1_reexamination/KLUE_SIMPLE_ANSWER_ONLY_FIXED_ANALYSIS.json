@@ -1,0 +1,247 @@
+{
+  "attempt_status_counts": {
+    "ok": 1730
+  },
+  "authorization_sha256": "0f46387d643872e3de9de52ae65106b1e9a0215bcd8ad0d24c8fe0232baa1847",
+  "census": {
+    "attempts": 1730,
+    "checkpoints": 1730,
+    "duplicates": 0,
+    "incidents": 0,
+    "missing": 0,
+    "planned": 1730,
+    "results": 1730,
+    "starts": 1730
+  },
+  "fixed_analysis": {
+    "a1_correct_complete": 797,
+    "a1_rate_complete": 0.4609600925390399,
+    "baseline_absolute_correct": 1000,
+    "baseline_absolute_denominator": 1730,
+    "baseline_absolute_rate": 0.5780346820809249,
+    "baseline_correct_complete": 1000,
+    "baseline_rate_complete": 0.578368999421631,
+    "complete_pair_denominator": 1729,
+    "conservative_bounds_fixed_bank": [
+      -0.11791907514450867,
+      -0.11676300578034682
+    ],
+    "d0_correct_complete": 377,
+    "d0_rate_complete": 0.21804511278195488,
+    "delta_a1_minus_baseline_fixed_bank": -0.11734104046242774,
+    "fixed_bank_denominator": 1730,
+    "missing_pairs": 1,
+    "n00": 584,
+    "n01": 348,
+    "n10": 145,
+    "n11": 652
+  },
+  "fixed_interpretation": "The original broad D0-to-A1 advantage is sensitive to the single-call prompt construct: under this fixed answer-only comparator, the descriptive same-bank gap reverses and the answer-only baseline has higher EM than A1.",
+  "frozen_hashes": {
+    "call_plan_file": "788b1deb971bb5b26d64a5673fce3bc4659d73c1878607facb771beaa7961557",
+    "manifest_file": "f9bf0b3acd4a7a4eaf5faae54b48d3dfb72cf4ed601b1b897bdc98a479dcd4c8",
+    "manifest_internal": "ce5afc4c622dc44a9f7e2a5cf06cc1585e2ca15f918d4b18311276c0d050e576",
+    "ordered_ids": "c176c94d4eaf6c6a36097afec62671048d3bfa2e24360b7636521d3bc5f8ec85",
+    "package_lock_file": "4ca7055b3a38c0c851dec24166e95e8c8917322e676226be2c84527932d618f9",
+    "runner": "44c0f977ec960f213a51dda93a5db184b34e4a07873c8fa893639971123f941d",
+    "scorer": "be8c396bc5ddfbdad4930d789e1e8329be74a611eee9f390d0942356deddc5c0"
+  },
+  "historical_v4": {
+    "a1_correct_complete": 797,
+    "a1_rate_complete": 0.4609600925390399,
+    "d0_correct_complete": 377,
+    "d0_rate_complete": 0.21804511278195488,
+    "denominator": 1729,
+    "ordinal_756_missing_id": "KMR-770EB85FE4A5B694"
+  },
+  "journal_sha256": {
+    "attempts.jsonl": "943716402635bc2db57b5f5bf9c386f1a112adffc79507e64751d09fa7c2162f",
+    "checkpoints.jsonl": "4beaf090e8b2cf0836b6858b6bb6c24ef9464b1d6ffc63808d5f0683c943bbf8",
+    "results.jsonl": "1332a2a71a04c7d1c12a1287d480e6ab2dea9279c046e969f8ab732c2e368da4",
+    "starts.jsonl": "c09d3066b36786c68a8fb00eb8d82c90b70a1799053bc0ebb14ad50b39523189"
+  },
+  "labels": [
+    "post-outcome",
+    "same-bank",
+    "prompt-construct sensitivity",
+    "descriptive",
+    "not computation-matched",
+    "not independent confirmation"
+  ],
+  "model_runtime": {
+    "model": {
+      "alias": "A.X-4.0-Light-Q5_K_M.gguf",
+      "digest": "2ded8b8c95de95b3fce190ea4cea5212e077c9e6a861a83821648c93034048f5",
+      "show_sha256": "d84471ad24baf6ee81d7cfa262a9a0721557034b0e70b8952b5123dc9c3d1b3e"
+    },
+    "ollama_version": "0.34.2",
+    "options_without_seed": {
+      "num_ctx": 8192,
+      "num_predict": 1024,
+      "temperature": 0.7
+    },
+    "posthoc_limit": "Raw per-call /api/show and /api/ps payloads were not journaled; identity/context checks are enforced by the hash-pinned runner and reflected only through successful terminal records."
+  },
+  "protocol_sha256": "2abd988a503b2146e1fa2734ee8dedaa02679fc44e92d3b40f1eae58fd61d714",
+  "resources": {
+    "answer_only_baseline": {
+      "completion_tokens": 11487,
+      "elapsed_hours_first_start_to_final_journal_mtime": 0.3443313145637512,
+      "journal_bytes": 2616986,
+      "physical_attempts": 1730,
+      "prompt_tokens": 875642,
+      "successful_calls": 1730,
+      "summed_request_seconds": 699.0406909
+    },
+    "historical_v4_by_role": {
+      "a1_reviser": {
+        "completion_tokens_known": 21979,
+        "model_role": "hyperclova-3b-Q4_K_M Reviser",
+        "physical_attempts": 1730,
+        "prompt_tokens_known": 265872,
+        "successful_calls": 1729,
+        "summed_request_seconds_known": 4478.4126549,
+        "unknown_prompt_count_calls": 1
+      },
+      "combined_v4": {
+        "attempts": 3460,
+        "bytes": 11631012,
+        "completion": 68815,
+        "seconds": 10904.9690679
+      },
+      "d0_generator": {
+        "completion_tokens_known": 46836,
+        "model_role": "A.X-4.0-Light-Q5_K_M.gguf Generator",
+        "physical_attempts": 1730,
+        "prompt_tokens_known": 975984,
+        "successful_calls": 1730,
+        "summed_request_seconds_known": 6426.556413,
+        "unknown_prompt_count_calls": 0
+      }
+    }
+  },
+  "schema": "klue-answer-only-postoutcome-fixed-analysis-v1",
+  "status": "pass",
+  "stop_reason_counts": {
+    "stop": 1730
+  },
+  "strata": {
+    "question_type": {
+      "1": {
+        "a1_correct_complete": 552,
+        "a1_rate_complete": 0.456198347107438,
+        "baseline_correct_complete": 700,
+        "baseline_rate_complete": 0.5785123966942148,
+        "complete_pair_denominator": 1210,
+        "conservative_bounds_fixed_bank": [
+          -0.12303881090008258,
+          -0.12138728323699421
+        ],
+        "d0_correct_complete": 261,
+        "d0_rate_complete": 0.21570247933884298,
+        "delta_a1_minus_baseline_fixed_bank": -0.1222130470685384,
+        "fixed_bank_denominator": 1211,
+        "missing_pairs": 1,
+        "n00": 410,
+        "n01": 248,
+        "n10": 100,
+        "n11": 452
+      },
+      "2": {
+        "a1_correct_complete": 245,
+        "a1_rate_complete": 0.4720616570327553,
+        "baseline_correct_complete": 300,
+        "baseline_rate_complete": 0.5780346820809249,
+        "complete_pair_denominator": 519,
+        "conservative_bounds_fixed_bank": [
+          -0.10597302504816955,
+          -0.10597302504816955
+        ],
+        "d0_correct_complete": 116,
+        "d0_rate_complete": 0.22350674373795762,
+        "delta_a1_minus_baseline_fixed_bank": -0.10597302504816955,
+        "fixed_bank_denominator": 519,
+        "missing_pairs": 0,
+        "n00": 174,
+        "n01": 100,
+        "n10": 45,
+        "n11": 200
+      }
+    },
+    "source": {
+      "acrofan": {
+        "a1_correct_complete": 145,
+        "a1_rate_complete": 0.4380664652567976,
+        "baseline_correct_complete": 185,
+        "baseline_rate_complete": 0.5589123867069486,
+        "complete_pair_denominator": 331,
+        "conservative_bounds_fixed_bank": [
+          -0.12084592145015106,
+          -0.12084592145015106
+        ],
+        "d0_correct_complete": 71,
+        "d0_rate_complete": 0.21450151057401812,
+        "delta_a1_minus_baseline_fixed_bank": -0.12084592145015106,
+        "fixed_bank_denominator": 331,
+        "missing_pairs": 0,
+        "n00": 121,
+        "n01": 65,
+        "n10": 25,
+        "n11": 120
+      },
+      "hankyung": {
+        "a1_correct_complete": 518,
+        "a1_rate_complete": 0.49616858237547895,
+        "baseline_correct_complete": 616,
+        "baseline_rate_complete": 0.5900383141762452,
+        "complete_pair_denominator": 1044,
+        "conservative_bounds_fixed_bank": [
+          -0.09386973180076628,
+          -0.09386973180076628
+        ],
+        "d0_correct_complete": 229,
+        "d0_rate_complete": 0.2193486590038314,
+        "delta_a1_minus_baseline_fixed_bank": -0.09386973180076628,
+        "fixed_bank_denominator": 1044,
+        "missing_pairs": 0,
+        "n00": 335,
+        "n01": 191,
+        "n10": 93,
+        "n11": 425
+      },
+      "wikipedia": {
+        "a1_correct_complete": 134,
+        "a1_rate_complete": 0.3785310734463277,
+        "baseline_correct_complete": 199,
+        "baseline_rate_complete": 0.5621468926553672,
+        "complete_pair_denominator": 354,
+        "conservative_bounds_fixed_bank": [
+          -0.18591549295774648,
+          -0.18028169014084508
+        ],
+        "d0_correct_complete": 77,
+        "d0_rate_complete": 0.2175141242937853,
+        "delta_a1_minus_baseline_fixed_bank": -0.18309859154929578,
+        "fixed_bank_denominator": 355,
+        "missing_pairs": 1,
+        "n00": 128,
+        "n01": 92,
+        "n10": 27,
+        "n11": 107
+      }
+    }
+  },
+  "v4_audit_reference": {
+    "journal_sha256": {
+      "aggregate.json": "52ef88e841a093dcfdf5a58665e62c5519abf39cf99a0a0e090e4d0d551e5b90",
+      "attempts.jsonl": "d86f91c891991956fa5aacec17f5643febce8cc13320ac033265417f70d1bee4",
+      "call_starts.jsonl": "0a516bb6f1d01a858bd8782c6b3667fb0d4419166428232f8983b70de4770d5c",
+      "checkpoints.jsonl": "f480ae21f1a066430ce3b12b5027f81742ebf9fc4f2ff4f818027fa1e51f4abb",
+      "integrity_incidents.jsonl": "c42005df45251b410c759786f1573211d71103960d6655898e798bd967b7e706",
+      "irrecoverable_missing.jsonl": "49d92e99df4720206fa79d0f914391c5c31542894580574d35c8386ebd1bb4ea",
+      "results.jsonl": "f080ac700c91108e0cc08d1b0a7937c8bd18d84b4ea9c8cce101efb268c582e0"
+    },
+    "package_lock_sha256": "07226efd809f41cd0e14f6bd7fb2621eab8e8bbb7521ea795dcd80f62b778939",
+    "status": "pass"
+  }
+}

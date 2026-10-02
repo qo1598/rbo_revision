@@ -1,0 +1,527 @@
+{
+ "rater": "P05",
+ "packet_sha256": "e628f2c978720e87f288d159cd55c50b4f45a5c2709aeb56f572d2aa80c7e327",
+ "saved_at": "2026-10-02",
+ "complete": true,
+ "meta": {
+  "consent": true,
+  "pledge": true
+ },
+ "ratings": [
+  {
+   "code": "C0061AB4F0C8",
+   "kind": "practice",
+   "visibleMs": 274000,
+   "label": "left",
+   "reasonTags": [
+    "completeness",
+    "korean"
+   ]
+  },
+  {
+   "code": "CB512C7D45FF",
+   "kind": "practice",
+   "visibleMs": 132000,
+   "label": "right",
+   "reasonTags": [
+    "accuracy"
+   ]
+  },
+  {
+   "code": "9608AD64EE28",
+   "kind": "practice",
+   "visibleMs": 175000,
+   "label": "left",
+   "reasonTags": [
+    "accuracy",
+    "completeness"
+   ]
+  },
+  {
+   "code": "69A8A2B53961",
+   "kind": "main",
+   "visibleMs": 114000,
+   "label": "cannot",
+   "reasonTags": [
+    "accuracy"
+   ]
+  },
+  {
+   "code": "02AC237D0F17",
+   "kind": "main",
+   "visibleMs": 87000,
+   "label": "tie",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "E855E5A2706A",
+   "kind": "main",
+   "visibleMs": 72000,
+   "label": "cannot"
+  },
+  {
+   "code": "AEBF1A340F19",
+   "kind": "main",
+   "visibleMs": 34000,
+   "label": "tie"
+  },
+  {
+   "code": "7CB44470E54A",
+   "kind": "main",
+   "visibleMs": 91000,
+   "label": "right",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "813EFE9CC873",
+   "kind": "main",
+   "visibleMs": 40000,
+   "label": "tie"
+  },
+  {
+   "code": "CD77CE16BBD2",
+   "kind": "main",
+   "visibleMs": 42000,
+   "label": "right",
+   "reasonTags": [
+    "instruction",
+    "completeness"
+   ]
+  },
+  {
+   "code": "563C80E61613",
+   "kind": "main",
+   "visibleMs": 101000,
+   "label": "left",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "A2AB01A62163",
+   "kind": "main",
+   "visibleMs": 35000,
+   "label": "right",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "BA64604F893B",
+   "kind": "main",
+   "visibleMs": 82000,
+   "label": "tie",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "714E38685278",
+   "kind": "main",
+   "visibleMs": 18000,
+   "label": "right",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "53C99002A042",
+   "kind": "main",
+   "visibleMs": 36000,
+   "label": "left",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "33D1D3F372E5",
+   "kind": "main",
+   "visibleMs": 32000,
+   "label": "tie"
+  },
+  {
+   "code": "10744E43BA98",
+   "kind": "main",
+   "visibleMs": 50000,
+   "label": "right",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "1CCC5F3CAAE1",
+   "kind": "main",
+   "visibleMs": 32000,
+   "label": "right",
+   "reasonTags": [
+    "instruction"
+   ]
+  },
+  {
+   "code": "241FBC996E4B",
+   "kind": "main",
+   "visibleMs": 85000,
+   "label": "tie"
+  },
+  {
+   "code": "A265B248D556",
+   "kind": "main",
+   "visibleMs": 39000,
+   "label": "left",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "505CE268DA11",
+   "kind": "main",
+   "visibleMs": 41000,
+   "label": "left",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "6046AF2C2824",
+   "kind": "main",
+   "visibleMs": 25000,
+   "label": "right",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "8A47122ED233",
+   "kind": "main",
+   "visibleMs": 17000,
+   "label": "left",
+   "reasonTags": [
+    "instruction",
+    "accuracy"
+   ]
+  },
+  {
+   "code": "90CCFE6C9DAA",
+   "kind": "main",
+   "visibleMs": 15000,
+   "label": "tie"
+  },
+  {
+   "code": "BA8D3F4BD99F",
+   "kind": "main",
+   "visibleMs": 38000,
+   "label": "left",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "DE1AE23D9B84",
+   "kind": "main",
+   "visibleMs": 25000,
+   "label": "tie"
+  },
+  {
+   "code": "2B968C180941",
+   "kind": "main",
+   "visibleMs": 48000,
+   "label": "right",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "686D9876F9DC",
+   "kind": "main",
+   "visibleMs": 11000,
+   "label": "tie"
+  },
+  {
+   "code": "96502659AA11",
+   "kind": "main",
+   "visibleMs": 16000,
+   "label": "left",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "7B68A8F444B5",
+   "kind": "main",
+   "visibleMs": 78000,
+   "label": "right",
+   "reasonTags": [
+    "accuracy"
+   ]
+  },
+  {
+   "code": "A04E02D234D2",
+   "kind": "main",
+   "visibleMs": 39000,
+   "label": "tie"
+  },
+  {
+   "code": "E1195E28F76B",
+   "kind": "main",
+   "visibleMs": 22000,
+   "label": "tie"
+  },
+  {
+   "code": "41A8EEC36EBB",
+   "kind": "main",
+   "visibleMs": 21000,
+   "label": "tie"
+  },
+  {
+   "code": "6D7BF793FA64",
+   "kind": "main",
+   "visibleMs": 18000,
+   "label": "right",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "673A0FDB3DA2",
+   "kind": "main",
+   "visibleMs": 11000,
+   "label": "tie"
+  },
+  {
+   "code": "17BD322E5627",
+   "kind": "main",
+   "visibleMs": 34000,
+   "label": "tie"
+  },
+  {
+   "code": "EF2531FFD9CD",
+   "kind": "main",
+   "visibleMs": 17000,
+   "label": "right",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "316228E8D632",
+   "kind": "main",
+   "visibleMs": 31000,
+   "label": "tie"
+  },
+  {
+   "code": "DD28CE747DA1",
+   "kind": "main",
+   "visibleMs": 77000,
+   "label": "cannot",
+   "reasonTags": [
+    "accuracy"
+   ]
+  },
+  {
+   "code": "44CA8C162E3D",
+   "kind": "main",
+   "visibleMs": 120000,
+   "label": "right",
+   "reasonTags": [
+    "instruction"
+   ]
+  },
+  {
+   "code": "DAC735FD406C",
+   "kind": "main",
+   "visibleMs": 18000,
+   "label": "tie"
+  },
+  {
+   "code": "1C481F4563FC",
+   "kind": "main",
+   "visibleMs": 14000,
+   "label": "tie"
+  },
+  {
+   "code": "F9B5CB7C84DE",
+   "kind": "main",
+   "visibleMs": 18000,
+   "label": "tie"
+  },
+  {
+   "code": "1DB78AFD308F",
+   "kind": "main",
+   "visibleMs": 24000,
+   "label": "left",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "86749E64B2C7",
+   "kind": "main",
+   "visibleMs": 22000,
+   "label": "left",
+   "reasonTags": [
+    "instruction",
+    "korean"
+   ]
+  },
+  {
+   "code": "A47B3F270845",
+   "kind": "main",
+   "visibleMs": 70000,
+   "label": "right",
+   "reasonTags": [
+    "korean",
+    "completeness"
+   ]
+  },
+  {
+   "code": "4ADA3DF211B0",
+   "kind": "main",
+   "visibleMs": 26000,
+   "label": "right",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "5895E8637BDC",
+   "kind": "main",
+   "visibleMs": 21000,
+   "label": "left",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "7921A36DE2CF",
+   "kind": "main",
+   "visibleMs": 22000,
+   "label": "cannot"
+  },
+  {
+   "code": "BCA00145C98E",
+   "kind": "main",
+   "visibleMs": 412000,
+   "label": "cannot"
+  },
+  {
+   "code": "324718AFFF69",
+   "kind": "main",
+   "visibleMs": 69000,
+   "label": "right",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "4CA8E651280D",
+   "kind": "main",
+   "visibleMs": 17000,
+   "label": "left",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "B8177FCC4558",
+   "kind": "main",
+   "visibleMs": 23000,
+   "label": "left",
+   "reasonTags": [
+    "completeness"
+   ]
+  },
+  {
+   "code": "63A1DF19FC96",
+   "kind": "main",
+   "visibleMs": 47000,
+   "label": "cannot"
+  },
+  {
+   "code": "D7DE561D200F",
+   "kind": "main",
+   "visibleMs": 70000,
+   "label": "cannot"
+  },
+  {
+   "code": "32F2EC2EAA8E",
+   "kind": "main",
+   "visibleMs": 81000,
+   "label": "left",
+   "reasonTags": [
+    "instruction"
+   ]
+  },
+  {
+   "code": "CDCA535934C4",
+   "kind": "main",
+   "visibleMs": 75000,
+   "label": "right",
+   "reasonTags": [
+    "instruction",
+    "accuracy"
+   ]
+  },
+  {
+   "code": "778D03B1A263",
+   "kind": "main",
+   "visibleMs": 18000,
+   "label": "left",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "99504F61F7EF",
+   "kind": "main",
+   "visibleMs": 31000,
+   "label": "right",
+   "reasonTags": [
+    "instruction"
+   ]
+  },
+  {
+   "code": "92312E71D2A3",
+   "kind": "main",
+   "visibleMs": 28000,
+   "label": "tie"
+  },
+  {
+   "code": "A5518D2F242F",
+   "kind": "main",
+   "visibleMs": 29000,
+   "label": "right",
+   "reasonTags": [
+    "completeness",
+    "korean"
+   ]
+  },
+  {
+   "code": "B3E00F8B356C",
+   "kind": "main",
+   "visibleMs": 317000,
+   "label": "left",
+   "reasonTags": [
+    "korean"
+   ]
+  },
+  {
+   "code": "02A38E5622AE",
+   "kind": "main",
+   "visibleMs": 14000,
+   "label": "tie"
+  },
+  {
+   "code": "073B3DF608D5",
+   "kind": "main",
+   "visibleMs": 22000,
+   "label": "right",
+   "reasonTags": [
+    "instruction"
+   ]
+  }
+ ]
+}

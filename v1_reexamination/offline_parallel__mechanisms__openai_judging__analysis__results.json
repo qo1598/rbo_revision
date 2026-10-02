@@ -1,0 +1,552 @@
+{
+  "schema_version": "rbo-v1-mechanism-openai-analysis-v1",
+  "generated_at_utc": "2026-09-20T19:38:09.349411+00:00",
+  "scope": {
+    "provider": "openai",
+    "model": "gpt-4.1-2025-04-14",
+    "complete_targets": 4326,
+    "planned_targets": 4326,
+    "missing_targets": 0,
+    "pair_rule": "Both reciprocal mapped labels must agree and be non-unable; disagreement, unable, or missing remains unresolved.",
+    "archived_r0_seed_provenance": "unknown"
+  },
+  "inference": {
+    "independent_cluster": "unique item_id",
+    "within_cluster": "three generation seeds and both presentation orders",
+    "interval": "deterministic percentile cluster bootstrap",
+    "bootstrap_repetitions": 20000,
+    "test": "Monte Carlo two-sided unique-item cluster sign-flip test",
+    "signflip_repetitions": 100000,
+    "random_seed": 20260921,
+    "multiplicity": "Holm correction across r1_vs_r0 and r2_vs_r0; critique diagnostic reported separately without adjustment."
+  },
+  "integrity": {
+    "status": "pass",
+    "checks": {
+      "frozen_hash_judge_config.json": true,
+      "frozen_hash_collector_script.py": true,
+      "frozen_hash_source_results.jsonl": true,
+      "frozen_hash_source_frozen_upstream.jsonl": true,
+      "frozen_hash_source_integrity_and_metrics.json": true,
+      "frozen_hash_target_manifest.jsonl": true,
+      "freeze_manifest_hash_matches_launch_record": true,
+      "source_integrity_status_pass": true,
+      "preflight_status_pass": true,
+      "diagnostic_status_pass": true,
+      "public_progress_complete": true,
+      "public_progress_concealed": true,
+      "public_logs_no_verdict_or_reason_fields": true,
+      "no_public_verdict_stream": true,
+      "rubric_hash_matches_freeze": true,
+      "schema_hash_matches_freeze": true,
+      "target_count_4326_unique": true,
+      "pair_count_2163": true,
+      "all_pairs_have_two_orders": true,
+      "snapshot_count_and_keys": true,
+      "all_source_output_prompt_and_reciprocal_links": true,
+      "study_request_coverage_unique": true,
+      "study_response_coverage_unique": true,
+      "study_errors_zero": true,
+      "persistent_attempt_cap_respected": true,
+      "all_study_targets_succeeded_first_request": true,
+      "synthetic_diagnostic_one_request_one_response": true,
+      "study_verdict_coverage_unique": true,
+      "all_request_prompt_response_verdict_hash_links": true,
+      "returned_model_matches_frozen": true
+    },
+    "counts": {
+      "targets": 4326,
+      "pairs": 2163,
+      "snapshots": 4326,
+      "study_requests": 4326,
+      "study_responses": 4326,
+      "study_errors": 0,
+      "study_verdicts": 4326,
+      "maximum_requests_one_study_target": 1,
+      "diagnostic_events": {
+        "request": 1,
+        "response": 1
+      }
+    },
+    "resource_metadata": {
+      "returned_models": {
+        "gpt-4.1-2025-04-14": 4326
+      },
+      "usage": {
+        "prompt_tokens": 2560472,
+        "completion_tokens": 419944,
+        "total_tokens": 2980416
+      },
+      "response_elapsed_seconds": {
+        "n": 4326,
+        "sum": 5767.072999999997,
+        "mean": 1.3331190476190469,
+        "median": 1.2660000000000764,
+        "p95": 1.905999999999949
+      },
+      "cost_status": {
+        "not_returned_by_api": 4326
+      },
+      "monetary_cost": null,
+      "cost_note": "API returned no monetary amount; no post hoc price estimate was substituted."
+    },
+    "raw_and_source_hashes_before_analysis": {
+      "openai_judging/judge_config.json": {
+        "bytes": 1513,
+        "sha256": "3a766db7e691cffcc8bb3f53ee1b26a9dfdda97b00af7af41ff16107875f5809"
+      },
+      "openai_judging/collect_openai_mechanism_judgments.py": {
+        "bytes": 25362,
+        "sha256": "54231a714e5deadf1b25641aa8145cdc45a4e2e2d3f8a32b4032cbd9718eadb7"
+      },
+      "openai_judging/target_manifest.jsonl": {
+        "bytes": 2744406,
+        "sha256": "1c0ea9db388e6c8fa342219a375ebf0191c4bf5d4d6c4cf37043427d15d05857"
+      },
+      "openai_judging/freeze_manifest.json": {
+        "bytes": 2309,
+        "sha256": "aff1d03fab99c4bf5f36b7f2db067897eb58a1e84630ef84f826a57c00a747e2"
+      },
+      "openai_judging/preflight_report.json": {
+        "bytes": 814,
+        "sha256": "a57ff809e1bce3bcf46aee34299550e9177813f5b8bf64c688be9c2cbfe1e234"
+      },
+      "openai_judging/diagnostic_report.json": {
+        "bytes": 287,
+        "sha256": "9ad147e227a8b62dcea8210bb36ec86750562cae822df69772589ff63a305df1"
+      },
+      "openai_judging/progress.json": {
+        "bytes": 448,
+        "sha256": "2d9a258dc7b3c97922cdb9a3849818d91f997dbdc21350982cc7e183a78ed512"
+      },
+      "openai_judging/collector_stdout.log": {
+        "bytes": 101,
+        "sha256": "ad3ff51cfee6f0569c7e5c6120a623d8841d84c6eba77f071d9fd18a380be172"
+      },
+      "openai_judging/collector_stderr.log": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "openai_judging/private/pair_snapshots.jsonl": {
+        "bytes": 3739386,
+        "sha256": "97f20846f2bc251cb8864e4f3da4b07a39c3e2a0ac4bd0f4d9d1f2646d3e336b"
+      },
+      "openai_judging/private/raw_events.jsonl": {
+        "bytes": 23755371,
+        "sha256": "5186bb2e0521895ccecb47553674f650e96930ba686e7e243d10f45681d61e19"
+      },
+      "openai_judging/private/verdicts.jsonl": {
+        "bytes": 8559544,
+        "sha256": "33bd15641625e0024097578d52662e06049bce5f999a12ae40fe5e12374f4fd3"
+      },
+      "run/results.jsonl": {
+        "bytes": 2796127,
+        "sha256": "fef0b705ddbdc2a7857691f28400d5bd6e3126f9fe065bea74506055f6b2821c"
+      },
+      "frozen_upstream.jsonl": {
+        "bytes": 486348,
+        "sha256": "90eb563bebffdbc571df8eb8fcbf519bc447cc8e75e7508b7582b7ca67b6db6b"
+      },
+      "analysis/integrity_and_metrics.json": {
+        "bytes": 21435,
+        "sha256": "27d4b87a92a52bc64e399ad155a49a95fd446b2c1f94301e7f4bad0f20e5b41f"
+      }
+    }
+  },
+  "by_comparison_seed": [
+    {
+      "planned_pairs": 350,
+      "candidate_wins": 28,
+      "reference_wins": 47,
+      "ties": 209,
+      "unresolved": 66,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 66,
+      "reciprocal_comparable_pairs": 350,
+      "reciprocal_order_disagreement_rate": 0.18857142857142858,
+      "decisive_pairs": 75,
+      "conditional_candidate_win_rate": 0.37333333333333335,
+      "conditional_effect_vs_half": -0.12666666666666665,
+      "all_pair_candidate_win_rate": 0.08,
+      "tie_rate": 0.5971428571428572,
+      "unresolved_rate": 0.18857142857142858,
+      "comparison": "r1_vs_r0",
+      "reference_arm": "R0",
+      "candidate_arm": "R1",
+      "seed": 1701,
+      "conditional_wilson_lower_95": 0.2725596912402112,
+      "conditional_wilson_upper_95": 0.48645034885543315
+    },
+    {
+      "planned_pairs": 350,
+      "candidate_wins": 21,
+      "reference_wins": 46,
+      "ties": 222,
+      "unresolved": 61,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 61,
+      "reciprocal_comparable_pairs": 350,
+      "reciprocal_order_disagreement_rate": 0.1742857142857143,
+      "decisive_pairs": 67,
+      "conditional_candidate_win_rate": 0.31343283582089554,
+      "conditional_effect_vs_half": -0.18656716417910446,
+      "all_pair_candidate_win_rate": 0.06,
+      "tie_rate": 0.6342857142857142,
+      "unresolved_rate": 0.1742857142857143,
+      "comparison": "r1_vs_r0",
+      "reference_arm": "R0",
+      "candidate_arm": "R1",
+      "seed": 1702,
+      "conditional_wilson_lower_95": 0.21505348258237716,
+      "conditional_wilson_upper_95": 0.4320458231606458
+    },
+    {
+      "planned_pairs": 350,
+      "candidate_wins": 25,
+      "reference_wins": 42,
+      "ties": 218,
+      "unresolved": 65,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 1,
+      "reciprocal_order_disagreements": 64,
+      "reciprocal_comparable_pairs": 349,
+      "reciprocal_order_disagreement_rate": 0.1833810888252149,
+      "decisive_pairs": 67,
+      "conditional_candidate_win_rate": 0.373134328358209,
+      "conditional_effect_vs_half": -0.12686567164179102,
+      "all_pair_candidate_win_rate": 0.07142857142857142,
+      "tie_rate": 0.6228571428571429,
+      "unresolved_rate": 0.18571428571428572,
+      "comparison": "r1_vs_r0",
+      "reference_arm": "R0",
+      "candidate_arm": "R1",
+      "seed": 1703,
+      "conditional_wilson_lower_95": 0.2671815998117198,
+      "conditional_wilson_upper_95": 0.49284592809353583
+    },
+    {
+      "planned_pairs": 350,
+      "candidate_wins": 44,
+      "reference_wins": 24,
+      "ties": 221,
+      "unresolved": 61,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 61,
+      "reciprocal_comparable_pairs": 350,
+      "reciprocal_order_disagreement_rate": 0.1742857142857143,
+      "decisive_pairs": 68,
+      "conditional_candidate_win_rate": 0.6470588235294118,
+      "conditional_effect_vs_half": 0.1470588235294118,
+      "all_pair_candidate_win_rate": 0.12571428571428572,
+      "tie_rate": 0.6314285714285715,
+      "unresolved_rate": 0.1742857142857143,
+      "comparison": "r2_vs_r0",
+      "reference_arm": "R0",
+      "candidate_arm": "R2",
+      "seed": 1701,
+      "conditional_wilson_lower_95": 0.5284105522251017,
+      "conditional_wilson_upper_95": 0.7499802311513482
+    },
+    {
+      "planned_pairs": 350,
+      "candidate_wins": 46,
+      "reference_wins": 21,
+      "ties": 208,
+      "unresolved": 75,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 75,
+      "reciprocal_comparable_pairs": 350,
+      "reciprocal_order_disagreement_rate": 0.21428571428571427,
+      "decisive_pairs": 67,
+      "conditional_candidate_win_rate": 0.6865671641791045,
+      "conditional_effect_vs_half": 0.18656716417910446,
+      "all_pair_candidate_win_rate": 0.13142857142857142,
+      "tie_rate": 0.5942857142857143,
+      "unresolved_rate": 0.21428571428571427,
+      "comparison": "r2_vs_r0",
+      "reference_arm": "R0",
+      "candidate_arm": "R2",
+      "seed": 1702,
+      "conditional_wilson_lower_95": 0.567954176839354,
+      "conditional_wilson_upper_95": 0.7849465174176228
+    },
+    {
+      "planned_pairs": 350,
+      "candidate_wins": 37,
+      "reference_wins": 22,
+      "ties": 222,
+      "unresolved": 69,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 69,
+      "reciprocal_comparable_pairs": 350,
+      "reciprocal_order_disagreement_rate": 0.19714285714285715,
+      "decisive_pairs": 59,
+      "conditional_candidate_win_rate": 0.6271186440677966,
+      "conditional_effect_vs_half": 0.1271186440677966,
+      "all_pair_candidate_win_rate": 0.10571428571428572,
+      "tie_rate": 0.6342857142857142,
+      "unresolved_rate": 0.19714285714285715,
+      "comparison": "r2_vs_r0",
+      "reference_arm": "R0",
+      "candidate_arm": "R2",
+      "seed": 1703,
+      "conditional_wilson_lower_95": 0.4995359106706382,
+      "conditional_wilson_upper_95": 0.7391600120767886
+    },
+    {
+      "planned_pairs": 21,
+      "candidate_wins": 1,
+      "reference_wins": 7,
+      "ties": 11,
+      "unresolved": 2,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 2,
+      "reciprocal_comparable_pairs": 21,
+      "reciprocal_order_disagreement_rate": 0.09523809523809523,
+      "decisive_pairs": 8,
+      "conditional_candidate_win_rate": 0.125,
+      "conditional_effect_vs_half": -0.375,
+      "all_pair_candidate_win_rate": 0.047619047619047616,
+      "tie_rate": 0.5238095238095238,
+      "unresolved_rate": 0.09523809523809523,
+      "comparison": "with_cr_vs_empty_cr",
+      "reference_arm": "empty_Cr",
+      "candidate_arm": "with_Cr",
+      "seed": 1701,
+      "conditional_wilson_lower_95": 0.02241749145005667,
+      "conditional_wilson_upper_95": 0.4708881822128535
+    },
+    {
+      "planned_pairs": 21,
+      "candidate_wins": 2,
+      "reference_wins": 3,
+      "ties": 11,
+      "unresolved": 5,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 5,
+      "reciprocal_comparable_pairs": 21,
+      "reciprocal_order_disagreement_rate": 0.23809523809523808,
+      "decisive_pairs": 5,
+      "conditional_candidate_win_rate": 0.4,
+      "conditional_effect_vs_half": -0.09999999999999998,
+      "all_pair_candidate_win_rate": 0.09523809523809523,
+      "tie_rate": 0.5238095238095238,
+      "unresolved_rate": 0.23809523809523808,
+      "comparison": "with_cr_vs_empty_cr",
+      "reference_arm": "empty_Cr",
+      "candidate_arm": "with_Cr",
+      "seed": 1702,
+      "conditional_wilson_lower_95": 0.11762077423264783,
+      "conditional_wilson_upper_95": 0.769275718723987
+    },
+    {
+      "planned_pairs": 21,
+      "candidate_wins": 1,
+      "reference_wins": 4,
+      "ties": 15,
+      "unresolved": 1,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 1,
+      "reciprocal_comparable_pairs": 21,
+      "reciprocal_order_disagreement_rate": 0.047619047619047616,
+      "decisive_pairs": 5,
+      "conditional_candidate_win_rate": 0.2,
+      "conditional_effect_vs_half": -0.3,
+      "all_pair_candidate_win_rate": 0.047619047619047616,
+      "tie_rate": 0.7142857142857143,
+      "unresolved_rate": 0.047619047619047616,
+      "comparison": "with_cr_vs_empty_cr",
+      "reference_arm": "empty_Cr",
+      "candidate_arm": "with_Cr",
+      "seed": 1703,
+      "conditional_wilson_lower_95": 0.03622410863243014,
+      "conditional_wilson_upper_95": 0.6244653702374747
+    }
+  ],
+  "by_comparison": {
+    "r1_vs_r0": {
+      "planned_pairs": 1050,
+      "candidate_wins": 74,
+      "reference_wins": 135,
+      "ties": 649,
+      "unresolved": 192,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 1,
+      "reciprocal_order_disagreements": 191,
+      "reciprocal_comparable_pairs": 1049,
+      "reciprocal_order_disagreement_rate": 0.18207816968541468,
+      "decisive_pairs": 209,
+      "conditional_candidate_win_rate": 0.35406698564593303,
+      "conditional_effect_vs_half": -0.14593301435406697,
+      "all_pair_candidate_win_rate": 0.07047619047619047,
+      "tie_rate": 0.6180952380952381,
+      "unresolved_rate": 0.18285714285714286,
+      "comparison": "r1_vs_r0",
+      "family": "primary_reviser",
+      "reference_arm": "R0",
+      "candidate_arm": "R1",
+      "unique_items": 350,
+      "seeds": [
+        1701,
+        1702,
+        1703
+      ],
+      "cluster_bootstrap_repetitions": 20000,
+      "cluster_bootstrap_seed": 20260921,
+      "cluster_bootstrap_95": {
+        "conditional_candidate_win_rate": {
+          "lower_95": 0.2613065326633166,
+          "upper_95": 0.44949610786766736
+        },
+        "all_pair_candidate_win_rate": {
+          "lower_95": 0.049523809523809526,
+          "upper_95": 0.09333333333333334
+        },
+        "tie_rate": {
+          "lower_95": 0.5742857142857143,
+          "upper_95": 0.660952380952381
+        },
+        "unresolved_rate": {
+          "lower_95": 0.15333333333333332,
+          "upper_95": 0.21333333333333335
+        }
+      },
+      "cluster_signflip_repetitions": 100000,
+      "conditional_effect_vs_half_cluster_95": {
+        "lower_95": -0.2386934673366834,
+        "upper_95": -0.05050389213233264
+      },
+      "cluster_signflip_two_sided_p_raw": 0.004169958300416996,
+      "primary_family_holm_p": 0.007859921400785992,
+      "multiplicity_family": "two_primary_reviser_comparisons"
+    },
+    "r2_vs_r0": {
+      "planned_pairs": 1050,
+      "candidate_wins": 127,
+      "reference_wins": 67,
+      "ties": 651,
+      "unresolved": 205,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 205,
+      "reciprocal_comparable_pairs": 1050,
+      "reciprocal_order_disagreement_rate": 0.19523809523809524,
+      "decisive_pairs": 194,
+      "conditional_candidate_win_rate": 0.654639175257732,
+      "conditional_effect_vs_half": 0.15463917525773196,
+      "all_pair_candidate_win_rate": 0.12095238095238095,
+      "tie_rate": 0.62,
+      "unresolved_rate": 0.19523809523809524,
+      "comparison": "r2_vs_r0",
+      "family": "primary_reviser",
+      "reference_arm": "R0",
+      "candidate_arm": "R2",
+      "unique_items": 350,
+      "seeds": [
+        1701,
+        1702,
+        1703
+      ],
+      "cluster_bootstrap_repetitions": 20000,
+      "cluster_bootstrap_seed": 20260921,
+      "cluster_bootstrap_95": {
+        "conditional_candidate_win_rate": {
+          "lower_95": 0.5536697941888621,
+          "upper_95": 0.7484680515193913
+        },
+        "all_pair_candidate_win_rate": {
+          "lower_95": 0.09238095238095238,
+          "upper_95": 0.15142857142857144
+        },
+        "tie_rate": {
+          "lower_95": 0.5771428571428572,
+          "upper_95": 0.6628571428571428
+        },
+        "unresolved_rate": {
+          "lower_95": 0.16476190476190472,
+          "upper_95": 0.2257142857142857
+        }
+      },
+      "cluster_signflip_repetitions": 100000,
+      "conditional_effect_vs_half_cluster_95": {
+        "lower_95": 0.053669794188862086,
+        "upper_95": 0.24846805151939133
+      },
+      "cluster_signflip_two_sided_p_raw": 0.003929960700392996,
+      "primary_family_holm_p": 0.007859921400785992,
+      "multiplicity_family": "two_primary_reviser_comparisons"
+    },
+    "with_cr_vs_empty_cr": {
+      "planned_pairs": 63,
+      "candidate_wins": 4,
+      "reference_wins": 14,
+      "ties": 37,
+      "unresolved": 8,
+      "unresolved_missing_order": 0,
+      "unresolved_unable": 0,
+      "reciprocal_order_disagreements": 8,
+      "reciprocal_comparable_pairs": 63,
+      "reciprocal_order_disagreement_rate": 0.12698412698412698,
+      "decisive_pairs": 18,
+      "conditional_candidate_win_rate": 0.2222222222222222,
+      "conditional_effect_vs_half": -0.2777777777777778,
+      "all_pair_candidate_win_rate": 0.06349206349206349,
+      "tie_rate": 0.5873015873015873,
+      "unresolved_rate": 0.12698412698412698,
+      "comparison": "with_cr_vs_empty_cr",
+      "family": "exploratory_critiquer_diagnostic",
+      "reference_arm": "empty_Cr",
+      "candidate_arm": "with_Cr",
+      "unique_items": 21,
+      "seeds": [
+        1701,
+        1702,
+        1703
+      ],
+      "cluster_bootstrap_repetitions": 20000,
+      "cluster_bootstrap_seed": 20260921,
+      "cluster_bootstrap_95": {
+        "conditional_candidate_win_rate": {
+          "lower_95": 0.0,
+          "upper_95": 0.47058823529411764
+        },
+        "all_pair_candidate_win_rate": {
+          "lower_95": 0.0,
+          "upper_95": 0.14285714285714285
+        },
+        "tie_rate": {
+          "lower_95": 0.42857142857142855,
+          "upper_95": 0.746031746031746
+        },
+        "unresolved_rate": {
+          "lower_95": 0.047619047619047616,
+          "upper_95": 0.20634920634920634
+        }
+      },
+      "cluster_signflip_repetitions": 100000,
+      "conditional_effect_vs_half_cluster_95": {
+        "lower_95": -0.5,
+        "upper_95": -0.02941176470588236
+      },
+      "cluster_signflip_two_sided_p_raw": 0.08700912990870091,
+      "primary_family_holm_p": null,
+      "multiplicity_family": "separate_prespecified_exploratory_diagnostic_unadjusted"
+    }
+  },
+  "limitations": [
+    "This is a single OpenAI judge model, not a multi-provider panel.",
+    "R0 is a shared frozen control whose upstream generation seed is unknown.",
+    "R2 versus R0 is a model-replacement comparison and does not isolate parameter capacity.",
+    "The 21-item critique comparison is an exploratory diagnostic and does not establish a general mechanism effect.",
+    "Intervals cluster repeated seeds and orders by item but do not represent judge-model selection uncertainty.",
+    "Nonsignificance does not establish equivalence, and cross-comparison rankings require direct tests."
+  ]
+}

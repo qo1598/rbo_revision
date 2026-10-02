@@ -1,0 +1,644 @@
+{
+ "returns": {
+  "P01": {
+   "file": "P01_결과_2026-10-02.json",
+   "saved_at": "2026-10-02",
+   "complete": true,
+   "consent": true,
+   "pledge": true
+  },
+  "P02": {
+   "file": "P02_결과_2026-10-01.json",
+   "saved_at": "2026-10-01",
+   "complete": true,
+   "consent": true,
+   "pledge": true
+  },
+  "P03": {
+   "file": "P03_결과_2026-10-02.json",
+   "saved_at": "2026-10-02",
+   "complete": true,
+   "consent": true,
+   "pledge": true
+  },
+  "P04": {
+   "file": "P04_결과_2026-10-02.json",
+   "saved_at": "2026-10-02",
+   "complete": true,
+   "consent": true,
+   "pledge": true
+  },
+  "P05": {
+   "file": "P05_결과_2026-10-02.json",
+   "saved_at": "2026-10-02",
+   "complete": true,
+   "consent": true,
+   "pledge": true
+  },
+  "P06": {
+   "file": "P06_결과_2026-10-01.json",
+   "saved_at": "2026-10-01",
+   "complete": true,
+   "consent": true,
+   "pledge": true
+  },
+  "P07": {
+   "file": "P07_결과_2026-10-02.json",
+   "saved_at": "2026-10-02",
+   "complete": false,
+   "consent": true,
+   "pledge": true
+  },
+  "P08": {
+   "file": "P08_결과_2026-10-01.json",
+   "saved_at": "2026-10-01",
+   "complete": true,
+   "consent": true,
+   "pledge": true
+  },
+  "P09": {
+   "file": "P09_결과_2026-10-01.json",
+   "saved_at": "2026-10-01",
+   "complete": true,
+   "consent": true,
+   "pledge": true
+  }
+ },
+ "comparisons": {
+  "R1": {
+   "n_items": 35,
+   "W": 10,
+   "L": 18,
+   "T": 4,
+   "U": 3,
+   "cond_win": 0.35714285714285715,
+   "bootstrap95": [
+    0.18518518518518517,
+    0.5384615384615384
+   ],
+   "bootstrap_undefined_resamples": 0,
+   "clopper_pearson95": [
+    0.18640666000044542,
+    0.5593496872533334
+   ],
+   "sign_test_p": 0.1849333420395851,
+   "fleiss_kappa": 0.2982399999999999,
+   "human_vs_llm_panel": {
+    "n_both_resolved": 23,
+    "raw_agreement": 0.5652173913043478,
+    "cohen_kappa": 0.16666666666666655,
+    "panel_unresolved": 10
+   },
+   "reason_tags_by_preferred_system": {
+    "B": {
+     "completeness": 41,
+     "instruction": 12,
+     "korean": 7,
+     "accuracy": 11,
+     "other": 2
+    },
+    "A": {
+     "instruction": 16,
+     "accuracy": 9,
+     "completeness": 13,
+     "korean": 6
+    }
+   },
+   "by_category": {
+    "Brainstorming": {
+     "A": 0,
+     "B": 4,
+     "tie": 1,
+     "unresolved": 0
+    },
+    "Classification": {
+     "A": 1,
+     "B": 4,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Closed QA": {
+     "A": 3,
+     "B": 2,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Generation": {
+     "A": 1,
+     "B": 2,
+     "tie": 1,
+     "unresolved": 1
+    },
+    "Information Extraction": {
+     "A": 1,
+     "B": 2,
+     "tie": 1,
+     "unresolved": 1
+    },
+    "Open QA": {
+     "A": 2,
+     "B": 2,
+     "tie": 1,
+     "unresolved": 0
+    },
+    "Summarization": {
+     "A": 2,
+     "B": 2,
+     "tie": 0,
+     "unresolved": 1
+    }
+   }
+  },
+  "R2": {
+   "n_items": 35,
+   "W": 7,
+   "L": 19,
+   "T": 2,
+   "U": 7,
+   "cond_win": 0.2692307692307692,
+   "bootstrap95": [
+    0.10714285714285714,
+    0.45
+   ],
+   "bootstrap_undefined_resamples": 0,
+   "clopper_pearson95": [
+    0.1157322132915039,
+    0.47787478969383146
+   ],
+   "sign_test_p": 0.028959274291992188,
+   "fleiss_kappa": 0.19522882181110016,
+   "human_vs_llm_panel": {
+    "n_both_resolved": 23,
+    "raw_agreement": 0.7391304347826086,
+    "cohen_kappa": 0.34285714285714275,
+    "panel_unresolved": 6
+   },
+   "reason_tags_by_preferred_system": {
+    "B": {
+     "completeness": 36,
+     "korean": 7,
+     "accuracy": 12,
+     "instruction": 12,
+     "other": 2
+    },
+    "A": {
+     "instruction": 10,
+     "accuracy": 9,
+     "completeness": 9,
+     "korean": 3
+    }
+   },
+   "by_category": {
+    "Brainstorming": {
+     "A": 2,
+     "B": 1,
+     "tie": 0,
+     "unresolved": 2
+    },
+    "Classification": {
+     "A": 2,
+     "B": 3,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Closed QA": {
+     "A": 1,
+     "B": 4,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Generation": {
+     "A": 0,
+     "B": 3,
+     "tie": 1,
+     "unresolved": 1
+    },
+    "Information Extraction": {
+     "A": 1,
+     "B": 1,
+     "tie": 0,
+     "unresolved": 3
+    },
+    "Open QA": {
+     "A": 0,
+     "B": 4,
+     "tie": 0,
+     "unresolved": 1
+    },
+    "Summarization": {
+     "A": 1,
+     "B": 3,
+     "tie": 1,
+     "unresolved": 0
+    }
+   }
+  },
+  "R3": {
+   "n_items": 35,
+   "W": 26,
+   "L": 3,
+   "T": 2,
+   "U": 4,
+   "cond_win": 0.896551724137931,
+   "bootstrap95": [
+    0.7741935483870968,
+    1.0
+   ],
+   "bootstrap_undefined_resamples": 0,
+   "clopper_pearson95": [
+    0.7264848021075769,
+    0.9781362631701465
+   ],
+   "sign_test_p": 1.5236437320709229e-05,
+   "fleiss_kappa": 0.16305021698698074,
+   "human_vs_llm_panel": {
+    "n_both_resolved": 26,
+    "raw_agreement": 0.8461538461538461,
+    "cohen_kappa": 0.5357142857142857,
+    "panel_unresolved": 6
+   },
+   "reason_tags_by_preferred_system": {
+    "A": {
+     "completeness": 41,
+     "accuracy": 17,
+     "instruction": 27,
+     "korean": 7
+    },
+    "B": {
+     "completeness": 3,
+     "instruction": 4,
+     "korean": 6,
+     "accuracy": 5,
+     "other": 1
+    }
+   },
+   "by_category": {
+    "Brainstorming": {
+     "A": 3,
+     "B": 0,
+     "tie": 1,
+     "unresolved": 1
+    },
+    "Classification": {
+     "A": 3,
+     "B": 0,
+     "tie": 0,
+     "unresolved": 2
+    },
+    "Closed QA": {
+     "A": 4,
+     "B": 0,
+     "tie": 0,
+     "unresolved": 1
+    },
+    "Generation": {
+     "A": 5,
+     "B": 0,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Information Extraction": {
+     "A": 2,
+     "B": 3,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Open QA": {
+     "A": 5,
+     "B": 0,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Summarization": {
+     "A": 4,
+     "B": 0,
+     "tie": 1,
+     "unresolved": 0
+    }
+   }
+  },
+  "O1": {
+   "n_items": 35,
+   "W": 2,
+   "L": 27,
+   "T": 2,
+   "U": 4,
+   "cond_win": 0.06896551724137931,
+   "bootstrap95": [
+    0.0,
+    0.1724137931034483
+   ],
+   "bootstrap_undefined_resamples": 0,
+   "clopper_pearson95": [
+    0.008463962253001778,
+    0.22766188994448616
+   ],
+   "sign_test_p": 1.6242265701293945e-06,
+   "fleiss_kappa": 0.15014471780028932,
+   "human_vs_llm_panel": {
+    "n_both_resolved": 28,
+    "raw_agreement": 0.9285714285714286,
+    "cohen_kappa": 0.7200000000000001,
+    "panel_unresolved": 3
+   },
+   "reason_tags_by_preferred_system": {
+    "A": {
+     "completeness": 7,
+     "instruction": 2,
+     "other": 2,
+     "korean": 3,
+     "accuracy": 2
+    },
+    "B": {
+     "accuracy": 14,
+     "completeness": 35,
+     "instruction": 39,
+     "other": 3,
+     "korean": 7
+    }
+   },
+   "by_category": {
+    "Brainstorming": {
+     "A": 0,
+     "B": 4,
+     "tie": 1,
+     "unresolved": 0
+    },
+    "Classification": {
+     "A": 0,
+     "B": 4,
+     "tie": 1,
+     "unresolved": 0
+    },
+    "Closed QA": {
+     "A": 2,
+     "B": 2,
+     "tie": 0,
+     "unresolved": 1
+    },
+    "Generation": {
+     "A": 0,
+     "B": 5,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Information Extraction": {
+     "A": 0,
+     "B": 4,
+     "tie": 0,
+     "unresolved": 1
+    },
+    "Open QA": {
+     "A": 0,
+     "B": 4,
+     "tie": 0,
+     "unresolved": 1
+    },
+    "Summarization": {
+     "A": 0,
+     "B": 4,
+     "tie": 0,
+     "unresolved": 1
+    }
+   }
+  },
+  "O2": {
+   "n_items": 35,
+   "W": 9,
+   "L": 18,
+   "T": 3,
+   "U": 5,
+   "cond_win": 0.3333333333333333,
+   "bootstrap95": [
+    0.16,
+    0.5185185185185185
+   ],
+   "bootstrap_undefined_resamples": 0,
+   "clopper_pearson95": [
+    0.16518817968731553,
+    0.5396072860922572
+   ],
+   "sign_test_p": 0.12207812070846558,
+   "fleiss_kappa": 0.31656804733727817,
+   "human_vs_llm_panel": {
+    "n_both_resolved": 24,
+    "raw_agreement": 0.9166666666666666,
+    "cohen_kappa": 0.7847533632286995,
+    "panel_unresolved": 6
+   },
+   "reason_tags_by_preferred_system": {
+    "B": {
+     "korean": 20,
+     "completeness": 21,
+     "instruction": 18,
+     "accuracy": 13
+    },
+    "A": {
+     "completeness": 21,
+     "accuracy": 10,
+     "instruction": 10,
+     "korean": 7
+    }
+   },
+   "by_category": {
+    "Brainstorming": {
+     "A": 2,
+     "B": 2,
+     "tie": 1,
+     "unresolved": 0
+    },
+    "Classification": {
+     "A": 2,
+     "B": 3,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Closed QA": {
+     "A": 2,
+     "B": 3,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Generation": {
+     "A": 1,
+     "B": 4,
+     "tie": 0,
+     "unresolved": 0
+    },
+    "Information Extraction": {
+     "A": 2,
+     "B": 2,
+     "tie": 0,
+     "unresolved": 1
+    },
+    "Open QA": {
+     "A": 0,
+     "B": 3,
+     "tie": 1,
+     "unresolved": 1
+    },
+    "Summarization": {
+     "A": 0,
+     "B": 1,
+     "tie": 1,
+     "unresolved": 3
+    }
+   }
+  }
+ },
+ "raters": {
+  "P01": {
+   "labels": {
+    "A": 19,
+    "B": 27,
+    "tie": 8,
+    "cannot": 5,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.5869565217391305,
+   "repeat_consistency": "3/3",
+   "median_visible_s": 29.086,
+   "share_under_10s": 0.01694915254237288,
+   "decisive_without_reason_tag": 0,
+   "decisive_with_memo": 39
+  },
+  "P02": {
+   "labels": {
+    "A": 22,
+    "B": 30,
+    "tie": 6,
+    "cannot": 1,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.5384615384615384,
+   "repeat_consistency": "3/3",
+   "median_visible_s": 15.734,
+   "share_under_10s": 0.2711864406779661,
+   "decisive_without_reason_tag": 0,
+   "decisive_with_memo": 0
+  },
+  "P03": {
+   "labels": {
+    "A": 24,
+    "B": 30,
+    "tie": 3,
+    "cannot": 2,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.5,
+   "repeat_consistency": "2/3",
+   "median_visible_s": 45.351,
+   "share_under_10s": 0.01694915254237288,
+   "decisive_without_reason_tag": 0,
+   "decisive_with_memo": 53
+  },
+  "P04": {
+   "labels": {
+    "A": 20,
+    "B": 28,
+    "tie": 7,
+    "cannot": 3,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.5833333333333334,
+   "repeat_consistency": "3/3",
+   "median_visible_s": 26.911,
+   "share_under_10s": 0.10344827586206896,
+   "decisive_without_reason_tag": 0,
+   "decisive_with_memo": 1
+  },
+  "P05": {
+   "labels": {
+    "A": 10,
+    "B": 23,
+    "tie": 19,
+    "cannot": 6,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.42424242424242425,
+   "repeat_consistency": "3/3",
+   "median_visible_s": 33.107,
+   "share_under_10s": 0.0,
+   "decisive_without_reason_tag": 0,
+   "decisive_with_memo": 1
+  },
+  "P06": {
+   "labels": {
+    "A": 23,
+    "B": 28,
+    "tie": 6,
+    "cannot": 1,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.43137254901960786,
+   "repeat_consistency": "2/3",
+   "median_visible_s": 29.0445,
+   "share_under_10s": 0.08620689655172414,
+   "decisive_without_reason_tag": 0,
+   "decisive_with_memo": 4
+  },
+  "P07": {
+   "labels": {
+    "A": 14,
+    "B": 27,
+    "tie": 12,
+    "cannot": 5,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.5121951219512195,
+   "repeat_consistency": "2/3",
+   "median_visible_s": 21.767,
+   "share_under_10s": 0.15517241379310345,
+   "decisive_without_reason_tag": 1,
+   "decisive_with_memo": 9
+  },
+  "P08": {
+   "labels": {
+    "A": 23,
+    "B": 29,
+    "tie": 4,
+    "cannot": 2,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.5769230769230769,
+   "repeat_consistency": "3/3",
+   "median_visible_s": 40.893,
+   "share_under_10s": 0.034482758620689655,
+   "decisive_without_reason_tag": 0,
+   "decisive_with_memo": 13
+  },
+  "P09": {
+   "labels": {
+    "A": 23,
+    "B": 32,
+    "tie": 1,
+    "cannot": 2,
+    "missing": 0
+   },
+   "left_rate_among_decisive": 0.5272727272727272,
+   "repeat_consistency": "3/3",
+   "median_visible_s": 29.003,
+   "share_under_10s": 0.1206896551724138,
+   "decisive_without_reason_tag": 0,
+   "decisive_with_memo": 17
+  }
+ },
+ "fleiss_kappa_all": {
+  "kappa": 0.35148453480443814,
+  "bootstrap95": [
+   0.26046669577451115,
+   0.4410102521650534
+  ]
+ },
+ "panel_profile": {
+  "n_raters": 9,
+  "years_min": 1,
+  "years_max": 6,
+  "saved_first": "2026-10-01",
+  "saved_last": "2026-10-02"
+ },
+ "reason_integrity": {
+  "reasons_ge10_chars": 145,
+  "identical_reason_across_raters": 0
+ }
+}

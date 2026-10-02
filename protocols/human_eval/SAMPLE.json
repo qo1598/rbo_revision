@@ -1,0 +1,1402 @@
+[
+ {
+  "comp": "R1",
+  "row": 36846,
+  "item_id": "262",
+  "category": "Brainstorming",
+  "a_sha256": "943db79bd04f77526ca697bcfbcfd636a4c296470baa4b58473c6e7b1cf9dde2",
+  "b_sha256": "92a53be48d0ab24c51388f6046047a292c16f31e77edc6d2e5598613b64e28f0"
+ },
+ {
+  "comp": "R1",
+  "row": 22825,
+  "item_id": "150",
+  "category": "Brainstorming",
+  "a_sha256": "40b2eb6aad0aa4b256295e775e0b30da8b44f7b6b8e3490be44609fbe45b67ae",
+  "b_sha256": "a1c835a0ffdd0ecf7486966c6fdbc664f2b21fb17ad3fdc70456e292d1c3f672"
+ },
+ {
+  "comp": "R1",
+  "row": 40023,
+  "item_id": "276",
+  "category": "Brainstorming",
+  "a_sha256": "76a1b5df18eedc8d066331582f6eb547cc769823b128fe3d53a1f84bb05cdb97",
+  "b_sha256": "be6f97ebfcd2ca63dbacc6a8c7394e8cd5eb3f7f7fd3188cf3ea722d6807a4d9"
+ },
+ {
+  "comp": "R1",
+  "row": 288,
+  "item_id": "159",
+  "category": "Brainstorming",
+  "a_sha256": "c7852f4e3cc24610da80c2e778924fe36c0b882b97481692856ea94f41747245",
+  "b_sha256": "b0ccd2151df88fa41959ebefbda61d5f6ac0ceef85dfb22be426f1c30ed73a1e"
+ },
+ {
+  "comp": "R1",
+  "row": 47197,
+  "item_id": "252",
+  "category": "Brainstorming",
+  "a_sha256": "1b947e03eb534e6c0083ead2f17bf8633d9bc21f7615911c636962290679a210",
+  "b_sha256": "55f4d82b2759b47eed9d2c8fe52ee30b9636356f43f020ac9047898949516e95"
+ },
+ {
+  "comp": "R1",
+  "row": 7620,
+  "item_id": "97",
+  "category": "Classification",
+  "a_sha256": "1eaed37a207480d88b786dd4aeb41c3c6db1ac8130a4fbb6f5dea535f6b4ff91",
+  "b_sha256": "339dc26f097731c41a2993b9e0c5b16f8e6d9a69ecf0a7c0b0f54a8eacd97ef0"
+ },
+ {
+  "comp": "R1",
+  "row": 40526,
+  "item_id": "217",
+  "category": "Classification",
+  "a_sha256": "99cacb1c3a2fb401253db43840e48e55e9813534852601f57a3e11c8a8447979",
+  "b_sha256": "ba0e68a3ce94807c1bf103bd4560704f89fe372d8436dc6db011b0cb65efdc1d"
+ },
+ {
+  "comp": "R1",
+  "row": 26536,
+  "item_id": "201",
+  "category": "Classification",
+  "a_sha256": "ce3adb826f1e448a25442cb3d385eb885d21679b326a2e9bfd34157f0786374d",
+  "b_sha256": "0d24f01446155719581abd7cffcb4c68035e9f8e24c25bcd4e4181ebaa1d11e9"
+ },
+ {
+  "comp": "R1",
+  "row": 15678,
+  "item_id": "176",
+  "category": "Classification",
+  "a_sha256": "0557c0714c16d4b523fbed41a2054ec41b4a96e4d72c45fc2eedb9552ad75cfa",
+  "b_sha256": "2c78911d2e9faadf6611fce049428f068d6cfd3bdfcf9db1550f5448290bbb63"
+ },
+ {
+  "comp": "R1",
+  "row": 33154,
+  "item_id": "328",
+  "category": "Classification",
+  "a_sha256": "933f6c65f9eb31939d572f3536abac8afb60f042eb5b896bd34ae3cd10e8d4b1",
+  "b_sha256": "a32ecfbf6de07fb15942e5521451789edd82df38b41ec551ac9cdc12456f5408"
+ },
+ {
+  "comp": "R1",
+  "row": 22841,
+  "item_id": "95",
+  "category": "Closed QA",
+  "a_sha256": "af3079a3f4dd8ec37dd194cd1d4ed17ab4bd2d4ab213b1f53cededf7deff2e2a",
+  "b_sha256": "f2b40b6d273828721e662af372b4f2744329577b5004532fa1c4ea2a492b2726"
+ },
+ {
+  "comp": "R1",
+  "row": 6393,
+  "item_id": "110",
+  "category": "Closed QA",
+  "a_sha256": "e443db40fe7dc426267a509ce5239a5ab71ac160b7522b972b1972380b4e655d",
+  "b_sha256": "9f1c509a9547d76683a1a7ef2fd9c8a5be7d23bd21f62a46ac05434866c48dd7"
+ },
+ {
+  "comp": "R1",
+  "row": 18298,
+  "item_id": "93",
+  "category": "Closed QA",
+  "a_sha256": "a85ac994e52c82d73a9276c09d38b7a9f96fd279660df37cfb415b6afe130d36",
+  "b_sha256": "9f65b6626f0dc101f9dc614e801ea0e49e1ef2cf90ebfe5fad7e1363b570ca56"
+ },
+ {
+  "comp": "R1",
+  "row": 2293,
+  "item_id": "273",
+  "category": "Closed QA",
+  "a_sha256": "b14d2c0f661f471890d2db999a0994e4b2d70660b276766ed00e88bb1dadcde0",
+  "b_sha256": "516562cb1cbb99ee7aae833217ddb63ec138c3c905bf598dbb442d1b03298734"
+ },
+ {
+  "comp": "R1",
+  "row": 48087,
+  "item_id": "172",
+  "category": "Closed QA",
+  "a_sha256": "8055df25b1b582f726189aae8f7733736190aed4f315acb84dcc62921ba90aed",
+  "b_sha256": "7c2af646a5cd3a832ce2948e4318c67cfa50aab0b07b2536df100b839f4fa050"
+ },
+ {
+  "comp": "R1",
+  "row": 45983,
+  "item_id": "162",
+  "category": "Generation",
+  "a_sha256": "c2b43f33ad6199e3c67cc19c00ffa879491a0038e6ffdbd4b02c58720a1d9da2",
+  "b_sha256": "5f62d56b9cd9a3b7aee829a1b4eb54d6ecb60dbf4dfa9c8f350d8edb8255dd10"
+ },
+ {
+  "comp": "R1",
+  "row": 44537,
+  "item_id": "152",
+  "category": "Generation",
+  "a_sha256": "7b7a25511bd37128600818cb131fbf8b26fc6641fe22c25b5921e07c5f907e50",
+  "b_sha256": "afe5091653cfead899edeaad97ab810e717a39841d4505a6dcdfa4c4d62f2860"
+ },
+ {
+  "comp": "R1",
+  "row": 42601,
+  "item_id": "306",
+  "category": "Generation",
+  "a_sha256": "2b8cddec5de56f7d5f229c1b3f6ea5ebb78ea4dd700962256d19626b34b4dcbb",
+  "b_sha256": "34578e7b98cc0ec00476f64a2de3e829c183f249c7fbefc4e106416a49da1d86"
+ },
+ {
+  "comp": "R1",
+  "row": 45616,
+  "item_id": "334",
+  "category": "Generation",
+  "a_sha256": "b3c513d1bf2851c1be12fdbc30a6557a50f445a84189f50648c358cf7b00e1c3",
+  "b_sha256": "03c4ac8df668ccde2cbfe9eeb75d20df0b6c915a1a3036c374d8d79558df6628"
+ },
+ {
+  "comp": "R1",
+  "row": 33115,
+  "item_id": "46",
+  "category": "Generation",
+  "a_sha256": "20fcb8ed3651e42b9efcba6ba06b5832f7f6affb8b70038ab82cde01270b2456",
+  "b_sha256": "51bc5c4edeeafd09e135ce7c7d0a82002acc04f766925a874f9ab34c816fba84"
+ },
+ {
+  "comp": "R1",
+  "row": 22547,
+  "item_id": "44",
+  "category": "Information Extraction",
+  "a_sha256": "85adeb74a134ba5bc31c1f0d88318ee04240b1e10cd5b89af108e89383bd7f22",
+  "b_sha256": "bf7d855a3900647ac2b3390da04d44515d88b76fe2505d2dbdcb77f73a1e1c7c"
+ },
+ {
+  "comp": "R1",
+  "row": 31302,
+  "item_id": "25",
+  "category": "Information Extraction",
+  "a_sha256": "f883c9ffafc772d03c543f24d0fc580ffd4bc316e4763dfbc4f4214eaa396740",
+  "b_sha256": "b7db8929689e86c5ff3a283da3d6582c88fe9661b922a444bae681f58ccb1409"
+ },
+ {
+  "comp": "R1",
+  "row": 25030,
+  "item_id": "65",
+  "category": "Information Extraction",
+  "a_sha256": "be4cd081435830c1d458a5b5b809cf36f25bf9b59c28d764f593af39ba1e7298",
+  "b_sha256": "265a239b3a1a79a4152814d59a8f3d93002108c57fedb03c9ec5061217af1773"
+ },
+ {
+  "comp": "R1",
+  "row": 32447,
+  "item_id": "213",
+  "category": "Information Extraction",
+  "a_sha256": "bc110f36eb3c3cfeda3528cedda8998fbc2644f90386501a837e718e910e243d",
+  "b_sha256": "86b693c46891420ea2675b072b83ef6724685bc4b0ef0dfaed40a66a6b02a80b"
+ },
+ {
+  "comp": "R1",
+  "row": 12673,
+  "item_id": "178",
+  "category": "Information Extraction",
+  "a_sha256": "ce7dc52efee107344a413155b3ca8de4d3f25afd070e3a419e39b91acd720927",
+  "b_sha256": "1caeaea4eaa297f84ddca55b51b8abff5c1982d62390a140f56d19b193c49169"
+ },
+ {
+  "comp": "R1",
+  "row": 35328,
+  "item_id": "119",
+  "category": "Open QA",
+  "a_sha256": "c852b87316970a81099f4f45ba304bc90e9ae769e2107b4afbcd668b99b20f0f",
+  "b_sha256": "d75e32f8d5e7a2f311b7c2bea206555548f47c803e00927fa8f5757b03dcd499"
+ },
+ {
+  "comp": "R1",
+  "row": 16404,
+  "item_id": "96",
+  "category": "Open QA",
+  "a_sha256": "8a7e1b60b9b1c97e523a42934680ce1fa2925d2a7dda036c93b7827dcca91815",
+  "b_sha256": "0eeb7884383c7e3b537affdb587d776b8b782904aa244a48239883c401166782"
+ },
+ {
+  "comp": "R1",
+  "row": 1312,
+  "item_id": "28",
+  "category": "Open QA",
+  "a_sha256": "00de951f2489384bf03e59cb43fe118acfc4f58bd413494cb1c9cb8e99828a18",
+  "b_sha256": "20fa96289e363157a64907df2e8465805c1282003de06165dca9f96083554e83"
+ },
+ {
+  "comp": "R1",
+  "row": 17308,
+  "item_id": "140",
+  "category": "Open QA",
+  "a_sha256": "33d2268a0308f3874ddaeff9d0916d8397b2d75f61bac12728c2cf5efe0e2422",
+  "b_sha256": "41fb76053143664e1769ce108aaa1c4246c10210b817383403c29651ca49866b"
+ },
+ {
+  "comp": "R1",
+  "row": 47415,
+  "item_id": "133",
+  "category": "Open QA",
+  "a_sha256": "790b32b6a99866d4b9356a3daf5a78691fb58f09904cfdda133d015987afafcf",
+  "b_sha256": "e8e4fec47a8d0950afc1d5906de0f27d70b4386876904267b4278daf48503bf9"
+ },
+ {
+  "comp": "R1",
+  "row": 42319,
+  "item_id": "191",
+  "category": "Summarization",
+  "a_sha256": "4bae58b2dc67232636e286ead83ef3cf2ae9382501dd23465db27a8c9260e4ee",
+  "b_sha256": "db8465da6b413866176d96cc05f2b03ef7f4810b396f4e5e938a3317c206df74"
+ },
+ {
+  "comp": "R1",
+  "row": 24045,
+  "item_id": "195",
+  "category": "Summarization",
+  "a_sha256": "a1b48e437ba6fbd6b9545e34d9b5c55e3b93f924e7bbcf102ca4dfe1dbbbcbfd",
+  "b_sha256": "02b6f1fe6398689de510625d1ae9d702bc6e59289350c8e16d0a84f374158e84"
+ },
+ {
+  "comp": "R1",
+  "row": 24604,
+  "item_id": "311",
+  "category": "Summarization",
+  "a_sha256": "2e2c040228e66a1d8b3d12679776656745ef8659b8240b9a4c1088e55fb586af",
+  "b_sha256": "cc5f53497b2a10b545d8fd7430a00b1c83adef8b4a869272542224ff347edec2"
+ },
+ {
+  "comp": "R1",
+  "row": 21065,
+  "item_id": "284",
+  "category": "Summarization",
+  "a_sha256": "506fe3ac75ef9823ddd2e5c7d1fde60a592b0c7c717bc393eb34586db7615159",
+  "b_sha256": "23eab4da40c91e2125c89ad5f2a7dc9a430292c09d179ede7817f0ef22ba6caf"
+ },
+ {
+  "comp": "R1",
+  "row": 8613,
+  "item_id": "338",
+  "category": "Summarization",
+  "a_sha256": "327e90d2ab1f26b217f80681132955c8deaff8e553d8e52abaeb8b0071047b42",
+  "b_sha256": "08cd08634dba4f6f6202f49954999474d4e3f521a1986f5bc9a014a677971a1e"
+ },
+ {
+  "comp": "R2",
+  "row": 27376,
+  "item_id": "165",
+  "category": "Brainstorming",
+  "a_sha256": "cd931a18fa83807dd8d35171e1971c2820f16c6e5c24d331054c8c376b060061",
+  "b_sha256": "2c3c6aebb6743b19b474532366c78ce1f361a8ecaeada2df1d44afef3038cd4f"
+ },
+ {
+  "comp": "R2",
+  "row": 27470,
+  "item_id": "316",
+  "category": "Brainstorming",
+  "a_sha256": "8f19926bef5331b1ae3ca1f44b669c9f1ac05ad1539a9621db2f3eed114cba43",
+  "b_sha256": "8de61ace30431e4fbaddd3919d6296a946cffda8fecc447149e735eefd1792c0"
+ },
+ {
+  "comp": "R2",
+  "row": 46955,
+  "item_id": "29",
+  "category": "Brainstorming",
+  "a_sha256": "fe5c6167a98f61384910b15c031fbd3f931b13b81d6f5bc2c6e988751c3eb0cc",
+  "b_sha256": "0301621bdfdf86b1ebad320bd39a263a9b768b662ad66b613797ca78b5c5dd67"
+ },
+ {
+  "comp": "R2",
+  "row": 24626,
+  "item_id": "305",
+  "category": "Brainstorming",
+  "a_sha256": "e107ffe601ee03c4716f2a76050470772e3f76e415fc66d2e4cbc1272366c81a",
+  "b_sha256": "732a52aef9bfdb71300650741d6f18aad87e9f0314abbc8edb12c723193ecf67"
+ },
+ {
+  "comp": "R2",
+  "row": 3034,
+  "item_id": "235",
+  "category": "Brainstorming",
+  "a_sha256": "a93e13e5d989cc7b12a5cdf79bbb3193f33593f324e926f2ab3de50588886802",
+  "b_sha256": "3a20204efe5fd85bbe3d4aa12469b03ce74973db8d6e244c5936a5930c18171a"
+ },
+ {
+  "comp": "R2",
+  "row": 30251,
+  "item_id": "182",
+  "category": "Classification",
+  "a_sha256": "433734951773395bc394ca7a203a6a81f790bd710af2ff51e3578a820162a184",
+  "b_sha256": "ddc6edc304abd3ba2a28168cc45e971c5f5112ec2a0199fd3361a61ea0a72b72"
+ },
+ {
+  "comp": "R2",
+  "row": 27173,
+  "item_id": "348",
+  "category": "Classification",
+  "a_sha256": "1789091b801d4053b1cc30786d57dc297fdc2ee1568248440cacc8bbfd969a66",
+  "b_sha256": "97f56545b052ceeea499d4fd195d84b965db3cdcad2779530e742a57910b8684"
+ },
+ {
+  "comp": "R2",
+  "row": 4165,
+  "item_id": "271",
+  "category": "Classification",
+  "a_sha256": "7fa80867aefe7996c04839f56c7f1e93a7c661e1c2c4df1dce082c231f7fd8a6",
+  "b_sha256": "5e24c69096054a18083a1977ed339db3ab8a19bda274d5a344f889d9ad24f4d0"
+ },
+ {
+  "comp": "R2",
+  "row": 2110,
+  "item_id": "7",
+  "category": "Classification",
+  "a_sha256": "2a123c946e3a6015a8973f8ddd7b24b5634f228f7c32750d196b290dd73bbe53",
+  "b_sha256": "9cbb0fcd193643eb43b6b36a84d2df78215b7aad6302e017918affa2aa445620"
+ },
+ {
+  "comp": "R2",
+  "row": 44988,
+  "item_id": "266",
+  "category": "Classification",
+  "a_sha256": "5d36fd13ec66ed4030e165f383315172fc53bab647ca8d6f8b7fc20b31f46327",
+  "b_sha256": "3660727dc1e59c664cebabede680bf2b153209810fb22547788194dd856af909"
+ },
+ {
+  "comp": "R2",
+  "row": 11404,
+  "item_id": "91",
+  "category": "Closed QA",
+  "a_sha256": "f7089cd889cffefc6194bf3bfd49971532a207d4a57fccff82e6ce00da13019a",
+  "b_sha256": "35697b144ec903e5d6c6bddf2688caab0133e31950d1d65a551fdc2089a12b03"
+ },
+ {
+  "comp": "R2",
+  "row": 3747,
+  "item_id": "245",
+  "category": "Closed QA",
+  "a_sha256": "5e2edebb2f92c491c0ba083e96245b51428e2685c90f5ecfd0997366f0838be0",
+  "b_sha256": "416b77a1d5e481476cb415ad3059eb50873a809eb68a13ac530e027a25322408"
+ },
+ {
+  "comp": "R2",
+  "row": 46786,
+  "item_id": "254",
+  "category": "Closed QA",
+  "a_sha256": "e4706683d6157fa3aba7d6a5d1195ff931658fa504f70eb1ab5ea717ff787e75",
+  "b_sha256": "104d4da302992d5a6381f8a6f317972bf1fe40edce4bc85fbfeade01290b8822"
+ },
+ {
+  "comp": "R2",
+  "row": 40857,
+  "item_id": "300",
+  "category": "Closed QA",
+  "a_sha256": "87230fb0fe9b22a2f0d3edfee0d51ad1849eedf9527f2d6779cf02f858a92596",
+  "b_sha256": "a4073688d55ec85e07696847e43d4933e48b1f937b41dcad8babb9142665c73f"
+ },
+ {
+  "comp": "R2",
+  "row": 20389,
+  "item_id": "115",
+  "category": "Closed QA",
+  "a_sha256": "9b21556505a8a6c4da53d69f3972a06ebce1e403fe1ccacb75b358bbcb3f3da8",
+  "b_sha256": "6b2c0cd952ce70850fa5559c47dfb829f4b7788e30c34ee36093432658d0528c"
+ },
+ {
+  "comp": "R2",
+  "row": 22755,
+  "item_id": "303",
+  "category": "Generation",
+  "a_sha256": "0634eb49f97412957e75ebfad01b2eed657fcabad896ae8e299e6e44efd433a1",
+  "b_sha256": "124acdd2533c11fb135f45d67c9fd24237d50a639d2672e28f1f58a5d0578ba8"
+ },
+ {
+  "comp": "R2",
+  "row": 3152,
+  "item_id": "242",
+  "category": "Generation",
+  "a_sha256": "cc90766e3a0b42e94e28886db3effd98eef5a8c86c3e678b1b3f5bebb239a44c",
+  "b_sha256": "b94f0322c4a4cda3ac2577ba271a8cdeb72fbf67fb677a6c119158533f028d8b"
+ },
+ {
+  "comp": "R2",
+  "row": 5285,
+  "item_id": "173",
+  "category": "Generation",
+  "a_sha256": "b37d6d192fc3d21a769a9337fb99df69372fec0cd9f71797aa7dcdc88b4b292c",
+  "b_sha256": "e27e142b0d547aee1140561e626f4697b8c0ea7ec5cf7f755525b78799f90898"
+ },
+ {
+  "comp": "R2",
+  "row": 25642,
+  "item_id": "239",
+  "category": "Generation",
+  "a_sha256": "96920e631a9f9c46b3d7c45953d1f496de52b3bee64c7b5611ab491d6882406b",
+  "b_sha256": "28ca6da527b92e9d22163a355d6ee996303f6efaefd8a03c88d5a683e82de6d8"
+ },
+ {
+  "comp": "R2",
+  "row": 3958,
+  "item_id": "168",
+  "category": "Generation",
+  "a_sha256": "c2a88d52829056fda709544736db12f7c8e0b0fd74af2d5338c19e25687b1d47",
+  "b_sha256": "6f62183f19db7808055356edf63b9e4bb3daeda0a72cac5efb5d70896271ec3b"
+ },
+ {
+  "comp": "R2",
+  "row": 17863,
+  "item_id": "45",
+  "category": "Information Extraction",
+  "a_sha256": "5b25cb3a8e376d87760a2150cb8449c9279f4af9038f54276005d2c63c3195a1",
+  "b_sha256": "506333f91b316c8300e4757dc17d312eb7afe713438571468b3a2db7a8dee268"
+ },
+ {
+  "comp": "R2",
+  "row": 42109,
+  "item_id": "10",
+  "category": "Information Extraction",
+  "a_sha256": "da54a59d76e668008d81e40c6612918f9546f975a341cb4140ef28eaa0833e44",
+  "b_sha256": "7f78e65ea5afaefb4c34515607f80e3ea4ee8ffbca4ebf8e34b3b34805d8c3ec"
+ },
+ {
+  "comp": "R2",
+  "row": 15442,
+  "item_id": "30",
+  "category": "Information Extraction",
+  "a_sha256": "620bf22a710faf4b923783101699b745e49cbac6279dfe1c849b187c185b868c",
+  "b_sha256": "31f173877f9f647fd523e7e6a016baa36ad08acbe31a83bc9642424fb8737ea8"
+ },
+ {
+  "comp": "R2",
+  "row": 43721,
+  "item_id": "69",
+  "category": "Information Extraction",
+  "a_sha256": "3f595a998af406f0af18d8b3b9cb130bb239af7c5cf20274d989691b71079444",
+  "b_sha256": "58dfdc72c6c4a6396dd43926d16f26a1ab74e8797f548236c9c9e2c8fbfdcd10"
+ },
+ {
+  "comp": "R2",
+  "row": 13860,
+  "item_id": "98",
+  "category": "Information Extraction",
+  "a_sha256": "1d7717417419acdfce70dec895f84c1e1b22bca3529571ae8d7117cc25b034b5",
+  "b_sha256": "9dd92fbccd035d6e9059b5f172b5131e1e25be59ee0cc896b3f3c681cff5bab6"
+ },
+ {
+  "comp": "R2",
+  "row": 35605,
+  "item_id": "42",
+  "category": "Open QA",
+  "a_sha256": "4b7f2f54a40e9e2a96503404f1ac7fb3eaa9d56367efe2abba45c45832c6bc6f",
+  "b_sha256": "43e03a18d365cc03bcb099c95cfc7d0182202eac07db5acd954efca359fcca89"
+ },
+ {
+  "comp": "R2",
+  "row": 16459,
+  "item_id": "101",
+  "category": "Open QA",
+  "a_sha256": "2b5fb9371267ec8a24ed1e1cf38bd69933f118e29e70b5d48444b6e71b0f2ecd",
+  "b_sha256": "e77f144b32b260b1e9125cd7779cc886e8d3b007d379dbe717af22df24401256"
+ },
+ {
+  "comp": "R2",
+  "row": 15805,
+  "item_id": "158",
+  "category": "Open QA",
+  "a_sha256": "c739150052d8a8f36754a6fb3a0a4ed2b83ad257156d39d58ef30cf9b97ff3bc",
+  "b_sha256": "27810a452627523dcde933ebc2d2535272c7061294cfa10028ff70fda5de7c0e"
+ },
+ {
+  "comp": "R2",
+  "row": 25144,
+  "item_id": "163",
+  "category": "Open QA",
+  "a_sha256": "ef9cd0c2a8f5210b02ffa400d5ca895acbfdbf303d70912b9d6dc4097e697b0a",
+  "b_sha256": "955fb3533b1c8270b6a9cdd53f37ba069e97033045c1df5ceb6c9e341ed28090"
+ },
+ {
+  "comp": "R2",
+  "row": 10116,
+  "item_id": "104",
+  "category": "Open QA",
+  "a_sha256": "bcaea7377ad2b3a90443a71ca67fc4998c86d59f77aa95abea0663d00947969f",
+  "b_sha256": "77c9da8d26d89dd3cd4f3598aff4362ac0807d0d0b8516793987dd3b37d8339e"
+ },
+ {
+  "comp": "R2",
+  "row": 9411,
+  "item_id": "184",
+  "category": "Summarization",
+  "a_sha256": "6894d97d92e5caa43315111b171c093b360bedc807b7f9bd3f2650304106e3ea",
+  "b_sha256": "c6e3fef193698d3701ebf6fa240033d3374287e5bed12a398482bb98caa2156a"
+ },
+ {
+  "comp": "R2",
+  "row": 671,
+  "item_id": "263",
+  "category": "Summarization",
+  "a_sha256": "40b0e951f7ecd2d1f716c83a4d6baf1d6ddc0024dfaa183f03e1a4ed8690bfb8",
+  "b_sha256": "f89bbb80dc82ea3da3be93b14768cc35e24eb26d0936a1d1d77efdec56517e88"
+ },
+ {
+  "comp": "R2",
+  "row": 38312,
+  "item_id": "188",
+  "category": "Summarization",
+  "a_sha256": "bee8548d7273aa4bd666970d564da8e29ca0318a5fe5949c1f2b66e774e2f315",
+  "b_sha256": "a95517a9f86130229f24c7d8c37230c8acdc863a8220a22a8be581f9ecbfca83"
+ },
+ {
+  "comp": "R2",
+  "row": 19844,
+  "item_id": "209",
+  "category": "Summarization",
+  "a_sha256": "9d7df9223faf41e613dbecb182c26f31e07ccd09f993b098a0a36eff421dd1bc",
+  "b_sha256": "d9f41374bd202ca04d3eb4e459007be0d92b361064371a3746e4925dcd6450e1"
+ },
+ {
+  "comp": "R2",
+  "row": 18150,
+  "item_id": "129",
+  "category": "Summarization",
+  "a_sha256": "252d26db335456fba859b57887ef22cd87139b0d904ec8e5328705489a52f029",
+  "b_sha256": "0bd437b7a0f1a4a65d1c0a5d5b3df0a4fbb51adc1fc518e862468bbe8d4079fe"
+ },
+ {
+  "comp": "R3",
+  "row": 18107,
+  "item_id": "322",
+  "category": "Brainstorming",
+  "a_sha256": "8427056c7c03eda027aa0bcc60c05db98a77bb6ee7c4207ebf0a8735a4ab7e28",
+  "b_sha256": "7172cf1bb77f4a114db1f24690914782b0d7ff74c728255fd7ebfbc01f588e3e"
+ },
+ {
+  "comp": "R3",
+  "row": 19513,
+  "item_id": "169",
+  "category": "Brainstorming",
+  "a_sha256": "fe79a49f1fd6423b23bf6c4d350cc10f78d47a327a667a4007ff013cc58c833f",
+  "b_sha256": "5796379aefb307a7f6621ead89268bd49164c72e711c8984f76d28c44e1d83f1"
+ },
+ {
+  "comp": "R3",
+  "row": 12858,
+  "item_id": "346",
+  "category": "Brainstorming",
+  "a_sha256": "b3624eca44a1ebd5bbe5cc01d4610ef790020459f6e09d103f7ec5a80055f472",
+  "b_sha256": "ecda50c0a5688618457951a3cc311aa74031e48a83c376ebf2d92486a9491c89"
+ },
+ {
+  "comp": "R3",
+  "row": 44791,
+  "item_id": "124",
+  "category": "Brainstorming",
+  "a_sha256": "a2c8d185df61c7796e6d2e6348dcc47925e811e949998254016fb2387f94f2ad",
+  "b_sha256": "8ae0f5f33ff51e93fc8d5c4b096a2176eaf8651056c5673278f0e4ff9fcec14b"
+ },
+ {
+  "comp": "R3",
+  "row": 43002,
+  "item_id": "318",
+  "category": "Brainstorming",
+  "a_sha256": "029270617f65de92471ca3397ad1507add28c658b2ac42cf71d07ed432eefc18",
+  "b_sha256": "6d0269b174fc9b074ad352dd0cce5c0b579021f8d7f9af2f9c5ff799bd092616"
+ },
+ {
+  "comp": "R3",
+  "row": 35348,
+  "item_id": "221",
+  "category": "Classification",
+  "a_sha256": "77cccede0e4303c55eb962c2547b90608c50b9c1480e74f3cd4b0fa98383c6f0",
+  "b_sha256": "e8659b70afd10c7a89467ac63a71595883176204272f18bc47b4f2eb9a2787ca"
+ },
+ {
+  "comp": "R3",
+  "row": 4718,
+  "item_id": "216",
+  "category": "Classification",
+  "a_sha256": "ddf5227beca881aa6d8841d89c0a12cc4ed1813fb9e03c6ccf27623068d8fe83",
+  "b_sha256": "319b416e9f988ce98876e63693d59e780ef404ecfff028a863a6204b85ba76a1"
+ },
+ {
+  "comp": "R3",
+  "row": 17151,
+  "item_id": "319",
+  "category": "Classification",
+  "a_sha256": "84c20e7fe3e6e93abb44c2e690ed678364a4e0a2764136e9bbcf5f139e73a71c",
+  "b_sha256": "8fbf5b62fc88e9522874019e346808b1889fb4ed5cbec43073707c7808d064ac"
+ },
+ {
+  "comp": "R3",
+  "row": 6153,
+  "item_id": "148",
+  "category": "Classification",
+  "a_sha256": "6b745d3281924b93dd703b656754cd302bb390aad3ef7f0be01af071c08de40e",
+  "b_sha256": "960382b282267de87ff24e6c7cc58bd865016d75aadbfdebd908ac2c2483daaf"
+ },
+ {
+  "comp": "R3",
+  "row": 22171,
+  "item_id": "274",
+  "category": "Classification",
+  "a_sha256": "f4539f0698ecf94ee681b7d6fa0eb5a99b79ab9ed490552e981df73b13b1a94d",
+  "b_sha256": "4dcbd837bc5004fd8baee77696f8bb5529531b640f71f0482b0d6272312b0f6f"
+ },
+ {
+  "comp": "R3",
+  "row": 27280,
+  "item_id": "116",
+  "category": "Closed QA",
+  "a_sha256": "b638145682eef9db05fe1fdbca6864f9c42eddf9c21c6ce2c2d614db7536ec46",
+  "b_sha256": "481f411e134953db2827151e5538d37f5ea548f781f8cf432d9bb1816060679b"
+ },
+ {
+  "comp": "R3",
+  "row": 25677,
+  "item_id": "118",
+  "category": "Closed QA",
+  "a_sha256": "b9196b3e53f03b6eb62ce7f620790d37d2889b231aff8459980ebf2640ed3f2a",
+  "b_sha256": "8b4135ffa04cb04c1ac4989c15fc7bf4d4b777fbbb02059309f742e74f897cdb"
+ },
+ {
+  "comp": "R3",
+  "row": 40940,
+  "item_id": "218",
+  "category": "Closed QA",
+  "a_sha256": "bb41fed0e7e352082e7d7d8b58bb75dd2f171b6b3c22f94087cb6d99590f3a0b",
+  "b_sha256": "9be789b81ed7551659a4e9c182416ec838b83c0cd9ed6eabd619e7fbfce8bb44"
+ },
+ {
+  "comp": "R3",
+  "row": 6090,
+  "item_id": "35",
+  "category": "Closed QA",
+  "a_sha256": "8d3d672b1888a96b92ff95bfdd05f64f45fe9e11de1da7e8d77c7373258104b7",
+  "b_sha256": "a06c4a863a57615e03e04cf9d75dc8f499ee3b54743d53ea7df53c281445ed68"
+ },
+ {
+  "comp": "R3",
+  "row": 15287,
+  "item_id": "8",
+  "category": "Closed QA",
+  "a_sha256": "937f150a8b9ae6fcc8124a5805a585628b1551bce0ff745ce1efb78be04bb682",
+  "b_sha256": "abaf2032122980dec20bea687d6f3dce68bc1637f4c6651e08384748dd0e3310"
+ },
+ {
+  "comp": "R3",
+  "row": 35537,
+  "item_id": "139",
+  "category": "Generation",
+  "a_sha256": "f408265bba4c469936d3570665b98411bd5f3cfd39b929457eb01a47c507dcb3",
+  "b_sha256": "04c462218ac951e25f6fbc53b86355520b924d68a4b9a3f160db7ec340f3ca3c"
+ },
+ {
+  "comp": "R3",
+  "row": 40061,
+  "item_id": "270",
+  "category": "Generation",
+  "a_sha256": "7fa1ff5c54f2947a9c0e397e74cee1793f9b9bb8eefa4e9569a71a7df8c12fce",
+  "b_sha256": "ed1bdde748c4983e8d68bc0900daad425cef9bb17de55cfd7cf65a7e996e6be0"
+ },
+ {
+  "comp": "R3",
+  "row": 42912,
+  "item_id": "236",
+  "category": "Generation",
+  "a_sha256": "236157745a1e4cb038da53b44c70b3b0fa4b8e0d1695adfedfc3583dbba9ae55",
+  "b_sha256": "7e0ef8d31514c1442965d8c94ce49f79680dc25c8756945792fdaaf20b1bd883"
+ },
+ {
+  "comp": "R3",
+  "row": 18018,
+  "item_id": "204",
+  "category": "Generation",
+  "a_sha256": "a5d0e7b52a23c060828a595f15e369cc336d3d4820955d74f64b01cdbb86f1c4",
+  "b_sha256": "2bbf8c1a298a0f659b62d158afefc34ef0e1f136d8591fbad2d702ab1db55595"
+ },
+ {
+  "comp": "R3",
+  "row": 11869,
+  "item_id": "43",
+  "category": "Generation",
+  "a_sha256": "cb76212f016814fccc401a15e4967f36f9ebdfe2547f5d8ee869b6d94bb011c3",
+  "b_sha256": "5ed01faec18ae90c6e976d8e5f08f93a3c024b1d587d8a8e31e748e51d9581dd"
+ },
+ {
+  "comp": "R3",
+  "row": 28779,
+  "item_id": "5",
+  "category": "Information Extraction",
+  "a_sha256": "51ed91551e9bd09b7e86ac7841668a914631fa6b4ea018086617dc993dd07e00",
+  "b_sha256": "c44c8be77a489a3cdb58785fd099acec8b3e05af15609e6b3228ca14f6e0ff59"
+ },
+ {
+  "comp": "R3",
+  "row": 9426,
+  "item_id": "82",
+  "category": "Information Extraction",
+  "a_sha256": "bd5d9d590689914054df69faad7569f0b22472e8c89daec3aa9061e37964ca29",
+  "b_sha256": "369e879a2a6c56e0e4a271568aede8cf59a08f493ef99f395d77d663df3bcc4b"
+ },
+ {
+  "comp": "R3",
+  "row": 41165,
+  "item_id": "16",
+  "category": "Information Extraction",
+  "a_sha256": "fae1fc0029a214711fdbb7d654d16febe0ef2928be592b38f6bfa0c8aa49cb5e",
+  "b_sha256": "5ae1ab62433126c11c75b7a9e46ef4b6fd53dbaa6ccc62f87be609961f04b1a8"
+ },
+ {
+  "comp": "R3",
+  "row": 11349,
+  "item_id": "275",
+  "category": "Information Extraction",
+  "a_sha256": "f0feae4cd1af1f2a925988585f49de4b396c0e74ca0bc00a9232d19330fd6e37",
+  "b_sha256": "d21a307327690b99ab28cd26cbd6569552cbdbba20111ef15d77096605ab4a3b"
+ },
+ {
+  "comp": "R3",
+  "row": 34192,
+  "item_id": "64",
+  "category": "Information Extraction",
+  "a_sha256": "ec0c6eec7402ae49aab5fef72e7d53faac0b745f93f85eac7342675f0bb6b8ab",
+  "b_sha256": "123e1f17f568b27b54610aea86e64f58c3eff235e7c6a63ef0d6eea313d8aa3f"
+ },
+ {
+  "comp": "R3",
+  "row": 7445,
+  "item_id": "141",
+  "category": "Open QA",
+  "a_sha256": "82ba2ffa0a6365fbe36bfc9caa63171d9f11969832c80c7c8935af109e17d2f8",
+  "b_sha256": "c15babb958aada9713326935b8f1cbbef3f832fcefccc4bfe7c000d571f9196c"
+ },
+ {
+  "comp": "R3",
+  "row": 28692,
+  "item_id": "151",
+  "category": "Open QA",
+  "a_sha256": "ea8a9d0b68fcfaef1aaef0a2b530543c95db6c7c51175652e05a410443070137",
+  "b_sha256": "cd9996a9cbb98dab631670a1de1443be1d02811f532284339924c013252494c8"
+ },
+ {
+  "comp": "R3",
+  "row": 16342,
+  "item_id": "72",
+  "category": "Open QA",
+  "a_sha256": "a4e84347e6261e60a68752893540105dd65e90f9551e1e4a139ea93806410596",
+  "b_sha256": "5e38dc83ea5b48d25aa050a7229a3cc6da2349b914280451448b090e77c588fe"
+ },
+ {
+  "comp": "R3",
+  "row": 5831,
+  "item_id": "146",
+  "category": "Open QA",
+  "a_sha256": "b50fd9136681e92513c533f1ae7f4ff3bc3ec01a419e11b27bb282407fc66915",
+  "b_sha256": "8a13e0d6d5551cf83b25cf76ea36b3d330e07bbc908924d2548960a6c9d1682b"
+ },
+ {
+  "comp": "R3",
+  "row": 46947,
+  "item_id": "145",
+  "category": "Open QA",
+  "a_sha256": "87206866c39c5cf89fcd742e9934391aac9aef8e6003755c9e2b4d3734c166ad",
+  "b_sha256": "4b7553ed1ff70f72eeacef54ffa7506f67d2e4d023ec9a329c907bac40e226f3"
+ },
+ {
+  "comp": "R3",
+  "row": 35598,
+  "item_id": "342",
+  "category": "Summarization",
+  "a_sha256": "54d7cd9e7b53fad7b49bfcce384c3d2582c09b621bfda09036329c5e5ed28e6c",
+  "b_sha256": "9ad23e6db551ba702e40903744dea704fe1c2cb71a19e36119a00c3d5055049d"
+ },
+ {
+  "comp": "R3",
+  "row": 27106,
+  "item_id": "75",
+  "category": "Summarization",
+  "a_sha256": "5dd878404614d9fb34b3ce917089907834e485834622ff0ecaedd8e534071a9a",
+  "b_sha256": "7962cae385e54adcdf60b9beb749d155839c77c932e86841a53c90b9a96f9c72"
+ },
+ {
+  "comp": "R3",
+  "row": 30134,
+  "item_id": "294",
+  "category": "Summarization",
+  "a_sha256": "e7778b0561d54b041bac0a133a71628fc5ca423301f6d4a713ba86a1a8abb413",
+  "b_sha256": "f4cdfb331c7206825f2d1c4ec18e550e3b49f53fd551e4cd14a39b5991709946"
+ },
+ {
+  "comp": "R3",
+  "row": 39098,
+  "item_id": "66",
+  "category": "Summarization",
+  "a_sha256": "ed277ef7863af5ac3ae6e65d9a020e20684cbf005923f46d3ccb98f5b8127c78",
+  "b_sha256": "8278264ae3c83c4258598d71b78c29172be3183b5b46e0e81a059b7b8ceb76b0"
+ },
+ {
+  "comp": "R3",
+  "row": 48762,
+  "item_id": "186",
+  "category": "Summarization",
+  "a_sha256": "b8766ff5ff7c45e65d22c87fca533f54a4226fb5dae800e25a204b7f177a0da2",
+  "b_sha256": "ab2e7d720d8b736316cbd35b4715373efc649eaa759bc587c915c99ef5734354"
+ },
+ {
+  "comp": "O1",
+  "row": 38747,
+  "item_id": "291",
+  "category": "Brainstorming",
+  "a_sha256": "86bd372b9e1db35f95e3d6ac008dcc2d4fdfe596bd491a1744524d9d252b4fa8",
+  "b_sha256": "217e74e03e7a29d618e35a4323e274639d448f956ba5e401a16dae60ff19a8ef"
+ },
+ {
+  "comp": "O1",
+  "row": 40531,
+  "item_id": "86",
+  "category": "Brainstorming",
+  "a_sha256": "90ea6ce3e65987019456f27c0dd4280232e8213b1de8c8ed2c62a93f54d235ec",
+  "b_sha256": "2748713edee39e65c548b32fef7d6fd19595e7693b9c4511f9677bc7b6a5e292"
+ },
+ {
+  "comp": "O1",
+  "row": 7454,
+  "item_id": "297",
+  "category": "Brainstorming",
+  "a_sha256": "61f6c30ea334f3596fb6248461226c74df5e1dccbbbe6751fd80b091f0a16639",
+  "b_sha256": "f2408fe3febb1713cac19d0ab0a4d5cdf7055077cf097853c65a8470c9e4ed9b"
+ },
+ {
+  "comp": "O1",
+  "row": 16184,
+  "item_id": "324",
+  "category": "Brainstorming",
+  "a_sha256": "cdc476ad665c0f7684986a5a10831df2bada8b9d69b74ededeadb6893316b427",
+  "b_sha256": "cd3fa780589de172cf5546eac73df7e96894041b48e7fcdc2dba54bc7cacb0a2"
+ },
+ {
+  "comp": "O1",
+  "row": 11175,
+  "item_id": "249",
+  "category": "Brainstorming",
+  "a_sha256": "a12cc76b40975011adf9585750c735465057d485e96258ee1bde523954b25d16",
+  "b_sha256": "ab781bdb2809348e85b2cccebbc3e760c4ba2ad9c82a637668f2d8299ad2ff60"
+ },
+ {
+  "comp": "O1",
+  "row": 12036,
+  "item_id": "51",
+  "category": "Classification",
+  "a_sha256": "6d8791dfc1e900938ea51ab111bc804a17828d25dcf92692b422458f129286f4",
+  "b_sha256": "8c3f651d3083e63da64415c1d9ad8198bcaabfcdceeab546f4fa261e557b70d8"
+ },
+ {
+  "comp": "O1",
+  "row": 1088,
+  "item_id": "87",
+  "category": "Classification",
+  "a_sha256": "a906325c064963a00c3a0994fd2f2c5b825c9d5b1f0cbd9a29db590ecbe5568c",
+  "b_sha256": "8e39192bacd56e96ab91574d67e68aa46652de121276b2272f0a49ddc039ba95"
+ },
+ {
+  "comp": "O1",
+  "row": 38680,
+  "item_id": "113",
+  "category": "Classification",
+  "a_sha256": "d7d358c20b1046edaee68aa8617385e76e8a55eb160465e35d6844bf3d9db3d1",
+  "b_sha256": "73b161fe3c7d96458f1c4890356fd95685f67a588f3f826da4e79dc3d7ab0cf6"
+ },
+ {
+  "comp": "O1",
+  "row": 29743,
+  "item_id": "76",
+  "category": "Classification",
+  "a_sha256": "90e897aa982ce96c1d9e4aab52257ca26a5bd61d9f010e77f62eb0c75c47e615",
+  "b_sha256": "92e2135f774c2efaef691b4efa0a06dc2c3ac5401a5a95d3327ad8a8db1f1004"
+ },
+ {
+  "comp": "O1",
+  "row": 30395,
+  "item_id": "225",
+  "category": "Classification",
+  "a_sha256": "2c95cfaa33801cc271e6b3a198ed60b75a5a1afa24da3d410be2ca04e0791ad1",
+  "b_sha256": "0470ee00d2a854a9d51172e52124e81e7122e1d530bf06c768e3d745ff0f6e7c"
+ },
+ {
+  "comp": "O1",
+  "row": 4038,
+  "item_id": "49",
+  "category": "Closed QA",
+  "a_sha256": "2da1c69601afe0b2536cb9ebb0b10f774cfe595d91b30685b39ab03f5dd2ce76",
+  "b_sha256": "daa0582eccd7b1381853fdcb112ad905c162d3fb92c1696322b1e810da5dd19e"
+ },
+ {
+  "comp": "O1",
+  "row": 41402,
+  "item_id": "215",
+  "category": "Closed QA",
+  "a_sha256": "a3172e6dee90724c6b06c876f4efe2969780383d827079706f4b99e1884dea8f",
+  "b_sha256": "fec038d006aca2d39d6625fd23647767da1d5fd37b0d995f8dc9f1d580a96dd3"
+ },
+ {
+  "comp": "O1",
+  "row": 3370,
+  "item_id": "99",
+  "category": "Closed QA",
+  "a_sha256": "a8126552ec8796ccc12e72c2b6f090a24eb1404eb8c3b224287333490570199f",
+  "b_sha256": "d150ceec6a2c0a4d7ab8246ae1946472cafe4d9c8eca2a315bd5904f3bb0a239"
+ },
+ {
+  "comp": "O1",
+  "row": 8093,
+  "item_id": "267",
+  "category": "Closed QA",
+  "a_sha256": "4c4210b82749c7585c9cb3adcf135416bb8189799d3936c19d754c46784c929b",
+  "b_sha256": "d1c82c266c926bf222c953b14c2a5e4a46c466d9e36e4174a5dd2dba0fe0ca24"
+ },
+ {
+  "comp": "O1",
+  "row": 49354,
+  "item_id": "257",
+  "category": "Closed QA",
+  "a_sha256": "eb624dbe56eb6620ae62080c10a273cab73ae8eca98ab17b731446a31c79393a",
+  "b_sha256": "0df5486b7bca884d5f00c502e216f734b2865b202397f24bca25ac9b8a95ab4a"
+ },
+ {
+  "comp": "O1",
+  "row": 48382,
+  "item_id": "206",
+  "category": "Generation",
+  "a_sha256": "e6a4400eb2bfeb1e7a919bc97ad7e6522a7efa7a1faf178482ee84e8cdd4aa2e",
+  "b_sha256": "56850f461d440fdb35b75b55bfae2670745f8a439a7210fb838576e7fc679cc6"
+ },
+ {
+  "comp": "O1",
+  "row": 18782,
+  "item_id": "179",
+  "category": "Generation",
+  "a_sha256": "82119d9f2306e7f3a05ae3c805f46e2bdc4d12242f5396a07d46642f2a8c7af5",
+  "b_sha256": "63004ebab9b746dff9bdafe93b77ec495b1b9dda1cb85fd811ed004e0bacdf40"
+ },
+ {
+  "comp": "O1",
+  "row": 42980,
+  "item_id": "197",
+  "category": "Generation",
+  "a_sha256": "94fa006f8abf8e5d68e39c78951f0bba87736e75931abd5dfa8e02df113855e5",
+  "b_sha256": "635f82da543498987150530de55b208f761219db4cd89058dfa72f4895f30795"
+ },
+ {
+  "comp": "O1",
+  "row": 18076,
+  "item_id": "154",
+  "category": "Generation",
+  "a_sha256": "538000e273c2175926cedb2abd5d9d2675214d079f4f623680e38dbb3d84dbe3",
+  "b_sha256": "5a4248e98c757a516e28cb6621118d5687aca68cf7a96354db4cc70d6b5c3efa"
+ },
+ {
+  "comp": "O1",
+  "row": 984,
+  "item_id": "48",
+  "category": "Generation",
+  "a_sha256": "b8579f379d12c3a7abff53488d8e4d790ad5bf3fbd5b85040df0883b79375109",
+  "b_sha256": "6a0c08efcea0a25f2a1e8bdbdd88045864d138a40b735cd6b4b2641b04cc32e4"
+ },
+ {
+  "comp": "O1",
+  "row": 34728,
+  "item_id": "260",
+  "category": "Information Extraction",
+  "a_sha256": "4c490f1ca1d756f81cf65bd67d61f01ca8c68fb5fb1edbc9c0de5ee7e6c50611",
+  "b_sha256": "717c08763d67fde27a3bf4a484b97a1fadd5bfccba15c530c3515c551f8b5638"
+ },
+ {
+  "comp": "O1",
+  "row": 15908,
+  "item_id": "67",
+  "category": "Information Extraction",
+  "a_sha256": "3c443cbc6da6289094b6641231c64c192f7423f9302294748da120e7985777bf",
+  "b_sha256": "285b2f719cd35186b1594531faeedffa7d428d533053c3d383173c8a45b05c5d"
+ },
+ {
+  "comp": "O1",
+  "row": 11418,
+  "item_id": "80",
+  "category": "Information Extraction",
+  "a_sha256": "52f1fb7b620211d95e5d5ad8335853ea1d3aadf08e6c9f3f7e40efd5a691be73",
+  "b_sha256": "74e8075e579f5aa2ec2895264600f0d67bb1055be8bf08e41a1cef7d5e71c2eb"
+ },
+ {
+  "comp": "O1",
+  "row": 21063,
+  "item_id": "13",
+  "category": "Information Extraction",
+  "a_sha256": "0c3c33add55b32c40f6bf3541be7e272f74a404511ecc48e770f4e4979319809",
+  "b_sha256": "07a47feedbdc600391fba4b187469bee4fd6828a4afddce9a588c4547b47df58"
+ },
+ {
+  "comp": "O1",
+  "row": 33718,
+  "item_id": "2",
+  "category": "Information Extraction",
+  "a_sha256": "1d520a52ac74028c37034f647af6e6bc483399388bd5738464994ca06294c61e",
+  "b_sha256": "c1fe53d705513115939ea23fbe8708c6c641574d3889b58f7f58f4a673960e3c"
+ },
+ {
+  "comp": "O1",
+  "row": 262,
+  "item_id": "71",
+  "category": "Open QA",
+  "a_sha256": "1488d91a2cfc6870f370da16dd22685f8c76b25eb2cc88f7e4b833da0168dcc4",
+  "b_sha256": "692f1d652ab38c8ce88c0f4894ee2edf6469806eed161cb55d2d2d169d41fb67"
+ },
+ {
+  "comp": "O1",
+  "row": 31412,
+  "item_id": "107",
+  "category": "Open QA",
+  "a_sha256": "9d4fa29f18f773630279559afd02d3d4583d45ad8059b6247e04b0ff23071be3",
+  "b_sha256": "08d4b41f370d38e4303501eb5a14e0f0b72808ebd3878e5aa64eed034f2f490a"
+ },
+ {
+  "comp": "O1",
+  "row": 29322,
+  "item_id": "155",
+  "category": "Open QA",
+  "a_sha256": "b7ab1fdce25f60af14dfc4049cf487e218c3a01f30a1abefbe9377607e800cd2",
+  "b_sha256": "85532a8352b2467f395cbed0a7040310573515f261f091a62d1e4be6846146dd"
+ },
+ {
+  "comp": "O1",
+  "row": 39427,
+  "item_id": "106",
+  "category": "Open QA",
+  "a_sha256": "332167014b2ff4625b9dcf31e0dc00c9ac5fd29e8ef9722f456c219d45c7fe78",
+  "b_sha256": "f8d500a6088adad692e9035b08e3cba5937ce563c74a7c6026cb0aeb65bcf149"
+ },
+ {
+  "comp": "O1",
+  "row": 45153,
+  "item_id": "59",
+  "category": "Open QA",
+  "a_sha256": "fe5425a011295e4f35a90e83a12ca30167aa094772108b629376885e0bbba326",
+  "b_sha256": "f6169507a0b1d49ad24cd5ae3c91fbd3932d94e0fda87fd96d0ec8ce8845fb10"
+ },
+ {
+  "comp": "O1",
+  "row": 25950,
+  "item_id": "344",
+  "category": "Summarization",
+  "a_sha256": "9fd6d42463fb19ab6410986f6e8f9b2abfebaf5cb675f5345313be6d0d7cf89e",
+  "b_sha256": "3075932c7b93b74ccfbe0510b59d547af210cb5e018446ff6f6dd912d4cf1058"
+ },
+ {
+  "comp": "O1",
+  "row": 2672,
+  "item_id": "285",
+  "category": "Summarization",
+  "a_sha256": "397da50566404882023168992746d850a24c1c076fa186a2accfc73aaf485c44",
+  "b_sha256": "8e52add16d96dde049a498e178a0a47f044ee01676df35a799c089b32512b014"
+ },
+ {
+  "comp": "O1",
+  "row": 21479,
+  "item_id": "307",
+  "category": "Summarization",
+  "a_sha256": "7ba5dafa64caef71a8a8ae9cec83e42d81aea7a420e8b0b6491bcfb3ae416f80",
+  "b_sha256": "62a6054bc05f241b30c36c1e553dd193109695a77e34b262d487bfd2f601f751"
+ },
+ {
+  "comp": "O1",
+  "row": 9713,
+  "item_id": "289",
+  "category": "Summarization",
+  "a_sha256": "afd149b5a0caf8b42875755d6d4a6e4042546da367c6794c80d976c38570943a",
+  "b_sha256": "8bd9273be39c381f9962c0193a5c01e7ea1ebc39b838c7938d063f9b86c0bb2d"
+ },
+ {
+  "comp": "O1",
+  "row": 47376,
+  "item_id": "54",
+  "category": "Summarization",
+  "a_sha256": "9b322932797fa6ab1e2a7c4a5d3a1e8839188fc5046442eede923b4548861019",
+  "b_sha256": "4780e2663bc78c7733ad8201c2e3800caa829b0805b09fa730211bea63409513"
+ },
+ {
+  "comp": "O2",
+  "row": 34987,
+  "item_id": "326",
+  "category": "Brainstorming",
+  "a_sha256": "06a54073c669514cca093690bad7ccb7a1a56fb25d57d9917c62349230798ebf",
+  "b_sha256": "4edcb7987b6a3cb8b12c0825e9871a502237b55cf43114b174d16227816f62c5"
+ },
+ {
+  "comp": "O2",
+  "row": 11315,
+  "item_id": "288",
+  "category": "Brainstorming",
+  "a_sha256": "59efaad4ce2b58dba5b3bf624266345745b785cd95312113cbbf179920eddbdf",
+  "b_sha256": "59c425550962c245bf1ff21208ec7bb05faa46195aea75b6e9eea1547f0ff110"
+ },
+ {
+  "comp": "O2",
+  "row": 5353,
+  "item_id": "255",
+  "category": "Brainstorming",
+  "a_sha256": "248c68be379b0eea4d823314ceee37eaa8404b7c8c7d7b5780b39691ff3f24df",
+  "b_sha256": "923618d7e705dbced3404fc81ef8e7831f4a9a12b337709f6c591937ec08c160"
+ },
+ {
+  "comp": "O2",
+  "row": 11876,
+  "item_id": "247",
+  "category": "Brainstorming",
+  "a_sha256": "8d98640daba1159443889b3645cfdf9ab4cecb96388377b573ecda5df8773df4",
+  "b_sha256": "0c049903ce2330190375d4c1f2e489888c9ebe39daf75b2564e591e8bc1afe72"
+ },
+ {
+  "comp": "O2",
+  "row": 30220,
+  "item_id": "293",
+  "category": "Brainstorming",
+  "a_sha256": "360b862e695ec676fc032b1421eb58a6ad5a2638f075946f860e202d3fe8e44f",
+  "b_sha256": "c9307c46cc891f82e956ce0767c29b36346255f79948c0c5b3959bd3ce9d1ffb"
+ },
+ {
+  "comp": "O2",
+  "row": 47691,
+  "item_id": "350",
+  "category": "Classification",
+  "a_sha256": "787f298cf17ad75b463082b38dd64685a3122335869955c55701701200185d11",
+  "b_sha256": "816375f6bf066e2d90f26d99c36df45d3ced354bf5d0d1ff7907b0c6700e8260"
+ },
+ {
+  "comp": "O2",
+  "row": 5117,
+  "item_id": "232",
+  "category": "Classification",
+  "a_sha256": "0119a1be42a7c719052c82e28466a4e6ce7de93b87091ec64bbe0b4ec0eb5bba",
+  "b_sha256": "8903010b88237784293e47761e4edfab169e9815519ddc2d9ee989cba339a763"
+ },
+ {
+  "comp": "O2",
+  "row": 22995,
+  "item_id": "203",
+  "category": "Classification",
+  "a_sha256": "04ce80cccf95861828f0d137e3b055d1bd66e2c820db8e6fac8afb0e5d143c57",
+  "b_sha256": "69c551e442664d5546b5c80e8a7cc3b12e2392481b28b0401650c84c3f5af1de"
+ },
+ {
+  "comp": "O2",
+  "row": 37209,
+  "item_id": "343",
+  "category": "Classification",
+  "a_sha256": "62b19d78da520bc8d66b9c20e58131f41a2a95144c776a423b055e4a3c627001",
+  "b_sha256": "a21139036ef328fd9ed8ba6c91e1fd6057fd1036b2c53aaed3b2ed5f33993c01"
+ },
+ {
+  "comp": "O2",
+  "row": 1451,
+  "item_id": "229",
+  "category": "Classification",
+  "a_sha256": "ceb2fe2ad7e7b6ff953b7bf7c30ef039d5e775cd4feca78d94e09b1ba2eb15bb",
+  "b_sha256": "a18f2d44acc7363ed697cd85460ca17451b88989aae288ae373ca71451868d00"
+ },
+ {
+  "comp": "O2",
+  "row": 29731,
+  "item_id": "128",
+  "category": "Closed QA",
+  "a_sha256": "2e38197b416d9c83c0477d85f62266f82134d578819ff3886a5faeba73ab99df",
+  "b_sha256": "f74d6bd6b90107c46af5d1c64b210e21fa567b2d8419f0d2ee6017d7eceef5c5"
+ },
+ {
+  "comp": "O2",
+  "row": 29813,
+  "item_id": "89",
+  "category": "Closed QA",
+  "a_sha256": "65d623246168c425f3035224d510f0f81cd8f1ec16ecb53a73eee3154d3b015f",
+  "b_sha256": "49cc05743d74745adedd08a754d76c1939a77eda8d18dc471dfc1f5f97f0aec9"
+ },
+ {
+  "comp": "O2",
+  "row": 36774,
+  "item_id": "105",
+  "category": "Closed QA",
+  "a_sha256": "975826badfcab6844e78b7ec33bd5bce0c57f515375c91a54a2254bbb7dfe88b",
+  "b_sha256": "15c5fd09777cbf711ef1581ab6da2863cd139a419f13e0e4b3cff54c618e7539"
+ },
+ {
+  "comp": "O2",
+  "row": 38997,
+  "item_id": "55",
+  "category": "Closed QA",
+  "a_sha256": "63e4df266a70fe7fc734635a8a4e69ff035fda76d99a81182b1c0786f893e331",
+  "b_sha256": "e96e9c790d2205719e0fcb90418ba656720d0498b381cf7b898ebb3655d3a43c"
+ },
+ {
+  "comp": "O2",
+  "row": 26320,
+  "item_id": "92",
+  "category": "Closed QA",
+  "a_sha256": "60ca884adfe9e5e17fac0968cb67b78f6bf576e0045c63fa7de157b23b2e363c",
+  "b_sha256": "ee9a49c6db759bc843c58e31b356285e526fb2b295b92528a8105e2ebc3c6e3d"
+ },
+ {
+  "comp": "O2",
+  "row": 10285,
+  "item_id": "194",
+  "category": "Generation",
+  "a_sha256": "4c75fe2355329422c2fbad091c965a660743902b51e410b2d8c9e258ca1a564f",
+  "b_sha256": "d64dd3328d6f83ce8fb0d071dfc172eab2d5225089cfa3790d118b478e26646c"
+ },
+ {
+  "comp": "O2",
+  "row": 44180,
+  "item_id": "138",
+  "category": "Generation",
+  "a_sha256": "06664798bbdfe3d160fb25af39d00a0c10713454afa3404a751a9d13176c7c83",
+  "b_sha256": "35968a9de4390e3bb3fd71bbe22264fcbe11046682f810da2fa45daac4086403"
+ },
+ {
+  "comp": "O2",
+  "row": 31510,
+  "item_id": "250",
+  "category": "Generation",
+  "a_sha256": "c669d5668be30fcef7963b239a151661b756c557aafb525b4c84da3e737dd9eb",
+  "b_sha256": "d26118c38601c9a7010228b457464a5fc31e673839f1febd227dfbb2333586da"
+ },
+ {
+  "comp": "O2",
+  "row": 44462,
+  "item_id": "122",
+  "category": "Generation",
+  "a_sha256": "cf1c2fc88b31947065414528c35729739ee04b8b21e407c36520a537a6e79f69",
+  "b_sha256": "7e2caa915dbb8a48d209201d749d79304582611310157bf1b1f4febaf2058337"
+ },
+ {
+  "comp": "O2",
+  "row": 6127,
+  "item_id": "299",
+  "category": "Generation",
+  "a_sha256": "b431b924b1d556d47d206b591405db3b521581eed52025a51956e6c4f1d995fc",
+  "b_sha256": "28ab531f72c73d6e4c38a9bec735696d57d94fe985b3a7d6790c0b7006a25e5b"
+ },
+ {
+  "comp": "O2",
+  "row": 12290,
+  "item_id": "33",
+  "category": "Information Extraction",
+  "a_sha256": "749ea8059c943f9befa89f155350b42e6dac8573af7e012b55a5cff0de8ac2fa",
+  "b_sha256": "067531574690bd8743b30b41496334e5580af43d8690c9aa21d2f4863f8972df"
+ },
+ {
+  "comp": "O2",
+  "row": 4257,
+  "item_id": "12",
+  "category": "Information Extraction",
+  "a_sha256": "632307017f0b0388c0590a9d909ab64e8e74c822e12a560acd3ec85387fc2d14",
+  "b_sha256": "9afd5a09bb1d20475bd05b4d764956881159bb50e09aef4f7e01e318f63cf289"
+ },
+ {
+  "comp": "O2",
+  "row": 12119,
+  "item_id": "73",
+  "category": "Information Extraction",
+  "a_sha256": "cbdad2b574a8cb5fb1c1bb83b6e2d428e15f691c50cce3275f1bffd6418f11c4",
+  "b_sha256": "1aef7dacce765c51a58d4f148282ad5cb723d4d92ff0fcfac966b382ab22b248"
+ },
+ {
+  "comp": "O2",
+  "row": 19717,
+  "item_id": "83",
+  "category": "Information Extraction",
+  "a_sha256": "aa761f788a92f63dbef610f5b88bfe493da1cb09de8dd2fc2b829d13197492b2",
+  "b_sha256": "50700658f90c3b773cc5238de10d78ebf53a9b35767073d02e8542d3ad9bf223"
+ },
+ {
+  "comp": "O2",
+  "row": 32255,
+  "item_id": "57",
+  "category": "Information Extraction",
+  "a_sha256": "f7767a7456b4a6cf5176343d98b168d01f472efea15275ab805f1fc7c7c44d55",
+  "b_sha256": "ccb901c22c505761f7c4a599ce3dcfee7829ddaadc1b0950c54a60c373dd0c22"
+ },
+ {
+  "comp": "O2",
+  "row": 39341,
+  "item_id": "74",
+  "category": "Open QA",
+  "a_sha256": "27d72dc181f8ddb3f553b57765f41e3603115a93e97814c8c7c7e0fbbd39b448",
+  "b_sha256": "e199e0ce0c7d4338e001353b1f83a9c3bbaa31b64631b9f17d30830e3b935b42"
+ },
+ {
+  "comp": "O2",
+  "row": 536,
+  "item_id": "120",
+  "category": "Open QA",
+  "a_sha256": "67d7e1cfd6d9852a8515987cedb4797c40bc01e4b4223234c06cdde89792441c",
+  "b_sha256": "570788d219b667d511285ece02696f62f02a71ef7dbea1dd4c37309f1cb20522"
+ },
+ {
+  "comp": "O2",
+  "row": 12173,
+  "item_id": "126",
+  "category": "Open QA",
+  "a_sha256": "127a0ddf8d17bf29b8b273825b9d9a28fc1309741144ea963f7c19bcaf31de5c",
+  "b_sha256": "41cbd49b4bef32aae78dbcc1691c4b415bffc6b216e7700f8074c28357def713"
+ },
+ {
+  "comp": "O2",
+  "row": 36746,
+  "item_id": "68",
+  "category": "Open QA",
+  "a_sha256": "b148017d680e8ce9d125a889d150e3fd165221695c4109165b6496efd4ce93e7",
+  "b_sha256": "dbedd79c8e346e24610466e46d6fc63bbc07a5b599eba18d9cd77b096afc8ee8"
+ },
+ {
+  "comp": "O2",
+  "row": 578,
+  "item_id": "131",
+  "category": "Open QA",
+  "a_sha256": "9889fd56af7893cd4626e577a72efa3bd676a2324210615ccc862a2281d320cf",
+  "b_sha256": "ba1c49cc02d68337ce75f5351acd0111ab4ffc169173b45f51f8af8d4cf12e03"
+ },
+ {
+  "comp": "O2",
+  "row": 21213,
+  "item_id": "345",
+  "category": "Summarization",
+  "a_sha256": "74e0b3da4eb50ea7dc84e005dd5a40ef5cd5fbb8beb6baf0fa24589901cc4925",
+  "b_sha256": "70ebf076b50e10796fa5e7780818006d2811244ae9f856a5a9331fd20eebbb29"
+ },
+ {
+  "comp": "O2",
+  "row": 15796,
+  "item_id": "264",
+  "category": "Summarization",
+  "a_sha256": "1156597454408f9e18ecbf698903a12fc15ddbc27c4e30f814eb2251e9b4e417",
+  "b_sha256": "054eea7e10dc092ff8d84026f856a2bec2d5932b75d28f1cdea76de4edc49453"
+ },
+ {
+  "comp": "O2",
+  "row": 31487,
+  "item_id": "171",
+  "category": "Summarization",
+  "a_sha256": "e3c14e915ab8f87b2f28b364dd6378d994ae2fc1423a61248424644fb8ecb6b7",
+  "b_sha256": "4a0742310f4e9db5cf035bba7e7ce9dfdfab2d0bdc1d193b5315dd949574f6b9"
+ },
+ {
+  "comp": "O2",
+  "row": 12849,
+  "item_id": "190",
+  "category": "Summarization",
+  "a_sha256": "6d4b9f3de5d76505cde7e5874a4363993596395768cf32e256f42008dc497c67",
+  "b_sha256": "9d81645aa7fbbc786565a36e91b5b7b16c7a8eecf2ace489a52aa205a5e14937"
+ },
+ {
+  "comp": "O2",
+  "row": 3337,
+  "item_id": "296",
+  "category": "Summarization",
+  "a_sha256": "86889a905132ad53886935e8afdfb1a6decdcb98d2854e82052d728e53b4a5b9",
+  "b_sha256": "b6a5a9763a447cfc20351c6a3eb3318c1410e4f34c229c6ee228ff6ac2af894e"
+ }
+]
