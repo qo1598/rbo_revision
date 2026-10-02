@@ -1,0 +1,13 @@
+# Python packages used by the analysis, figure and reconstruction scripts.
+# Versions are those of the environment in which the released analyses were re-run on 2026-10-02 (Python 3.11.8).
+# The package versions used when the original outputs were generated were not recorded.
+pandas==2.3.0
+pyarrow==19.0.1
+numpy==1.26.4
+matplotlib==3.10.3
+transformers==4.57.1   # only for reconstruct_prompt_tokens.py (tokenizer counts)
+langdetect             # IFEval-Ko official evaluator
+nltk==3.9.1            # IFEval-Ko official evaluator
+immutabledict==4.2.1   # IFEval-Ko official evaluator
+absl-py                # IFEval-Ko official evaluator
+# Local generation (not needed to re-run the analyses): Ollama 0.35.0 at re-run time; the version at generation time was not recorded.

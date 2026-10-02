@@ -7,7 +7,7 @@ Code, frozen protocols, model outputs and judgments for the revised manuscript (
 | Folder | What it holds |
 |---|---|
 | `code/rbo_v2/` | RBO v2 (`rbo.py` IFEval-Ko, `rbo_qa.py` KorQuAD, `rbo_math.py` HRM8K), baselines (single, Self-Refine, self-consistency), GPT-4o/DeepSeek reference runners, analysis scripts. `data/ifeval_ko/` is the official IFEval-Ko evaluator, unmodified. |
-| `code/scorer/` | Pinned whole-answer exact-match scorer used for KorQuAD. |
+| `code/scorer/` | Pinned whole-answer exact-match scorer used for KorQuAD, with the KLUE-baseline metric utilities it imports (`official_klue_metrics_utils.py`, copied verbatim from KLUE-baseline commit 8a03c944 under that repository's license). |
 | `code/judge_and_banks/` | Three-provider pairwise judge (`gen_judge.py`, `gen_eval.py`), API client, and the scripts that built the KoAlpaca350 and KorQuAD banks. |
 | `code/human_eval/` | Human-evaluation packet builder (3- and 9-rater designs), intake check and analysis. |
 | `code/manuscript/` | Resource accounting, prompt-token reconstruction and figure scripts. |
@@ -19,15 +19,41 @@ Code, frozen protocols, model outputs and judgments for the revised manuscript (
 | `derived/` | Tables behind the manuscript (resources, reconstructed prompt tokens, per-category results, figure data). |
 | `human_eval/` | Anonymized human ratings and the code-to-pair mapping. Released fields are the label, reason tags and viewing time rounded to seconds; rater profile fields, free-text notes and exact timestamps were removed. |
 | `MANIFEST.json` | SHA-256 of every file in this package. |
+| `setup_layout.py`, `requirements.txt` | Layout and environment for re-running the analyses (below). |
 | `RENAMING_PATCHES.json`, `verify_locks.py` | See "Design name and lock verification" below. |
 
 ## Reproducing
 
-1. Install Ollama and pull the local models listed in the manuscript (Appendix E). Decoding is greedy; context 8,192 tokens.
-2. Scripts use absolute paths from the authors' machine (`C:/rbov2/...`); adjust `HERE`/`ROOT` constants at the top of each script.
-3. API keys are read from a local `.env` file that is not included. Frontier models were called with temperature 0. The judge models and DeepSeek-V3.2 were accessed through an OpenAI-compatible API gateway, and GPT-4o through the OpenAI API.
-4. KorQuAD contexts are not redistributed (CC BY-ND 4.0). Download KorQuAD 1.0 validation (`KorQuAD/squad_kor_v1`) and rebuild the bank with `code/judge_and_banks/build_korquad_bank.py`; `data/korquad/bank_korquad_ids.jsonl` lists the GUIDs in bank order.
-5. Each analysis script checks its lock file and reports `lock_drift`. Because of the renaming below, run `python verify_locks.py` for the lock check of this package.
+### Environment
+- Python 3.11 with the packages in `requirements.txt` (`pip install -r requirements.txt`). The listed versions are those used when the released analyses were re-run; the versions used at generation time were not recorded.
+- To regenerate model outputs: Ollama with the local models in Appendix E of the manuscript, context 8,192 tokens. All local calls use greedy decoding except self-consistency (SC3), whose first sample is greedy and whose other two samples use temperature 0.7 with seeds 1 and 2. Frontier models were called with temperature 0; the judge models and DeepSeek-V3.2 through an OpenAI-compatible API gateway and GPT-4o through the OpenAI API. API keys are read from a local `.env` file that is not included.
+
+### Re-running the analyses
+The scripts expect the directory layout of the original project. Recreate it from this package:
+
+```
+python setup_layout.py <target>
+cd <target>/revision
+```
+
+Then, from `<target>/revision`:
+
+| Manuscript item | Command |
+|---|---|
+| Table 4 (IFEval-Ko) | `python rbo_v2/analyze_ifeval.py` |
+| Tables 5–6 (ablations, assignments) | `python rbo_v2/analyze_ext.py` |
+| Table 8, Appendix D (KoAlpaca350) | `python rbo_v2/analyze_koalpaca350.py` |
+| Table 9 (human evaluation) | `python human_eval_2026_10/analyze.py human_eval_2026_10/returns --nine` |
+| Section 6.1 post hoc analyses | `python manuscript_v3/ifeval_coverage.py` |
+| Section 6.5 rater sensitivity | `python manuscript_v3/human_sensitivity.py` |
+| Calls, tokens and times (Tables 4, 7) | `python manuscript_v3/resources.py` |
+| Figure 2 | `python manuscript_v3/figures.py` |
+| Table 7 (KorQuAD, HRM8K) | `python rbo_v2/analyze_mathqa.py korquad` and `... hrm8k` (see below) |
+| Lock verification | `python verify_locks.py` (run in the package root, not in the layout) |
+
+`analyze_mathqa.py` first checks `MATHQA_LOCK.json`, which includes the KorQuAD bank. KorQuAD contexts are not redistributed (CC BY-ND 4.0), so rebuild the bank before running it: download the KorQuAD 1.0 validation rows from `KorQuAD/squad_kor_v1` into `rbo_s_v1/korquad_v1_validation.json` and run `python rbo_s_v1/build_korquad_bank.py`. A rebuilt bank that matches the lock hash confirms the item set. `reconstruct_prompt_tokens.py` also needs this bank.
+
+The judging runner `rbo_s_v1/gen_eval.py` imports modules from an earlier experiment that are not part of this paper. To re-judge pairs, call `gen_judge.judge_pair(item, text_a, text_b)` directly with the outputs in `rbo_s_v1/runs/`.
 
 ## Data licenses and attribution
 
@@ -49,4 +75,3 @@ The manuscript calls the redesigned system RBO v2 and the initial design RBO v1.
 - Development explorations that are not part of the manuscript are not included.
 - In `human_eval/returns/`, rater P07's file carries `"complete": false` because one decisive rating lacks a reason tag; all 61 main ratings of that rater are present and labeled.
 - `code/judge_and_banks/judge_client.py` also lists endpoints for judges that are not part of the reported panel; the reported panel is claude-opus-5, gemini-3-1-pro and kimi-k3 (`gen_judge.JUDGES`).
-- Self-consistency (SC3) uses temperature 0 for the first sample and 0.7 with seeds 1 and 2 for the others; all other local calls are greedy.
