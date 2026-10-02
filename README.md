@@ -75,3 +75,5 @@ The manuscript calls the redesigned system RBO v2 and the initial design RBO v1.
 - Development explorations that are not part of the manuscript are not included.
 - In `human_eval/returns/`, rater P07's file carries `"complete": false` because one decisive rating lacks a reason tag; all 61 main ratings of that rater are present and labeled.
 - `code/judge_and_banks/judge_client.py` also lists endpoints for judges that are not part of the reported panel; the reported panel is claude-opus-5, gemini-3-1-pro and kimi-k3 (`gen_judge.JUDGES`).
+- Known implementation limitation, left unchanged to keep the locked code: `rbo.py` and `rbo_qa.py` convert the sLM checker's `pass` field with Python `bool(...)`, so a JSON string such as `"false"` would count as a pass. Raw checker replies were not stored, so whether this occurred cannot be determined (manuscript Section 8, "Models and settings").
+- Fleiss' κ in `human_eval/RESULT.json` is computed on pairs whose three ratings are all A, B or tie (155 of 175 pairs; 29–34 per comparison).
